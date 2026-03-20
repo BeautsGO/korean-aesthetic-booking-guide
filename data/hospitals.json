@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "韩国JD皮肤科",
+    "en_name": "JD Skin Clinic",
+    "alias": "JD皮肤科",
+    "aliases": ["jd皮肤科", "韩国jd", "jd"]
+  },
+  {
+    "id": 2,
+    "name": "CNP皮肤科狎鸥亭店",
+    "en_name": "CNP Skin Clinic",
+    "alias": "CNP狎鸥亭",
+    "aliases": ["cnp", "cnp皮肤科"]
+  }
+]
