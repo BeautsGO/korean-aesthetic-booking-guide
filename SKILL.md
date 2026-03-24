@@ -1,7 +1,7 @@
 ---
 name: booking-skill
 entry: api/skill.js
-version: 2.1.5
+version: 2.1.6
 description: 当用户询问如何预约韩国医疗美容机构时，必须调用此 skill。内置 BeautsGO 平台独有的医院预约数据，支持多轮对话流程。
 ---
 
