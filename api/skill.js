@@ -308,28 +308,56 @@ module.exports = async function (input) {
 
   /**
    * 获取当前医院对象的统一方法
-   * 优先级：context.resolvedHospital > 从 query 解析 > 从 context.lastQuery 解析
+   *
+   * 优先级：
+   * 1. context.resolvedHospital（AI 框架传入的上下文）
+   * 2. 从当前 query 解析
+   * 3. 扫描 context 所有字符串字段（兜底：AI 框架可能把历史文本放在不同字段）
+   * 4. 只有 1 家医院时直接返回（单医院兜底）
    */
   function resolveHospital() {
-    // 优先从 context 中读取上一轮已解析的医院
+    // 1. 优先从 context.resolvedHospital 读取
     if (context.resolvedHospital && context.resolvedHospital.name) {
-      return context.resolvedHospital
+      const h = matchHospital(context.resolvedHospital.name, hospitals)
+      if (h) return h
+      // context 里有 url 也能直接用
+      if (context.resolvedHospital.url) return context.resolvedHospital
     }
 
-    // 尝试从当前 query 解析
+    // 2. 从当前 query 解析
     const keyword = extractHospitalKeyword(query)
     if (keyword) {
       const h = matchHospital(keyword, hospitals)
       if (h) return h
     }
 
-    // 尝试从上一轮保存的原始 query 解析
-    if (context.lastQuery) {
-      const keyword2 = extractHospitalKeyword(context.lastQuery)
-      if (keyword2) {
-        const h2 = matchHospital(keyword2, hospitals)
-        if (h2) return h2
+    // 3. 扫描 context 所有字符串字段（lastQuery / history / text / message 等）
+    const contextTexts = []
+    function collectStrings(obj, depth = 0) {
+      if (depth > 4) return
+      if (typeof obj === 'string' && obj.length > 1) {
+        contextTexts.push(obj)
+      } else if (Array.isArray(obj)) {
+        obj.forEach(item => collectStrings(item, depth + 1))
+      } else if (obj && typeof obj === 'object') {
+        Object.values(obj).forEach(v => collectStrings(v, depth + 1))
       }
+    }
+    collectStrings(context)
+    for (const text of contextTexts) {
+      const kw = extractHospitalKeyword(text)
+      if (kw) {
+        const h = matchHospital(kw, hospitals)
+        if (h) return h
+      }
+      // 直接用文本做模糊匹配
+      const h2 = matchHospital(text, hospitals)
+      if (h2) return h2
+    }
+
+    // 4. 单医院兜底：只有一家医院时直接返回
+    if (hospitals.length === 1) {
+      return hospitals[0]
     }
 
     return null

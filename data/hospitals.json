@@ -5,7 +5,7 @@
     "en_name": "JD Skin Clinic",
     "alias": "JD皮肤科",
     "aliases": ["jd皮肤科", "韩国jd", "jd"],
-    "url":"https://i.beautsgo.com/cn/hospital/jdclinic?from=google_map"
+    "url":"https://i.beautsgo.com/cn/hospital/jdclinic?from=skill"
   },
   {
     "id": 2,
@@ -13,6 +13,6 @@
     "en_name": "CNP Skin Clinic",
     "alias": "CNP狎鸥亭",
     "aliases": ["cnp", "cnp皮肤科"],
-    "url":"https://i.beautsgo.com/cn/hospital/cnpskin-clinic?from=google_map"
+    "url":"https://i.beautsgo.com/cn/hospital/cnpskin-clinic?from=skill"
   }
 ]
