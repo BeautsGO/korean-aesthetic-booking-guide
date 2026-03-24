@@ -60,7 +60,7 @@ function getAllHospitalNames(hospitals) {
 }
 
 /**
- * 打开浏览器
+ * 打开浏览器（系统默认浏览器，用于简单打开链接）
  */
 async function openBrowser(url) {
   try {
@@ -80,17 +80,77 @@ async function openBrowser(url) {
 }
 
 /**
+ * 创建一个预授权的 Playwright 页面（避免权限弹窗）
+ * 用于自动化场景，自动点击"允许"按钮
+ * 返回 { browser, page }，调用方负责关闭 browser
+ */
+async function createAuthorizedPage(url) {
+  const browser = await playwright.chromium.launch({
+    headless: false,
+    args: [
+      // 禁止浏览器弹出"打开外部应用"对话框
+      '--disable-external-intent-requests',
+      '--disable-features=ExternalProtocolDialog',
+      '--no-default-browser-check',
+    ]
+  })
+
+  // 预授权所有可能触发弹窗的权限
+  const context = await browser.newContext({
+    permissions: [
+      'geolocation',
+      'notifications',
+      'clipboard-read',
+      'clipboard-write',
+    ],
+    bypassCSP: true,
+  })
+
+  // 拦截 dialog 弹窗，全部自动接受
+  context.on('page', page => {
+    page.on('dialog', async dialog => {
+      console.log(`[Booking Skill] Auto-accepting dialog: ${dialog.type()} - ${dialog.message()}`)
+      await dialog.accept().catch(() => dialog.dismiss().catch(() => {}))
+    })
+  })
+
+  const page = await context.newPage()
+
+  // 拦截自定义协议跳转（如 beautsgo:// / intent:// 等），直接阻断避免弹窗
+  await page.route('**/*', async (route) => {
+    const reqUrl = route.request().url()
+    if (!reqUrl.startsWith('http://') && !reqUrl.startsWith('https://')) {
+      console.log(`[Booking Skill] Blocked custom protocol: ${reqUrl}`)
+      await route.abort()
+    } else {
+      await route.continue()
+    }
+  })
+
+  // page 本身的 dialog 监听
+  page.on('dialog', async dialog => {
+    console.log(`[Booking Skill] Page dialog auto-accepted: ${dialog.type()} - ${dialog.message()}`)
+    await dialog.accept().catch(() => dialog.dismiss().catch(() => {}))
+  })
+
+  await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 }).catch(() => {
+    console.warn('[Booking Skill] networkidle timeout, continuing anyway')
+  })
+
+  console.log(`[Booking Skill] Page loaded: ${url}`)
+  return { browser, page }
+}
+
+/**
  * 自动点击预约按钮
  */
 async function clickBookingButton(url) {
   let browser
   try {
-    browser = await playwright.chromium.launch({ headless: false })
-    const context = await browser.newContext()
-    const page = await context.newPage()
+    const result = await createAuthorizedPage(url)
+    browser = result.browser
+    const page = result.page
 
-    await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 }).catch(() => {})
-    console.log(`[Booking Skill] Page loaded: ${url}`)
     await page.waitForTimeout(5000)
 
     // 等待预约按钮出现
@@ -144,12 +204,9 @@ async function clickBookingButton(url) {
 async function clickConsultButton(url) {
   let browser
   try {
-    browser = await playwright.chromium.launch({ headless: false })
-    const context = await browser.newContext()
-    const page = await context.newPage()
-
-    console.log(`[Booking Skill] Loading page: ${url}`)
-    await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 }).catch(() => {})
+    const result = await createAuthorizedPage(url)
+    browser = result.browser
+    const page = result.page
 
     console.log(`[Booking Skill] Waiting for Vue components to render...`)
     await page.waitForTimeout(8000)
