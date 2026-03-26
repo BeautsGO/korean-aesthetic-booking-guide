@@ -1,3 +1,9 @@
+---
+layout: default
+title: "choice line塑体医院"
+lang: ja
+---
+
 ## choice line塑体医院 予約ガイド
 
 🔗 こちらから直接予約：

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theia clinic"
+lang: zh
+---
+
 ## theia 皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/theia-clinic?from=skill

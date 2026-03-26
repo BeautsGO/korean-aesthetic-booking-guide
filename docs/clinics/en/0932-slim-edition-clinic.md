@@ -1,3 +1,9 @@
+---
+layout: default
+title: "slim edition clinic"
+lang: en
+---
+
 ## slim吸脂医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/slim-edition-clinic?from=skill

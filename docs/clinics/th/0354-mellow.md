@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mellow"
+lang: th
+---
+
 ## mellow皮肤科 清潭店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/mellow?from=skill

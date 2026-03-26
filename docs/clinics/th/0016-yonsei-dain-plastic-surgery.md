@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yonsei Dain Plastic Surgery"
+lang: th
+---
+
 ## 延世多仁整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/yonsei-dain-plastic-surgery?from=skill

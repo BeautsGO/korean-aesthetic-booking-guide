@@ -1,3 +1,9 @@
+---
+layout: default
+title: "THE PLASTIC SURGERY"
+lang: en
+---
+
 ## THE整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/the-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nshine clinic"
+lang: th
+---
+
 ## 清潭nshine医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/nshine-clinic?from=skill

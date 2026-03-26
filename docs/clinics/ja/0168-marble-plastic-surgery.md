@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Marble Plastic Surgery"
+lang: ja
+---
+
 ## 玛博尔整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/marble-plastic-surgery?from=skill

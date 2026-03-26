@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Facebone Plastic Surgery"
+lang: ja
+---
+
 ## 脸Bone整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/facebone-plastic-surgery?from=skill

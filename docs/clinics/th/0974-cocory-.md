@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cocory 弘大分店"
+lang: th
+---
+
 ## Cocory 弘大分店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

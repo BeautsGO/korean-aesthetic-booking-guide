@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cheongdam Arden Dermatology"
+lang: th
+---
+
 ## 清潭arden皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cheongdam-arden-dermatology?from=skill

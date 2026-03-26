@@ -1,3 +1,9 @@
+---
+layout: default
+title: "realee plastic surgery clinic"
+lang: th
+---
+
 ## 丽尔丽整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/realee-plastic-surgery-clinic?from=skill

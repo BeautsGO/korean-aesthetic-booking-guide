@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CLEANTATTOO"
+lang: en
+---
+
 ## 科琳挞图皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/cleantattoo?from=skill

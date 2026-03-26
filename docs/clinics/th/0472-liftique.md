@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Liftique皮肤科"
+lang: th
+---
+
 ## Liftique皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

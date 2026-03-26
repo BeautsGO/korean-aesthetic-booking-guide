@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Brighten skin"
+lang: ja
+---
+
 ## BTN皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/brighten-skin?from=skill

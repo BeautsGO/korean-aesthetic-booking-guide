@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wonjin Plastic Surgery"
+lang: zh
+---
+
 ## 原辰整形外科医院&皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/wonjin-plastic-surgery?from=skill

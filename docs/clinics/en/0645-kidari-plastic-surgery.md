@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kidari Plastic Surgery"
+lang: en
+---
+
 ## 可大丽整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/kidari-plastic-surgery?from=skill

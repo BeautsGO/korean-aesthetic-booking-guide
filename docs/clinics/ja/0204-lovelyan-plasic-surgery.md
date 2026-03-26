@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LOVELYAN PLASIC SURGERY"
+lang: ja
+---
+
 ## 乐于丽颜整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lovelyan-plasic-surgery?from=skill

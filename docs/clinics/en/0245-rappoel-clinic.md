@@ -1,3 +1,9 @@
+---
+layout: default
+title: "rappoel clinic"
+lang: en
+---
+
 ## rappoel医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/rappoel-clinic?from=skill

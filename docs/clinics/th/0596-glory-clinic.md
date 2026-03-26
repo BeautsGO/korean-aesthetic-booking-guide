@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Glory Clinic"
+lang: th
+---
+
 ## glory皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/glory-clinic?from=skill

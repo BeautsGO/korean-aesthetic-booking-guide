@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DU Plastic Surgery"
+lang: ja
+---
+
 ## DU整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/du-plastic-surgery?from=skill

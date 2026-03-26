@@ -1,3 +1,9 @@
+---
+layout: default
+title: "G7 clinic"
+lang: ja
+---
+
 ## G7医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/g7-clinic?from=skill

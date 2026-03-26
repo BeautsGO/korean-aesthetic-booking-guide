@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Glovi Plastic Surgery"
+lang: en
+---
+
 ## 歌柔飞整形外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/glovi-plastic-surgery?from=skill

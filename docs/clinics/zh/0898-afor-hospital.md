@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Afor Hospital"
+lang: zh
+---
+
 ## afor医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/afor-hospital?from=skill

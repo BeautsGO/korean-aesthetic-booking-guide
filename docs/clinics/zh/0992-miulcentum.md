@@ -1,3 +1,9 @@
+---
+layout: default
+title: "miul皮肤科（釜山Centum）"
+lang: zh
+---
+
 ## miul皮肤科（釜山Centum） 预约指南
 
 🔗 点击直达预约页面：

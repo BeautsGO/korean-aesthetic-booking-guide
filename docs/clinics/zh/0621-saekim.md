@@ -1,3 +1,9 @@
+---
+layout: default
+title: "saekim"
+lang: zh
+---
+
 ## 世金整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/saekim?from=skill

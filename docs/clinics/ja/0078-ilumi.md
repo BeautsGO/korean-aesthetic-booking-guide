@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ilumi"
+lang: ja
+---
+
 ## 一路美整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ilumi?from=skill

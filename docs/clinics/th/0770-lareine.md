@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lareine"
+lang: th
+---
+
 ## 江南lareine医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lareine?from=skill

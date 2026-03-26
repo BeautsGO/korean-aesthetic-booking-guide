@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BEAUTY & YOUNG CLINIC"
+lang: th
+---
+
 ## beauty&young คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/beauty-young-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "reyeonk"
+lang: en
+---
+
 ## 丽延k Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/reyeonk?from=skill

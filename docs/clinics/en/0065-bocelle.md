@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BOCELLE"
+lang: en
+---
+
 ## 宝士丽医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/bocelle?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "you&me clinic"
+lang: ja
+---
+
 ## you&me皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/youme-clinic?from=skill

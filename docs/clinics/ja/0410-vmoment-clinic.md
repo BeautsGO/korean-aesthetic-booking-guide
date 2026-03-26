@@ -1,3 +1,9 @@
+---
+layout: default
+title: "V·MOMENT CLINIC"
+lang: ja
+---
+
 ## vmoment医院皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/vmoment-clinic?from=skill

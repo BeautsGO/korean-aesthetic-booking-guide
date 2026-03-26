@@ -1,3 +1,9 @@
+---
+layout: default
+title: "4everjeju"
+lang: th
+---
+
 ## 济州4ever jeju คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/4everjeju?from=skill

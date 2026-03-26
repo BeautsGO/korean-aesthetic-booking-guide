@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sinsoe Clinic"
+lang: zh
+---
+
 ## 信所爱女性医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/sinsoe-clinic?from=skill

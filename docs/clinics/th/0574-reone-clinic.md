@@ -1,3 +1,9 @@
+---
+layout: default
+title: "re:one clinic"
+lang: th
+---
+
 ## reone皮肤科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/reone-clinic?from=skill

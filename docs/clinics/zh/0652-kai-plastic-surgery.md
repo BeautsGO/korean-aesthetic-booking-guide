@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kai Plastic Surgery"
+lang: zh
+---
+
 ## 开开整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/kai-plastic-surgery?from=skill

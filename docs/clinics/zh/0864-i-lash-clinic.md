@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I Lash Clinic"
+lang: zh
+---
+
 ## I Lash Clinic 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/i-lash-clinic?from=skill

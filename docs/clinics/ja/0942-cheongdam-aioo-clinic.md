@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cheongdam AIOO Clinic"
+lang: ja
+---
+
 ## 清潭AIOO Clinic 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/cheongdam-aioo-clinic?from=skill

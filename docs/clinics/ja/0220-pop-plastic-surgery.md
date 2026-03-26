@@ -1,3 +1,9 @@
+---
+layout: default
+title: "POP Plastic surgery"
+lang: ja
+---
+
 ## POP整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/pop-plastic-surgery?from=skill

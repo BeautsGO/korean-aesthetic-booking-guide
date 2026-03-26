@@ -1,3 +1,9 @@
+---
+layout: default
+title: "TANG:GLE PLASTIC SURGERY"
+lang: th
+---
+
 ## TANG:GLE整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/tanggle-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bioface"
+lang: th
+---
+
 ## bioface皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/bioface?from=skill

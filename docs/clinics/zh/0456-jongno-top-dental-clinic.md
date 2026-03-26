@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jongno TOP Dental Clinic"
+lang: zh
+---
+
 ## 钟路TOP齿科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/jongno-top-dental-clinic?from=skill

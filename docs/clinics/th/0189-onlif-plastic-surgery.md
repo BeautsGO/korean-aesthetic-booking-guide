@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Onlif plastic surgery"
+lang: th
+---
+
 ## Onlif整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/onlif-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sketch plastic surgery"
+lang: ja
+---
+
 ## 思凯琦整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/sketch-plastic-surgery?from=skill

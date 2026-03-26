@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cocory 延禧总店"
+lang: ja
+---
+
 ## Cocory 延禧总店 予約ガイド
 
 🔗 こちらから直接予約：

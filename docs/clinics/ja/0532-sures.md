@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sures整形外科"
+lang: ja
+---
+
 ## Sures整形外科 予約ガイド
 
 🔗 こちらから直接予約：

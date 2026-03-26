@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Seoul Laya Dental"
+lang: zh
+---
+
 ## 首尔啦啦牙科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/seoul-laya-dental?from=skill

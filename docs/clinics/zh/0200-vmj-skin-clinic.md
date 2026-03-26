@@ -1,3 +1,9 @@
+---
+layout: default
+title: "V&MJ skin clinic"
+lang: zh
+---
+
 ## vmj皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/vmj-skin-clinic?from=skill

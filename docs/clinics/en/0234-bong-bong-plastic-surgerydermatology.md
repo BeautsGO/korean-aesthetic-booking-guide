@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Bong Bong Plastic Surgery&Dermatology"
+lang: en
+---
+
 ## 棒棒整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/bong-bong-plastic-surgerydermatology?from=skill

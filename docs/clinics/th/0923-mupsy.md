@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MUPSY"
+lang: th
+---
+
 ## MUPSY釜山店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/mupsy?from=skill

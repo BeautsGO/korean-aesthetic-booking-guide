@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Toxnfill Sinsa"
+lang: ja
+---
+
 ## toxnfill 新论岘店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/toxnfill-sinsa?from=skill

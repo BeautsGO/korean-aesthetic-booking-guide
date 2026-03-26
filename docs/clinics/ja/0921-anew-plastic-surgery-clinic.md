@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ANEW PLASTIC SURGERY CLINIC"
+lang: ja
+---
+
 ## 新整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/anew-plastic-surgery-clinic?from=skill

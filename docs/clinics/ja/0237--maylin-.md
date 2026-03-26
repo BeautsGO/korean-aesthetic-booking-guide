@@ -1,3 +1,9 @@
+---
+layout: default
+title: "前 maylin 医院"
+lang: ja
+---
+
 ## blancdevie（狎鸥亭店） 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/maylin?from=skill

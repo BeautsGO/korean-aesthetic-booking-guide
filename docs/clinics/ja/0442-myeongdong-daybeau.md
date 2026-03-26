@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Myeongdong Daybeau"
+lang: ja
+---
+
 ## 明洞daybeau 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/myeongdong-daybeau?from=skill

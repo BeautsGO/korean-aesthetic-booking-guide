@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Little Princess Plastic Surgery"
+lang: en
+---
+
 ## 小公主整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/little-princess-plastic-surgery?from=skill

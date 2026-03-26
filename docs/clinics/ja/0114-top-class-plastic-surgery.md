@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Top Class Plastic Surgery"
+lang: ja
+---
+
 ## Topclass整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/top-class-plastic-surgery?from=skill

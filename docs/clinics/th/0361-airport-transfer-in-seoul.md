@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Airport transfer in Seoul"
+lang: th
+---
+
 ## 首尔接送机 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/airport-transfer-in-seoul?from=skill

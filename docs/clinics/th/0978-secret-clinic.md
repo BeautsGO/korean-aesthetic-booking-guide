@@ -1,3 +1,9 @@
+---
+layout: default
+title: "secret clinic"
+lang: th
+---
+
 ## 希瑞特医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/secret-clinic?from=skill

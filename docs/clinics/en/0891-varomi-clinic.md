@@ -1,3 +1,9 @@
+---
+layout: default
+title: "varomi clinic"
+lang: en
+---
+
 ## varomi clinic Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/varomi-clinic?from=skill

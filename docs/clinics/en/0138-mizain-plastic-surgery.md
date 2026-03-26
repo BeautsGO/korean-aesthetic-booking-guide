@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mizain Plastic Surgery"
+lang: en
+---
+
 ## 美自人整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/mizain-plastic-surgery?from=skill

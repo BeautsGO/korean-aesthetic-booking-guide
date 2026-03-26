@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Volume Plastic Surgery"
+lang: th
+---
+
 ## 波轮美整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/volume-plastic-surgery?from=skill

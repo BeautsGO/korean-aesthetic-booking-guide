@@ -1,3 +1,9 @@
+---
+layout: default
+title: "imageup clinic"
+lang: ja
+---
+
 ## 伊美芝皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/imageup-clinic?from=skill

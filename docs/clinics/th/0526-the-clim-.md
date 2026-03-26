@@ -1,3 +1,9 @@
+---
+layout: default
+title: "the-clim 妇科"
+lang: th
+---
+
 ## the-clim 妇科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

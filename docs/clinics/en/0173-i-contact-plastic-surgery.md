@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I CONTACT PLASTIC SURGERY"
+lang: en
+---
+
 ## I Contact整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/i-contact-plastic-surgery?from=skill

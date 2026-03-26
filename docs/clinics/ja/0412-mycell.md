@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MYCELL"
+lang: ja
+---
+
 ## mycell医院首尔店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mycell?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "wonderfulps"
+lang: ja
+---
+
 ## wonderful整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/wonderfulps?from=skill

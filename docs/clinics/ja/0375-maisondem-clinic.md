@@ -1,3 +1,9 @@
+---
+layout: default
+title: "maisondeM clinic"
+lang: ja
+---
+
 ## 梅宗德医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/maisondem-clinic?from=skill

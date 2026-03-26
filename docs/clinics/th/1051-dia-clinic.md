@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dia clinic"
+lang: th
+---
+
 ## 江南黛雅皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/dia-clinic?from=skill

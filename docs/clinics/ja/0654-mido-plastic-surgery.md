@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MIDO Plastic Surgery"
+lang: ja
+---
+
 ## 延世美都整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mido-plastic-surgery?from=skill

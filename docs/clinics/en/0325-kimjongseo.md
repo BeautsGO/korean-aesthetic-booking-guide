@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kimjongseo"
+lang: en
+---
+
 ## 金钟瑞整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/kimjongseo?from=skill

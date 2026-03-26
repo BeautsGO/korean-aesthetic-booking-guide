@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Drelaser Dermatology"
+lang: ja
+---
+
 ## Drelaser皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/drelaser-dermatology?from=skill

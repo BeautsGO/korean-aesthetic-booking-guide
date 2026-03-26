@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Grace Plastic Surgery"
+lang: th
+---
+
 ## 格瑞丝噢爱美整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/grace-plastic-surgery?from=skill

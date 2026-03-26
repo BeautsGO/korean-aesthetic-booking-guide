@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ING Plastic Surgery Clinic"
+lang: en
+---
+
 ## ING整形医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ing-plastic-surgery-clinic?from=skill

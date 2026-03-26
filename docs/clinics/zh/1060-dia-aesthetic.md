@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DIA AESTHETIC"
+lang: zh
+---
+
 ## 钻石美容院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/dia-aesthetic?from=skill

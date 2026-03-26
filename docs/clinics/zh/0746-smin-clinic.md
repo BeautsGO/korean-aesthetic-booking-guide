@@ -1,3 +1,9 @@
+---
+layout: default
+title: "smin clinic"
+lang: zh
+---
+
 ## 清潭smin 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/smin-clinic?from=skill

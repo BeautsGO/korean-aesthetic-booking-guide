@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Next Plastic Surgery"
+lang: th
+---
+
 ## NEXT整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/next-plastic-surgery?from=skill

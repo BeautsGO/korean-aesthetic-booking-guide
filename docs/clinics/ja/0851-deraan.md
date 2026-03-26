@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Deraan"
+lang: ja
+---
+
 ## 德安皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/deraan?from=skill

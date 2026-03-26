@@ -1,3 +1,9 @@
+---
+layout: default
+title: "iris dermatology clinic"
+lang: ja
+---
+
 ## 圣水艾瑞诗皮肤科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/iris-dermatology-clinic?from=skill

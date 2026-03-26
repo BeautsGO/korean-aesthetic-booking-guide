@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Bom Maru Clinic"
+lang: zh
+---
+
 ## Bom Maru医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/bom-maru-clinic?from=skill

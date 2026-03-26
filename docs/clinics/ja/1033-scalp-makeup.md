@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Scalp Makeup"
+lang: ja
+---
+
 ## Scalp Makeup头皮半永久 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/scalp-makeup?from=skill

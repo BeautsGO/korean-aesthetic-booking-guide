@@ -1,3 +1,9 @@
+---
+layout: default
+title: "U You clinic"
+lang: ja
+---
+
 ## U You clinic 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/u-you-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "3H Cosmetic dental clinic"
+lang: en
+---
+
 ## 三小时牙科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/3h-cosmetic-dental-clinic?from=skill

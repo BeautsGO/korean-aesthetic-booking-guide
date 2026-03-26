@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Genius Clinic Busan Seomyeon"
+lang: th
+---
+
 ## genius clinic 釜山西面 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/genius-clinic-busan-seomyeon?from=skill

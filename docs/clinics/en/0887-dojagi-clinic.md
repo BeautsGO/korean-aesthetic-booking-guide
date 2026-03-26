@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dojagi clinic"
+lang: en
+---
+
 ## 陶瓷医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/dojagi-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "skylakesin"
+lang: ja
+---
+
 ## 天空湖水皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/skylakesin?from=skill

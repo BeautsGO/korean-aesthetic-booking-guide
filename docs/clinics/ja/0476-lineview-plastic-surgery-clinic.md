@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Line&View Plastic Surgery Clinic"
+lang: ja
+---
+
 ## Line&View整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lineview-plastic-surgery-clinic?from=skill

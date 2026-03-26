@@ -1,3 +1,9 @@
+---
+layout: default
+title: "orsayun clinic"
+lang: th
+---
+
 ## orsayun医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/orsayun-clinic?from=skill

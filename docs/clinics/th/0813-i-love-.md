@@ -1,3 +1,9 @@
+---
+layout: default
+title: "i love 整形外科"
+lang: th
+---
+
 ## i love 整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

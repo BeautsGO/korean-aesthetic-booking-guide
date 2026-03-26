@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Verygood Plastic Surgery"
+lang: ja
+---
+
 ## 百利酷整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/verygood-plastic-surgery?from=skill

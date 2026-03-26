@@ -1,3 +1,9 @@
+---
+layout: default
+title: "serene clinic"
+lang: ja
+---
+
 ## 圣水serene 皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/serene-clinic?from=skill

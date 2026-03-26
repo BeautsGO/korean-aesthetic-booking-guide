@@ -1,3 +1,9 @@
+---
+layout: default
+title: "jelim plastic surgery"
+lang: ja
+---
+
 ## jelim整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jelim-plastic-surgery?from=skill

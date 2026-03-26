@@ -1,3 +1,9 @@
+---
+layout: default
+title: "TANG:GLE PLASTIC SURGERY"
+lang: ja
+---
+
 ## TANG:GLE整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/tanggle-plastic-surgery?from=skill

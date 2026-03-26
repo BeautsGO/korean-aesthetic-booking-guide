@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Toxnfill Sinsa"
+lang: th
+---
+
 ## toxnfill 新论岘店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/toxnfill-sinsa?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Flow SPA Seoul"
+lang: th
+---
+
 ## Flow SPA Seoul คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/flow-spa-seoul?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sam Studio"
+lang: en
+---
+
 ## Sam Studio Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/sam-studio?from=skill

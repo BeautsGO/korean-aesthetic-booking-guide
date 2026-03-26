@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dream Face"
+lang: zh
+---
+
 ## Dream Face 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/dream-face?from=skill

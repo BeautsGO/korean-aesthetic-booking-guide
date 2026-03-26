@@ -1,3 +1,9 @@
+---
+layout: default
+title: "354 Plastic Surgery"
+lang: en
+---
+
 ## 345整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/354-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sage clinic"
+lang: en
+---
+
 ## sage 明星直腿医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/sage-clinic?from=skill

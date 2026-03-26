@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LIJIN clinic"
+lang: zh
+---
+
 ## 明洞lijin皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/lijin-clinic?from=skill

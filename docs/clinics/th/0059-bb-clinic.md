@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BB Clinic"
+lang: th
+---
+
 ## BB医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/bb-clinic?from=skill

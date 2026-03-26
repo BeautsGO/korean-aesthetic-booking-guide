@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DAN-A CLINIC"
+lang: zh
+---
+
 ## 明洞丹雅皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/dan-a-clinic?from=skill

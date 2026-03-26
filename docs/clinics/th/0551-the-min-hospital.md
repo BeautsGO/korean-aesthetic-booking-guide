@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Min Hospital"
+lang: th
+---
+
 ## 民医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/the-min-hospital?from=skill

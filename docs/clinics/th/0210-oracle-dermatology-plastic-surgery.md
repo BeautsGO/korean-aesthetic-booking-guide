@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Oracle Dermatology Plastic Surgery"
+lang: th
+---
+
 ## 奥拉克皮肤科 整形外科(清潭店） คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/oracle-dermatology-plastic-surgery?from=skill

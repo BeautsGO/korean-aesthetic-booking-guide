@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Beauty Blossom Dermatology"
+lang: ja
+---
+
 ## 丽朵Beauty blossom皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/beauty-blossom-dermatology?from=skill

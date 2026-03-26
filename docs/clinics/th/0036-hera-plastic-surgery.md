@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hera Plastic surgery"
+lang: th
+---
+
 ## 赫拉整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/hera-plastic-surgery?from=skill

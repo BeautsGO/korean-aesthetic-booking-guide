@@ -1,3 +1,9 @@
+---
+layout: default
+title: "euro clinic"
+lang: th
+---
+
 ## 优容整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/euro-clinic?from=skill

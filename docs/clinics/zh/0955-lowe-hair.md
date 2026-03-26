@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lowe hair"
+lang: zh
+---
+
 ## 圣水lowe hair 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/lowe-hair?from=skill

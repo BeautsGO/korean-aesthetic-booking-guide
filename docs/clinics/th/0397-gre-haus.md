@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gre Haus"
+lang: th
+---
+
 ## 弘大GRE HAUS คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/gre-haus?from=skill

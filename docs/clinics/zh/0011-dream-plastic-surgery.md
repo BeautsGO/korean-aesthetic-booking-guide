@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dream Plastic Surgery"
+lang: zh
+---
+
 ## 梦想整形外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/dream-plastic-surgery?from=skill

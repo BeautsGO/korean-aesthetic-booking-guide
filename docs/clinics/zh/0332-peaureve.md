@@ -1,3 +1,9 @@
+---
+layout: default
+title: "peaureve"
+lang: zh
+---
+
 ## 清潭peaureve皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/peaureve?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cnp skin Apgujeong"
+lang: en
+---
+
 ## CNP皮肤科狎鸥亭店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/cnp-skin-apgujeong?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yellow Plastic Surgery"
+lang: en
+---
+
 ## Yellow整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/yellow-plastic-surgery?from=skill

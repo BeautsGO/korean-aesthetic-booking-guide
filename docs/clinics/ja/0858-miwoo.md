@@ -1,3 +1,9 @@
+---
+layout: default
+title: "济州岛miwoo整形外科"
+lang: ja
+---
+
 ## 济州岛miwoo整形外科 予約ガイド
 
 🔗 こちらから直接予約：

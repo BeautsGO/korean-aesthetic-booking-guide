@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Why clinic"
+lang: ja
+---
+
 ## why口腔颌面外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/why-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "varomi clinic"
+lang: zh
+---
+
 ## varomi clinic 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/varomi-clinic?from=skill

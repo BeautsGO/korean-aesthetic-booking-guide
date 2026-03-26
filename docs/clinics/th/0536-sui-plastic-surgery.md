@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SU:I Plastic Surgery"
+lang: th
+---
+
 ## SU i 整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/sui-plastic-surgery?from=skill

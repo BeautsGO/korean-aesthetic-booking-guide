@@ -1,3 +1,9 @@
+---
+layout: default
+title: "APGUJEONGTOPLINE"
+lang: th
+---
+
 ## 狎鸥亭topline医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/apgujeongtopline?from=skill

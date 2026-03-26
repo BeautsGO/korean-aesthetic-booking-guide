@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MIINDO Dermatology"
+lang: ja
+---
+
 ## MIINDO皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/miindo-dermatology?from=skill

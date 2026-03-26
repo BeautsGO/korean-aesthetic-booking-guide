@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Leshine"
+lang: th
+---
+
 ## Leshine คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vands Clinic Sinsa"
+lang: en
+---
+
 ## 本思医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/vands-clinic-sinsa?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "highend"
+lang: ja
+---
+
 ## 合意言得整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/highend?from=skill

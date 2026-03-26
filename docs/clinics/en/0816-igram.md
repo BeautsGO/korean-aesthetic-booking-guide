@@ -1,3 +1,9 @@
+---
+layout: default
+title: "igram"
+lang: en
+---
+
 ## igram整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/igram?from=skill

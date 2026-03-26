@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nshine clinic"
+lang: en
+---
+
 ## 清潭nshine医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/nshine-clinic?from=skill

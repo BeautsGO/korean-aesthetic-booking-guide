@@ -1,3 +1,9 @@
+---
+layout: default
+title: "thefix 整形外科"
+lang: th
+---
+
 ## thefix 整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

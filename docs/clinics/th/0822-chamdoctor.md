@@ -1,3 +1,9 @@
+---
+layout: default
+title: "chamdoctor医院"
+lang: th
+---
+
 ## chamdoctor医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

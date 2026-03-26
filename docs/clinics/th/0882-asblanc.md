@@ -1,3 +1,9 @@
+---
+layout: default
+title: "asblanc现代百货千户店"
+lang: th
+---
+
 ## asblanc现代百货千户店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

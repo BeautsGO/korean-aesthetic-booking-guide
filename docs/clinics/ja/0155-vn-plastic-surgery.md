@@ -1,3 +1,9 @@
+---
+layout: default
+title: "VN PLASTIC SURGERY"
+lang: ja
+---
+
 ## VN整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/vn-plastic-surgery?from=skill

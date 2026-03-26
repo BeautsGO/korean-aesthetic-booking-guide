@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Seoul Miz Hospital"
+lang: th
+---
+
 ## 首尔米兹医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/seoul-miz-hospital?from=skill

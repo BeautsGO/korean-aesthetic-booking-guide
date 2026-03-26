@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kai Plastic Surgery"
+lang: ja
+---
+
 ## 开开整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/kai-plastic-surgery?from=skill

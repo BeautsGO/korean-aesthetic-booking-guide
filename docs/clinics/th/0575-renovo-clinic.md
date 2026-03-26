@@ -1,3 +1,9 @@
+---
+layout: default
+title: "renovo clinic"
+lang: th
+---
+
 ## renovo医院狎鸥亭店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/renovo-clinic?from=skill

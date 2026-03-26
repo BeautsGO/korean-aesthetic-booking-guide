@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kplus整形外科医院"
+lang: en
+---
+
 ## kplus整形外科医院 Booking Guide
 
 🔗 Book directly here: 

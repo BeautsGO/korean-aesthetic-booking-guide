@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LUCID DENTAL CLINIC"
+lang: zh
+---
+
 ## LUCID牙科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/lucid-dental-clinic?from=skill

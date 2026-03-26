@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ONE HOPE CLINIC"
+lang: ja
+---
+
 ## 哈娜希望医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/one-hope-clinic?from=skill

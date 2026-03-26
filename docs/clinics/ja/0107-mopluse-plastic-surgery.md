@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MOPLUSE PLASTIC SURGERY"
+lang: ja
+---
+
 ## 毛家毛发移植医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mopluse-plastic-surgery?from=skill

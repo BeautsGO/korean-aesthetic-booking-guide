@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EYEHO PLASTIC SURGERY"
+lang: ja
+---
+
 ## 爱护整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/eyeho-plastic-surgery?from=skill

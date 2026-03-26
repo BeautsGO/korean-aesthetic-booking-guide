@@ -1,3 +1,9 @@
+---
+layout: default
+title: "blessingskin"
+lang: en
+---
+
 ## 祝福皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/blessingskin?from=skill

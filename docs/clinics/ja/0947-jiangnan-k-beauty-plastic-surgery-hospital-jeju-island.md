@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jiangnan K-Beauty Plastic Surgery Hospital (Jeju Island)"
+lang: ja
+---
+
 ## 江南K-Beauty整形外科医院（济州岛） 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jiangnan-k-beauty-plastic-surgery-hospital-jeju-island?from=skill

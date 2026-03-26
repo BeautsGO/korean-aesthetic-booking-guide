@@ -1,3 +1,9 @@
+---
+layout: default
+title: "doctorpetit"
+lang: en
+---
+
 ## 朵戈芙蒂皮肤科弘大店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/doctorpetit?from=skill

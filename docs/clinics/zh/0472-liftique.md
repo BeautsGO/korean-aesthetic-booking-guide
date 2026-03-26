@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Liftique皮肤科"
+lang: zh
+---
+
 ## Liftique皮肤科 预约指南
 
 🔗 点击直达预约页面：

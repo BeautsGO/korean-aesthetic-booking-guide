@@ -1,3 +1,9 @@
+---
+layout: default
+title: "s-medi center"
+lang: en
+---
+
 ## s-medi体检中心 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/s-medi-center?from=skill

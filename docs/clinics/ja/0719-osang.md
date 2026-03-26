@@ -1,3 +1,9 @@
+---
+layout: default
+title: "osang"
+lang: ja
+---
+
 ## osang神经外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/osang?from=skill

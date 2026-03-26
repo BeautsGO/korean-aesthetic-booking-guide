@@ -1,3 +1,9 @@
+---
+layout: default
+title: "poen clinic"
+lang: ja
+---
+
 ## poen医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/poen-clinic?from=skill

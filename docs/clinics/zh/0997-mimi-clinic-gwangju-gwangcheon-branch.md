@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mimi Clinic (Gwangju Gwangcheon Branch)"
+lang: zh
+---
+
 ## 米米诊所(光州广川店) 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/mimi-clinic-gwangju-gwangcheon-branch?from=skill

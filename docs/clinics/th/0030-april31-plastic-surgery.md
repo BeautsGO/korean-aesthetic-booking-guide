@@ -1,3 +1,9 @@
+---
+layout: default
+title: "APRIL31 PLASTIC SURGERY"
+lang: th
+---
+
 ## 431整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/april31-plastic-surgery?from=skill

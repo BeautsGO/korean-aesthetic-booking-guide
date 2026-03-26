@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JY PLASTIC SURGERY"
+lang: ja
+---
+
 ## JY整形外科&皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jy-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MYCELL"
+lang: th
+---
+
 ## mycell医院首尔店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/mycell?from=skill

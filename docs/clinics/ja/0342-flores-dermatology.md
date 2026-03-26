@@ -1,3 +1,9 @@
+---
+layout: default
+title: "FLORES Dermatology"
+lang: ja
+---
+
 ## 弗洛雷斯皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/flores-dermatology?from=skill

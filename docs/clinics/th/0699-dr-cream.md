@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dr cream吸脂中心"
+lang: th
+---
+
 ## dr cream吸脂中心 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

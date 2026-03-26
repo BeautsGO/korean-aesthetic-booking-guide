@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ASBLANC"
+lang: ja
+---
+
 ## ASBLANC 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/asblanc?from=skill

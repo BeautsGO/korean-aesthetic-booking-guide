@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gre Haus"
+lang: zh
+---
+
 ## 弘大GRE HAUS 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/gre-haus?from=skill

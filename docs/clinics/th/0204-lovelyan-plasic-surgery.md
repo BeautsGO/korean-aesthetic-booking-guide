@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LOVELYAN PLASIC SURGERY"
+lang: th
+---
+
 ## 乐于丽颜整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lovelyan-plasic-surgery?from=skill

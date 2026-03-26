@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wune Plastic Surgery"
+lang: ja
+---
+
 ## WUNE整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/wune-plastic-surgery?from=skill

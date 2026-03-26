@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cocory"
+lang: zh
+---
+
 ## Cocory 江南分店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/cocory?from=skill

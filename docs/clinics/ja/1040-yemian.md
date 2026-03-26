@@ -1,3 +1,9 @@
+---
+layout: default
+title: "釜山Yemian皮肤科"
+lang: ja
+---
+
 ## 釜山Yemian皮肤科 予約ガイド
 
 🔗 こちらから直接予約：

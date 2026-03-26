@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dojagi clinic"
+lang: zh
+---
+
 ## 陶瓷医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/dojagi-clinic?from=skill

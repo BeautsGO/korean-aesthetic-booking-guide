@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chai Plastic Surgery Clinic"
+lang: ja
+---
+
 ## CHAI整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/chai-plastic-surgery-clinic?from=skill

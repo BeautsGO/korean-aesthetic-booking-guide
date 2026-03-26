@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Labom Plastic Surgery"
+lang: zh
+---
+
 ## 拉本整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/labom-plastic-surgery?from=skill

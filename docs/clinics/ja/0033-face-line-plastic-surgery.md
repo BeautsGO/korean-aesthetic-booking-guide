@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Face Line Plastic Surgery"
+lang: ja
+---
+
 ## 菲斯莱茵整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/face-line-plastic-surgery?from=skill

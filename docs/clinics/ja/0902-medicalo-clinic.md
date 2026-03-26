@@ -1,3 +1,9 @@
+---
+layout: default
+title: "medicalo clinic"
+lang: ja
+---
+
 ## 魅力可傲医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/medicalo-clinic?from=skill

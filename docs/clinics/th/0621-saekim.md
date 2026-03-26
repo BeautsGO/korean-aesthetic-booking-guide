@@ -1,3 +1,9 @@
+---
+layout: default
+title: "saekim"
+lang: th
+---
+
 ## 世金整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/saekim?from=skill

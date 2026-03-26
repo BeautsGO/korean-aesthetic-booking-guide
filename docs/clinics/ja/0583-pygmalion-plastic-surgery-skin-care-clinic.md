@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Pygmalion Plastic Surgery& Skin Care Clinic"
+lang: ja
+---
+
 ## Pygmalion整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/pygmalion-plastic-surgery-skin-care-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Serophim"
+lang: th
+---
+
 ## 仁川士罗匹皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/serophim?from=skill

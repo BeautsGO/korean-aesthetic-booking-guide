@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Classic Clinic"
+lang: th
+---
+
 ## 德克莱斯整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/the-classic-clinic?from=skill

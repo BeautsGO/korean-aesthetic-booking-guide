@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Beauty Blossom Dermatology"
+lang: zh
+---
+
 ## 丽朵Beauty blossom皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/beauty-blossom-dermatology?from=skill

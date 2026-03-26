@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BeautsGO Official Flagship Store"
+lang: zh
+---
+
 ## BeautsGO官方旗舰店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/beautsgo-official-flagship-store?from=skill

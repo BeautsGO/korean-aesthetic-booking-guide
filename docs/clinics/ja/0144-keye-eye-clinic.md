@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Keye eye clinic"
+lang: ja
+---
+
 ## KEYE眼科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/keye-eye-clinic?from=skill

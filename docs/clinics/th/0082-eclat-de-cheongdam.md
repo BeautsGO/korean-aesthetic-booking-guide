@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ECLAT DE CHEONGDAM"
+lang: th
+---
+
 ## 清潭Eclatde医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/eclat-de-cheongdam?from=skill

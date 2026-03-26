@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesol_atelier"
+lang: en
+---
+
 ## 莱索尔工作室 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/lesolatelier?from=skill

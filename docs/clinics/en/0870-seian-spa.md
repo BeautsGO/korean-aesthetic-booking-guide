@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SEiAN Spa"
+lang: en
+---
+
 ## SEiAN Spa Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/seian-spa?from=skill

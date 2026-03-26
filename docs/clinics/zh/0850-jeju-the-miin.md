@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeju THE MIIN"
+lang: zh
+---
+
 ## 济州THE MIIN 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/jeju-the-miin?from=skill

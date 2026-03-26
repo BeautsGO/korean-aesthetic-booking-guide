@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jryn Clinic"
+lang: en
+---
+
 ## jryn釜山皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/jryn-clinic?from=skill

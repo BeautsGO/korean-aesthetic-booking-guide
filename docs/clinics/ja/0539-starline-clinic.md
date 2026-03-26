@@ -1,3 +1,9 @@
+---
+layout: default
+title: "starline clinic"
+lang: ja
+---
+
 ## starline整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/starline-clinic?from=skill

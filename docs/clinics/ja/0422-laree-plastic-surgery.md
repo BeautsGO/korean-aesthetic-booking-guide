@@ -1,3 +1,9 @@
+---
+layout: default
+title: "laree PLASTIC SURGERY"
+lang: ja
+---
+
 ## 来丽laree整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/laree-plastic-surgery?from=skill

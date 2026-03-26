@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SEOULQUEEN PLASTIC SURGERY"
+lang: ja
+---
+
 ## 可安美整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/seoulqueen-plastic-surgery?from=skill

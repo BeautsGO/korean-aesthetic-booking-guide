@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mo&line"
+lang: zh
+---
+
 ## 毛莱茵植发整形医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/moline?from=skill

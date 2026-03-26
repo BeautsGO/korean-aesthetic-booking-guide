@@ -1,3 +1,9 @@
+---
+layout: default
+title: "J.F.SURGERY CLINIC FOR ANTI-AGING"
+lang: th
+---
+
 ## JF抗老化医学美容中心 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jfsurgery-clinic-for-anti-aging?from=skill

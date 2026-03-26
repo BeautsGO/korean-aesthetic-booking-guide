@@ -1,3 +1,9 @@
+---
+layout: default
+title: "U You clinic"
+lang: en
+---
+
 ## U You clinic Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/u-you-clinic?from=skill

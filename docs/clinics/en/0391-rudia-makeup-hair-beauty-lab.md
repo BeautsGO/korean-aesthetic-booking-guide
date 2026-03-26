@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RUDIA MAKEUP HAIR BEAUTY LAB"
+lang: en
+---
+
 ## RUDIA MAKEUP HAIR BEAUTY LAB Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/rudia-makeup-hair-beauty-lab?from=skill

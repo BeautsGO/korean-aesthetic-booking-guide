@@ -1,3 +1,9 @@
+---
+layout: default
+title: "WESHE PLASTIC SURGERY"
+lang: ja
+---
+
 ## weshe整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/weshe-plastic-surgery?from=skill

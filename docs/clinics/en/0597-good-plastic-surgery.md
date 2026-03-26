@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Good Plastic Surgery"
+lang: en
+---
+
 ## Good整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/good-plastic-surgery?from=skill

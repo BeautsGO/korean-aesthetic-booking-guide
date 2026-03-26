@@ -1,3 +1,9 @@
+---
+layout: default
+title: "smileview"
+lang: th
+---
+
 ## 江南SMILE VIEW牙科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/smileview?from=skill

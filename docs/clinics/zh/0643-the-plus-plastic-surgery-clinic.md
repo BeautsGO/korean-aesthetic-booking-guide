@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Plus Plastic Surgery Clinic"
+lang: zh
+---
+
 ## 德嘉整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/the-plus-plastic-surgery-clinic?from=skill

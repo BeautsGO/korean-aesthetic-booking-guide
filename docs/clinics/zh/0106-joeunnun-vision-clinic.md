@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JOEUNNUN VISION CLINIC"
+lang: zh
+---
+
 ## 江南好眼睛眼科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/joeunnun-vision-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Line&View Plastic Surgery Clinic"
+lang: th
+---
+
 ## Line&View整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lineview-plastic-surgery-clinic?from=skill

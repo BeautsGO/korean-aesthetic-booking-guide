@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Glory Clinic"
+lang: en
+---
+
 ## glory皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/glory-clinic?from=skill

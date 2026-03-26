@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mimisome"
+lang: ja
+---
+
 ## 米米诊所(釜山德川店) 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mimisome?from=skill

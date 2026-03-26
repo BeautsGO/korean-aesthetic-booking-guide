@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Good Plastic Surgery"
+lang: ja
+---
+
 ## Good整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/good-plastic-surgery?from=skill

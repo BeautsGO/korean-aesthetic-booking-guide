@@ -1,3 +1,9 @@
+---
+layout: default
+title: "IOU plastic surgery"
+lang: ja
+---
+
 ## IOU整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/iou-plastic-surgery?from=skill

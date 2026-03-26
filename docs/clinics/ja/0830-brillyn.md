@@ -1,3 +1,9 @@
+---
+layout: default
+title: "brillyn皮肤科"
+lang: ja
+---
+
 ## brillyn皮肤科 予約ガイド
 
 🔗 こちらから直接予約：

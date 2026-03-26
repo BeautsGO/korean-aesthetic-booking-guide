@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Drelaser Dermatology"
+lang: th
+---
+
 ## Drelaser皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/drelaser-dermatology?from=skill

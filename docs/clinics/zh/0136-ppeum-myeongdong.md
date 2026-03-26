@@ -1,3 +1,9 @@
+---
+layout: default
+title: "PPEUM Myeongdong"
+lang: zh
+---
+
 ## 明洞丽芬聚医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/ppeum-myeongdong?from=skill

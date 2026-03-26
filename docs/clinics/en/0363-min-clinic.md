@@ -1,3 +1,9 @@
+---
+layout: default
+title: "min clinic"
+lang: en
+---
+
 ## MIN CLINIC Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/min-clinic?from=skill

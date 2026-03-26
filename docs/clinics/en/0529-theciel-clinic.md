@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theciel clinic"
+lang: en
+---
+
 ## the ciel皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/theciel-clinic?from=skill

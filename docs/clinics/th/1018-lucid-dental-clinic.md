@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LUCID DENTAL CLINIC"
+lang: th
+---
+
 ## LUCID牙科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lucid-dental-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "shinsang整形外科"
+lang: th
+---
+
 ## shinsang整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

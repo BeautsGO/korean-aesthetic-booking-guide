@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LEEDS CLINIC"
+lang: en
+---
+
 ## 延世leeds医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/leeds-clinic?from=skill

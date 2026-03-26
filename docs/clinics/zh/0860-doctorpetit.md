@@ -1,3 +1,9 @@
+---
+layout: default
+title: "doctorpetit"
+lang: zh
+---
+
 ## 朵戈芙蒂皮肤科弘大店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/doctorpetit?from=skill

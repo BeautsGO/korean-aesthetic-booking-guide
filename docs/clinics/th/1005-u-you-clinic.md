@@ -1,3 +1,9 @@
+---
+layout: default
+title: "U You clinic"
+lang: th
+---
+
 ## U You clinic คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/u-you-clinic?from=skill

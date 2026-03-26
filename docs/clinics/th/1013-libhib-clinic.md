@@ -1,3 +1,9 @@
+---
+layout: default
+title: "libhib clinic"
+lang: th
+---
+
 ## 丽本Libhib皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/libhib-clinic?from=skill

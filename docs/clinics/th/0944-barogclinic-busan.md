@@ -1,3 +1,9 @@
+---
+layout: default
+title: "barogclinic Busan"
+lang: th
+---
+
 ## barog医院 釜山西面 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/barogclinic-busan?from=skill

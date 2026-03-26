@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Spa Heum"
+lang: th
+---
+
 ## Spa Heum คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/spa-heum?from=skill

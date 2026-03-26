@@ -1,3 +1,9 @@
+---
+layout: default
+title: "t1 clinic"
+lang: ja
+---
+
 ## T1医院三成店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/t1-clinic?from=skill

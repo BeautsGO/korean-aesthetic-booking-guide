@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JEWELRY PLASTIC SURGERY"
+lang: en
+---
+
 ## 珠儿丽整形外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/jewelry-plastic-surgery?from=skill

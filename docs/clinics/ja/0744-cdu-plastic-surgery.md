@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CDU Plastic Surgery"
+lang: ja
+---
+
 ## 清潭优整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/cdu-plastic-surgery?from=skill

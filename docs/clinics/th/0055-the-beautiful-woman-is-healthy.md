@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Beautiful Woman is Healthy"
+lang: th
+---
+
 ## 好手艺医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/the-beautiful-woman-is-healthy?from=skill

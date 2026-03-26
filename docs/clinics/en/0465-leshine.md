@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Leshine"
+lang: en
+---
+
 ## Leshine Booking Guide
 
 🔗 Book directly here: 

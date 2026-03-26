@@ -1,3 +1,9 @@
+---
+layout: default
+title: "reberry clinic Myeongdong"
+lang: th
+---
+
 ## reberry医院 明洞店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/reberry-clinic-myeongdong?from=skill

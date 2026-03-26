@@ -1,3 +1,9 @@
+---
+layout: default
+title: "pilloseu医院"
+lang: th
+---
+
 ## pilloseu医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

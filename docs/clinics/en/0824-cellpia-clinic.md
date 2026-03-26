@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cellpia Clinic"
+lang: en
+---
+
 ## Cellpia医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/cellpia-clinic?from=skill

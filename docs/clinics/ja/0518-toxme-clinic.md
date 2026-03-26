@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Toxme Clinic"
+lang: ja
+---
+
 ## toxme医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/toxme-clinic?from=skill

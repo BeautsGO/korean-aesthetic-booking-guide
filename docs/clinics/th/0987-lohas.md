@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lohas医院(济州)"
+lang: th
+---
+
 ## lohas医院(济州) คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

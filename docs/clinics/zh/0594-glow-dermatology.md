@@ -1,3 +1,9 @@
+---
+layout: default
+title: "glow dermatology"
+lang: zh
+---
+
 ## 光皮肤科医院 清潭 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/glow-dermatology?from=skill

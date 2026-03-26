@@ -1,3 +1,9 @@
+---
+layout: default
+title: "gthera clinic"
+lang: ja
+---
+
 ## 金泰拉抗衰中心医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/gthera-clinic?from=skill

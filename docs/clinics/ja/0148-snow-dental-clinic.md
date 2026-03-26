@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SNOW DENTAL CLINIC"
+lang: ja
+---
+
 ## 韩国SNOW牙科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/snow-dental-clinic?from=skill

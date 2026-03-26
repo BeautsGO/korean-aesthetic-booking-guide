@@ -1,3 +1,9 @@
+---
+layout: default
+title: "TOXNFILL Jejudo"
+lang: ja
+---
+
 ## Toxnfill济州店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/toxnfill-jejudo?from=skill

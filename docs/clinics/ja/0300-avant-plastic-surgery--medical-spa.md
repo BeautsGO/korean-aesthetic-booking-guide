@@ -1,3 +1,9 @@
+---
+layout: default
+title: "AVANT PLASTIC SURGERY & MEDICAL SPA"
+lang: ja
+---
+
 ## Avant整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/avant-plastic-surgery-medical-spa?from=skill

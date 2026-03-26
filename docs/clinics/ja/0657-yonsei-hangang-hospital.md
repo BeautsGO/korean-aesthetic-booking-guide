@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yonsei Hangang Hospital"
+lang: ja
+---
+
 ## 延世汉江医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/yonsei-hangang-hospital?from=skill

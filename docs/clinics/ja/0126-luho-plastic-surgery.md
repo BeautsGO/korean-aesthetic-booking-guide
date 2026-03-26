@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LUHO PLASTIC SURGERY"
+lang: ja
+---
+
 ## Luho汝好整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/luho-plastic-surgery?from=skill

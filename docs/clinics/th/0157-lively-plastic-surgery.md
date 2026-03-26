@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lively Plastic Surgery"
+lang: th
+---
+
 ## Lively整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lively-plastic-surgery?from=skill

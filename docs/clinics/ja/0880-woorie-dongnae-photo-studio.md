@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Woorie Dongnae Photo Studio"
+lang: ja
+---
+
 ## 钟路区拍照 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/woorie-dongnae-photo-studio?from=skill

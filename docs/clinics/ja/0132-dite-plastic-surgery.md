@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dite Plastic Surgery"
+lang: ja
+---
+
 ## DITE 整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/dite-plastic-surgery?from=skill

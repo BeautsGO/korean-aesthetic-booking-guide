@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sollution Clinic"
+lang: ja
+---
+
 ## Sollution皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/sollution-clinic?from=skill

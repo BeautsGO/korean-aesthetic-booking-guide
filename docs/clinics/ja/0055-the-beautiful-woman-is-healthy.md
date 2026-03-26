@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Beautiful Woman is Healthy"
+lang: ja
+---
+
 ## 好手艺医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/the-beautiful-woman-is-healthy?from=skill

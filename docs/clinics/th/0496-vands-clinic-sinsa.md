@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vands Clinic Sinsa"
+lang: th
+---
+
 ## 本思医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/vands-clinic-sinsa?from=skill

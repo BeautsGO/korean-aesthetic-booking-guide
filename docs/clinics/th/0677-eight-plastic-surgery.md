@@ -1,3 +1,9 @@
+---
+layout: default
+title: "eight plastic surgery"
+lang: th
+---
+
 ## eight整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/eight-plastic-surgery?from=skill

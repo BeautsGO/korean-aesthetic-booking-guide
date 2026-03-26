@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Doctor Petit"
+lang: en
+---
+
 ## 建大Doctor Petit 皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/doctor-petit?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "moem clinic"
+lang: en
+---
+
 ## moen医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/moem-clinic?from=skill

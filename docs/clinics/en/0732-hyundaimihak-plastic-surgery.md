@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hyundaimihak Plastic Surgery"
+lang: en
+---
+
 ## 现代美学整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/hyundaimihak-plastic-surgery?from=skill

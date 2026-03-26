@@ -1,3 +1,9 @@
+---
+layout: default
+title: "reageau"
+lang: en
+---
+
 ## 乐颜居皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/reageau?from=skill

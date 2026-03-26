@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theciel clinic"
+lang: ja
+---
+
 ## the ciel皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/theciel-clinic?from=skill

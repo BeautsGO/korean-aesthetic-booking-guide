@@ -1,3 +1,9 @@
+---
+layout: default
+title: "soyou medical clinic"
+lang: en
+---
+
 ## Soyou皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/soyou-medical-clinic?from=skill

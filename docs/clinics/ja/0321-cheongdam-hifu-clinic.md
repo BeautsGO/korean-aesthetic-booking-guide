@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cheongdam hifu clinic"
+lang: ja
+---
+
 ## 清潭妇科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/cheongdam-hifu-clinic?from=skill

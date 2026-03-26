@@ -1,3 +1,9 @@
+---
+layout: default
+title: "it’s me clinic"
+lang: zh
+---
+
 ## 清潭it’s me 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/its-me-clinic?from=skill

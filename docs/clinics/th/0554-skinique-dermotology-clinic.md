@@ -1,3 +1,9 @@
+---
+layout: default
+title: "skinique dermotology clinic"
+lang: th
+---
+
 ## skinique皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/skinique-dermotology-clinic?from=skill

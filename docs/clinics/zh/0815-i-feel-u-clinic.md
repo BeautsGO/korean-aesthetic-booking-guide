@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I FEEL U CLINIC"
+lang: zh
+---
+
 ## Ifeelyou皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/i-feel-u-clinic?from=skill

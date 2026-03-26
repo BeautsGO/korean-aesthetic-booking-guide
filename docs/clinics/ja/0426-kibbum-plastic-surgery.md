@@ -1,3 +1,9 @@
+---
+layout: default
+title: "KIBBUM PLASTIC SURGERY"
+lang: ja
+---
+
 ## KIBBUM整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/kibbum-plastic-surgery?from=skill

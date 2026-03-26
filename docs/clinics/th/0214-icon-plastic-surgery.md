@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ICON PLASTIC SURGERY"
+lang: th
+---
+
 ## 韩国ICON整形医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/icon-plastic-surgery?from=skill

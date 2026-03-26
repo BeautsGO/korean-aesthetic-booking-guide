@@ -1,3 +1,9 @@
+---
+layout: default
+title: "jd clinic"
+lang: th
+---
+
 ## JD皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jd-clinic?from=skill

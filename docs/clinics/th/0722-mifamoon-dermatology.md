@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MIFAMOON DERMATOLOGY"
+lang: th
+---
+
 ## 美波皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/mifamoon-dermatology?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "TJ Plastic Surgery"
+lang: zh
+---
+
 ## tj整形医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/tj-plastic-surgery?from=skill

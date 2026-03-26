@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Eve Plastic Clinic"
+lang: ja
+---
+
 ## Eve整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/eve-plastic-clinic?from=skill

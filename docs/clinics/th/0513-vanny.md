@@ -1,3 +1,9 @@
+---
+layout: default
+title: "vanny整形医院"
+lang: th
+---
+
 ## vanny整形医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

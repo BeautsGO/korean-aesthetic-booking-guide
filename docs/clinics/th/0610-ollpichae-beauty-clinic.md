@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ollpichae Beauty Clinic"
+lang: th
+---
+
 ## 优妩彩医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/ollpichae-beauty-clinic?from=skill

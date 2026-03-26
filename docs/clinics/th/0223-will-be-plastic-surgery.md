@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Will Be Plastic Surgery"
+lang: th
+---
+
 ## 韩国Will Be整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/will-be-plastic-surgery?from=skill

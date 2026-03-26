@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sia clinic"
+lang: en
+---
+
 ## Sia始雅皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/sia-clinic?from=skill

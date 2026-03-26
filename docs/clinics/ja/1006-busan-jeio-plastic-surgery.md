@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Busan Jeio Plastic Surgery"
+lang: ja
+---
+
 ## 釜山jeio 整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/busan-jeio-plastic-surgery?from=skill

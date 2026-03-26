@@ -1,3 +1,9 @@
+---
+layout: default
+title: "gilhospita"
+lang: zh
+---
+
 ## 仁川加川大吉医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/gilhospita?from=skill

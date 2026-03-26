@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LIBAN CLINIC"
+lang: th
+---
+
 ## 俪伴整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/liban-clinic?from=skill

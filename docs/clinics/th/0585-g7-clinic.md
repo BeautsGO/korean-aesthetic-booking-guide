@@ -1,3 +1,9 @@
+---
+layout: default
+title: "G7 clinic"
+lang: th
+---
+
 ## G7医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/g7-clinic?from=skill

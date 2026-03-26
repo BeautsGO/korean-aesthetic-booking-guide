@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Designer Plastic Surgery"
+lang: th
+---
+
 ## 设计师整形医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/designer-plastic-surgery?from=skill

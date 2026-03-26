@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dr borw"
+lang: th
+---
+
 ## dr borw คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/dr-borw?from=skill

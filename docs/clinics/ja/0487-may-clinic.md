@@ -1,3 +1,9 @@
+---
+layout: default
+title: "may clinic"
+lang: ja
+---
+
 ## may clinic 予約ガイド
 
 🔗 こちらから直接予約：

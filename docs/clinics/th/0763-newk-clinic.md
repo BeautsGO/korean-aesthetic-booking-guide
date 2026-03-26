@@ -1,3 +1,9 @@
+---
+layout: default
+title: "newk clinic"
+lang: th
+---
+
 ## newk医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/newk-clinic?from=skill

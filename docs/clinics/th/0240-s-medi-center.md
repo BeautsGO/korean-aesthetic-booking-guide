@@ -1,3 +1,9 @@
+---
+layout: default
+title: "s-medi center"
+lang: th
+---
+
 ## s-medi体检中心 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/s-medi-center?from=skill

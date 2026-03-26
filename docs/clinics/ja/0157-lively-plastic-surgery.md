@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lively Plastic Surgery"
+lang: ja
+---
+
 ## Lively整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lively-plastic-surgery?from=skill

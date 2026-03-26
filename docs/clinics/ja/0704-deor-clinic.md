@@ -1,3 +1,9 @@
+---
+layout: default
+title: "deor clinic"
+lang: ja
+---
+
 ## deor皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/deor-clinic?from=skill

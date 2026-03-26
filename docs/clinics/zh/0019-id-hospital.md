@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ID Hospital"
+lang: zh
+---
+
 ## ID医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/id-hospital?from=skill

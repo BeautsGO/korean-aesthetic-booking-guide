@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cheongdam park clinic"
+lang: zh
+---
+
 ## 清潭park医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/cheongdam-park-clinic?from=skill

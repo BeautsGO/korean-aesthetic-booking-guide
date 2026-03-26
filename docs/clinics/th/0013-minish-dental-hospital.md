@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MINISH DENTAL HOSPITAL"
+lang: th
+---
+
 ## MINISH口腔医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/minish-dental-hospital?from=skill

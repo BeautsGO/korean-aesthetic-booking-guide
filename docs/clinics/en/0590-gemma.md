@@ -1,3 +1,9 @@
+---
+layout: default
+title: "GEMMA植发中心"
+lang: en
+---
+
 ## GEMMA植发中心 Booking Guide
 
 🔗 Book directly here: 

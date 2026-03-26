@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mylog"
+lang: th
+---
+
 ## mylog คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/mylog?from=skill

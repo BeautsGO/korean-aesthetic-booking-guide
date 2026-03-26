@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theia clinic"
+lang: en
+---
+
 ## theia 皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/theia-clinic?from=skill

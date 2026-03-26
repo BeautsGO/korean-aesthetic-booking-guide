@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cinderella Plastic Surgery"
+lang: zh
+---
+
 ## 新帝瑞娜 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/cinderella-plastic-surgery?from=skill

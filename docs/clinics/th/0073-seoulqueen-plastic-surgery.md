@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SEOULQUEEN PLASTIC SURGERY"
+lang: th
+---
+
 ## 可安美整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/seoulqueen-plastic-surgery?from=skill

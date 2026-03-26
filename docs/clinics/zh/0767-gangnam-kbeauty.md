@@ -1,3 +1,9 @@
+---
+layout: default
+title: "gangnam kbeauty"
+lang: zh
+---
+
 ## 江南kbeauty整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/gangnam-kbeauty?from=skill

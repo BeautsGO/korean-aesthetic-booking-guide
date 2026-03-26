@@ -1,3 +1,9 @@
+---
+layout: default
+title: "myme clinic"
+lang: en
+---
+
 ## myme皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/myme-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "21plastic surgery"
+lang: en
+---
+
 ## 21整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/21plastic-surgery?from=skill

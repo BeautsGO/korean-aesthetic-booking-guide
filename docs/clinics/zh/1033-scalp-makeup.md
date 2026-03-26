@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Scalp Makeup"
+lang: zh
+---
+
 ## Scalp Makeup头皮半永久 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/scalp-makeup?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mylog"
+lang: en
+---
+
 ## mylog Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/mylog?from=skill

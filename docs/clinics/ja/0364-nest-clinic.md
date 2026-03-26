@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nest clinic"
+lang: ja
+---
+
 ## nestclinic 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/nest-clinic?from=skill

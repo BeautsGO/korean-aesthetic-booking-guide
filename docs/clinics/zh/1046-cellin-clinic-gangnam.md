@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cellin clinic Gangnam"
+lang: zh
+---
+
 ## 赛琳江南店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/cellin-clinic-gangnam?from=skill

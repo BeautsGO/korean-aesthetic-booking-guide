@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ruby clinic"
+lang: zh
+---
+
 ## ruby皮肤科 良才站 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/ruby-clinic?from=skill

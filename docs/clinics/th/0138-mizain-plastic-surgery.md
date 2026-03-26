@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mizain Plastic Surgery"
+lang: th
+---
+
 ## 美自人整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/mizain-plastic-surgery?from=skill

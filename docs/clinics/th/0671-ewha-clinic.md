@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ewha clinic"
+lang: th
+---
+
 ## ewha皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/ewha-clinic?from=skill

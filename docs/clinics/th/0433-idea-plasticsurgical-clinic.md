@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Idea PlasticSurgical Clinic"
+lang: th
+---
+
 ## 艺德雅整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/idea-plasticsurgical-clinic?from=skill

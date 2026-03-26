@@ -1,3 +1,9 @@
+---
+layout: default
+title: "V&MJ skin clinic"
+lang: ja
+---
+
 ## vmj皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/vmj-skin-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "thesinsa医院"
+lang: ja
+---
+
 ## THESINSA医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/thesinsa?from=skill

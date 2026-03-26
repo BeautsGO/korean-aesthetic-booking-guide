@@ -1,3 +1,9 @@
+---
+layout: default
+title: "seoulcheil"
+lang: en
+---
+
 ## 首尔第一整形医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/seoulcheil?from=skill

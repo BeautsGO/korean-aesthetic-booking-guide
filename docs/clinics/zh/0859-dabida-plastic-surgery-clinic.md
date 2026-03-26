@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DABIDA PLASTIC SURGERY CLINIC"
+lang: zh
+---
+
 ## 答必达整形医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/dabida-plastic-surgery-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mediwoman妇科（釜山）"
+lang: th
+---
+
 ## mediwoman妇科（釜山） คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

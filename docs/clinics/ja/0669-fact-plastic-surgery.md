@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fact Plastic Surgery"
+lang: ja
+---
+
 ## Fact整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/fact-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DL Plastic Surgery."
+lang: th
+---
+
 ## DL整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/dl-plastic-surgery?from=skill

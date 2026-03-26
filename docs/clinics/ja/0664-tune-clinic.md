@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tune Clinic"
+lang: ja
+---
+
 ## 图恩医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/tune-clinic?from=skill

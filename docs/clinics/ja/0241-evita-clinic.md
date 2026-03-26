@@ -1,3 +1,9 @@
+---
+layout: default
+title: "evita clinic"
+lang: ja
+---
+
 ## evita胸部外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/evita-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "skinique dermotology clinic"
+lang: ja
+---
+
 ## skinique皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/skinique-dermotology-clinic?from=skill

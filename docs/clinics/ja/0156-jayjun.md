@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jayjun"
+lang: ja
+---
+
 ## JAYJUN整形外科&皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jayjun?from=skill

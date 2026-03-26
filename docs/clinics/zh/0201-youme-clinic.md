@@ -1,3 +1,9 @@
+---
+layout: default
+title: "you&me clinic"
+lang: zh
+---
+
 ## you&me皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/youme-clinic?from=skill

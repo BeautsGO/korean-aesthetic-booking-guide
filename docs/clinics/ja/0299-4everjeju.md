@@ -1,3 +1,9 @@
+---
+layout: default
+title: "4everjeju"
+lang: ja
+---
+
 ## 济州4ever jeju 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/4everjeju?from=skill

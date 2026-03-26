@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sowon derma clinic"
+lang: ja
+---
+
 ## sowon皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/sowon-derma-clinic?from=skill

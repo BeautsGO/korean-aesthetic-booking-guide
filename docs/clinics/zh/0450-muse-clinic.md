@@ -1,3 +1,9 @@
+---
+layout: default
+title: "muse clinic"
+lang: zh
+---
+
 ## 谬慈医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/muse-clinic?from=skill

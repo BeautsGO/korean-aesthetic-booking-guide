@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Thenan"
+lang: en
+---
+
 ## Thenan Booking Guide
 
 🔗 Book directly here: 

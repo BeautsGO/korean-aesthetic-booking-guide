@@ -1,3 +1,9 @@
+---
+layout: default
+title: "rodam"
+lang: th
+---
+
 ## 露潭韩医院（江南店） คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/rodam?from=skill

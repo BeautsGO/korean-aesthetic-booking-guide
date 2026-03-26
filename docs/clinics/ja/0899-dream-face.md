@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dream Face"
+lang: ja
+---
+
 ## Dream Face 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/dream-face?from=skill

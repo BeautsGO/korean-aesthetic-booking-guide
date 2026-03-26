@@ -1,3 +1,9 @@
+---
+layout: default
+title: "melting clinic"
+lang: zh
+---
+
 ## 圣水melting皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/melting-clinic?from=skill

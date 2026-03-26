@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Edition Plastic Surgery"
+lang: ja
+---
+
 ## 艾迪升整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/edition-plastic-surgery?from=skill

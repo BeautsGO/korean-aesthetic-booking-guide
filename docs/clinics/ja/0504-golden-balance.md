@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Golden balance"
+lang: ja
+---
+
 ## 黄金百伦女性医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/golden-balance?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "shine beam clinic"
+lang: th
+---
+
 ## shine beam医院 江南店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/shine-beam-clinic?from=skill

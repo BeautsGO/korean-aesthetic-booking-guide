@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BeautsGO Official Flagship Store"
+lang: ja
+---
+
 ## BeautsGO官方旗舰店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/beautsgo-official-flagship-store?from=skill

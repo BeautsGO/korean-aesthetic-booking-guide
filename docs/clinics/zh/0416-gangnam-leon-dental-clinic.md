@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gangnam LEON Dental Clinic"
+lang: zh
+---
+
 ## 江南leon牙科诊所 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/gangnam-leon-dental-clinic?from=skill

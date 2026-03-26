@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Like Plastic Surgery"
+lang: th
+---
+
 ## 来客like整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/like-plastic-surgery?from=skill

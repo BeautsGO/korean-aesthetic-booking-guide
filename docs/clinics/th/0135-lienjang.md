@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lienjang"
+lang: th
+---
+
 ## 丽延长江南店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lienjang?from=skill

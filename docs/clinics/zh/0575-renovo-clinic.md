@@ -1,3 +1,9 @@
+---
+layout: default
+title: "renovo clinic"
+lang: zh
+---
+
 ## renovo医院狎鸥亭店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/renovo-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DAEATDIET韩医院"
+lang: en
+---
+
 ## DAEATDIET韩医院 Booking Guide
 
 🔗 Book directly here: 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "barada韩医院"
+lang: ja
+---
+
 ## barada韩医院 予約ガイド
 
 🔗 こちらから直接予約：

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LG TeleCom"
+lang: ja
+---
+
 ## 韩国LG通讯 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lg-telecom?from=skill

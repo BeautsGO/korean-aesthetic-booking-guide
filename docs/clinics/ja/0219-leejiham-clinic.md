@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LeeJiHam CLINIC"
+lang: ja
+---
+
 ## LeeJiHam皮肤科（江南店） 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/leejiham-clinic?from=skill

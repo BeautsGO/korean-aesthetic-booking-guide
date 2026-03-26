@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BRAUN"
+lang: en
+---
+
 ## 博朗温整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/braun?from=skill

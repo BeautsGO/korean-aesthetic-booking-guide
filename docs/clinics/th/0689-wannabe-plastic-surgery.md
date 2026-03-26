@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wannabe plastic surgery"
+lang: th
+---
+
 ## 奥纳比整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/wannabe-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "APGUJEONGTOPLINE"
+lang: zh
+---
+
 ## 狎鸥亭topline医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/apgujeongtopline?from=skill

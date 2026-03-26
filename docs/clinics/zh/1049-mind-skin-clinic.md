@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mind skin clinic"
+lang: zh
+---
+
 ## 弘大mind皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/mind-skin-clinic?from=skill

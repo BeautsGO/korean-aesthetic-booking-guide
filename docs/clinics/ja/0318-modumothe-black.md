@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Modumo（the black）"
+lang: ja
+---
+
 ## 毛多毛毛发移植医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/modumothe-black?from=skill

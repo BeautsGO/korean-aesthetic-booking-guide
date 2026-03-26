@@ -1,3 +1,9 @@
+---
+layout: default
+title: "J.F.SURGERY CLINIC FOR ANTI-AGING"
+lang: ja
+---
+
 ## JF抗老化医学美容中心 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jfsurgery-clinic-for-anti-aging?from=skill

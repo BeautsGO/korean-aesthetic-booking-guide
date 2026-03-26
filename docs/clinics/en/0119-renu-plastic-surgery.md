@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Renu plastic surgery"
+lang: en
+---
+
 ## Renu外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/renu-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yoonique_up"
+lang: ja
+---
+
 ## Yoonique_up 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/yooniqueup?from=skill

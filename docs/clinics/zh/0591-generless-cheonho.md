@@ -1,3 +1,9 @@
+---
+layout: default
+title: "generless cheonho"
+lang: zh
+---
+
 ## generless医院 千户店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/generless-cheonho?from=skill

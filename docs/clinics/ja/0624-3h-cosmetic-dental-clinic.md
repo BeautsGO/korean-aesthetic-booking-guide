@@ -1,3 +1,9 @@
+---
+layout: default
+title: "3H Cosmetic dental clinic"
+lang: ja
+---
+
 ## 三小时牙科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/3h-cosmetic-dental-clinic?from=skill

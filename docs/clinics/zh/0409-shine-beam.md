@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SHINE BEAM"
+lang: zh
+---
+
 ## shine beam 大田分店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/shine-beam?from=skill

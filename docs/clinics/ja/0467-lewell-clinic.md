@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lewell clinic"
+lang: ja
+---
+
 ## lewell皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lewell-clinic?from=skill

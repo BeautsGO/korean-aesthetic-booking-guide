@@ -1,3 +1,9 @@
+---
+layout: default
+title: "vsline江南店"
+lang: ja
+---
+
 ## vsline江南店 予約ガイド
 
 🔗 こちらから直接予約：

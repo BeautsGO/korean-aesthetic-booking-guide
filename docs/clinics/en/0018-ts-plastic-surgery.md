@@ -1,3 +1,9 @@
+---
+layout: default
+title: "TS Plastic Surgery"
+lang: en
+---
+
 ## TS整形外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ts-plastic-surgery?from=skill

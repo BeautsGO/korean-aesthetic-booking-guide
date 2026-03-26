@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CELLINIQUE CLINIC"
+lang: th
+---
+
 ## CELLINIQUE医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cellinique-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BeautyBar"
+lang: th
+---
+
 ## BeautyBar整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/beautybar?from=skill

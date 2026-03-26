@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeju 345 Plastic Surgery"
+lang: ja
+---
+
 ## 济州345整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jeju-345-plastic-surgery?from=skill

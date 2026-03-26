@@ -1,3 +1,9 @@
+---
+layout: default
+title: "edgeline"
+lang: ja
+---
+
 ## 爱起来 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/edgeline?from=skill

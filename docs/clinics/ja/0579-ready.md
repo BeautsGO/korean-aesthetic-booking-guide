@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ready整形医院"
+lang: ja
+---
+
 ## Ready整形医院 予約ガイド
 
 🔗 こちらから直接予約：

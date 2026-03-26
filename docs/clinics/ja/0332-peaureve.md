@@ -1,3 +1,9 @@
+---
+layout: default
+title: "peaureve"
+lang: ja
+---
+
 ## 清潭peaureve皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/peaureve?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Schedule Clinic"
+lang: zh
+---
+
 ## Schedule医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/schedule-clinic?from=skill

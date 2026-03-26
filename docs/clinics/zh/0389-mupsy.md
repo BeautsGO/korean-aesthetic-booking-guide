@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mup_sy"
+lang: zh
+---
+
 ## MUPSY 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/mupsy?from=skill

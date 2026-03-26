@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Deraan"
+lang: th
+---
+
 ## 德安皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/deraan?from=skill

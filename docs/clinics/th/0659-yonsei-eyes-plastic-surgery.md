@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yonsei Eyes Plastic Surgery"
+lang: th
+---
+
 ## 延世eyes คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/yonsei-eyes-plastic-surgery?from=skill

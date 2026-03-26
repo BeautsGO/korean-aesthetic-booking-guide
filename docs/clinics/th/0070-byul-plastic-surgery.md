@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BYUL PLASTIC SURGERY"
+lang: th
+---
+
 ## 星整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/byul-plastic-surgery?from=skill

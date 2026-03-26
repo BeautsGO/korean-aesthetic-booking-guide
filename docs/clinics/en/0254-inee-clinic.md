@@ -1,3 +1,9 @@
+---
+layout: default
+title: "inee clinic"
+lang: en
+---
+
 ## 爱妮皮肤科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/inee-clinic?from=skill

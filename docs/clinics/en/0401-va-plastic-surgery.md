@@ -1,3 +1,9 @@
+---
+layout: default
+title: "VA PLASTIC SURGERY"
+lang: en
+---
+
 ## VA整形外科 / 皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/va-plastic-surgery?from=skill

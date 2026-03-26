@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nuel clinic"
+lang: en
+---
+
 ## nuel皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/nuel-clinic?from=skill

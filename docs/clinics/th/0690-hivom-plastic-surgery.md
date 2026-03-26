@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hivom Plastic Surgery"
+lang: th
+---
+
 ## 好棒整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/hivom-plastic-surgery?from=skill

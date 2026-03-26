@@ -1,3 +1,9 @@
+---
+layout: default
+title: "prime整形外科"
+lang: th
+---
+
 ## prime整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

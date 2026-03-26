@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bywon医院"
+lang: ja
+---
+
 ## bywon医院 予約ガイド
 
 🔗 こちらから直接予約：

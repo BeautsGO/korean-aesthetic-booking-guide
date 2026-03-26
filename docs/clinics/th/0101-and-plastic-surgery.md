@@ -1,3 +1,9 @@
+---
+layout: default
+title: "AND Plastic Surgery"
+lang: th
+---
+
 ## And整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/and-plastic-surgery?from=skill

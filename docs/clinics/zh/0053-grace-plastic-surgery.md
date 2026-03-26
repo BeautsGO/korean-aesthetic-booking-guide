@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Grace Plastic Surgery"
+lang: zh
+---
+
 ## 格瑞丝噢爱美整形外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/grace-plastic-surgery?from=skill

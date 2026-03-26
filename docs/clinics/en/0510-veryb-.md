@@ -1,3 +1,9 @@
+---
+layout: default
+title: "veryB医院 江南站店"
+lang: en
+---
+
 ## veryB医院 江南站店 Booking Guide
 
 🔗 Book directly here: 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cherish Aesthetic Surgery"
+lang: ja
+---
+
 ## DAO&CELL整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/cherish-aesthetic-surgery?from=skill

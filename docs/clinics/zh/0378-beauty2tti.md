@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Beauty_2tti"
+lang: zh
+---
+
 ## Beauty_2tti妆造 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/beauty2tti?from=skill

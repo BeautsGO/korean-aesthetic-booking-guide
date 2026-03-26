@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cellpia Clinic"
+lang: th
+---
+
 ## Cellpia医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cellpia-clinic?from=skill

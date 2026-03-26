@@ -1,3 +1,9 @@
+---
+layout: default
+title: "barada韩医院"
+lang: en
+---
+
 ## barada韩医院 Booking Guide
 
 🔗 Book directly here: 

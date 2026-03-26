@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Modenri"
+lang: ja
+---
+
 ## Modenri 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/modenri?from=skill

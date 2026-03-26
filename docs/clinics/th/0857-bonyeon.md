@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bonyeon"
+lang: th
+---
+
 ## 本颜整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/bonyeon?from=skill

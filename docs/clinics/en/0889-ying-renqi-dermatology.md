@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ying Renqi Dermatology"
+lang: en
+---
+
 ## 萤仁齐皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ying-renqi-dermatology?from=skill

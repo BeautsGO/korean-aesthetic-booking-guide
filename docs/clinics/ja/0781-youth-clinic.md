@@ -1,3 +1,9 @@
+---
+layout: default
+title: "youth clinic"
+lang: ja
+---
+
 ## youth医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/youth-clinic?from=skill

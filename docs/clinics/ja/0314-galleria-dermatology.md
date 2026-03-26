@@ -1,3 +1,9 @@
+---
+layout: default
+title: "galleria dermatology"
+lang: ja
+---
+
 ## 凯丽雅皮肤科医院 盘浦蚕院总店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/galleria-dermatology?from=skill

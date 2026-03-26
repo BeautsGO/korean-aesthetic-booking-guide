@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Beautiful Woman is Healthy"
+lang: en
+---
+
 ## 好手艺医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/the-beautiful-woman-is-healthy?from=skill

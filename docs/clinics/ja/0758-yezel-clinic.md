@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yezel Clinic"
+lang: ja
+---
+
 ## Yezel伊泽尔医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/yezel-clinic?from=skill

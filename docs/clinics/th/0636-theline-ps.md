@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theline ps"
+lang: th
+---
+
 ## 德莱茵整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/theline-ps?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "江南smart医院"
+lang: zh
+---
+
 ## 江南smart医院 预约指南
 
 🔗 点击直达预约页面：

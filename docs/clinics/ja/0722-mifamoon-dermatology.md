@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MIFAMOON DERMATOLOGY"
+lang: ja
+---
+
 ## 美波皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mifamoon-dermatology?from=skill

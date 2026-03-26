@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sage clinic"
+lang: zh
+---
+
 ## sage 明星直腿医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/sage-clinic?from=skill

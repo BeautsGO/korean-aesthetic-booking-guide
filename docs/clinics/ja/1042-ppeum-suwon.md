@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ppeum Suwon"
+lang: ja
+---
+
 ## 丽芬聚水原店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ppeum-suwon?from=skill

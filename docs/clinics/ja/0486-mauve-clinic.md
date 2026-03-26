@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mauve clinic"
+lang: ja
+---
+
 ## 车炳勋整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mauve-clinic?from=skill

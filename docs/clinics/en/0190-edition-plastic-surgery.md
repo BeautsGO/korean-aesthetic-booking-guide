@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Edition Plastic Surgery"
+lang: en
+---
+
 ## 艾迪升整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/edition-plastic-surgery?from=skill

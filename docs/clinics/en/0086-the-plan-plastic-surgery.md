@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Plan Plastic Surgery"
+lang: en
+---
+
 ## The Plan整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/the-plan-plastic-surgery?from=skill

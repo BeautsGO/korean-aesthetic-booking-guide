@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cinderella Plastic Surgery"
+lang: en
+---
+
 ## 新帝瑞娜 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/cinderella-plastic-surgery?from=skill

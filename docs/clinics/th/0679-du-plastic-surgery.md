@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DU Plastic Surgery"
+lang: th
+---
+
 ## DU整形医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/du-plastic-surgery?from=skill

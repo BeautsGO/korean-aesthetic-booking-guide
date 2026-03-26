@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lumi space"
+lang: zh
+---
+
 ## 明洞lumi space韩服体验 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/lumi-space?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "江南daybeau"
+lang: en
+---
+
 ## 江南daybeau Booking Guide
 
 🔗 Book directly here: 

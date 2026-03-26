@@ -1,3 +1,9 @@
+---
+layout: default
+title: "angelmi clinic"
+lang: en
+---
+
 ## 安琪美医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/angelmi-clinic?from=skill

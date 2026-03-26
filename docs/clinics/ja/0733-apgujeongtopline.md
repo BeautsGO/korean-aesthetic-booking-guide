@@ -1,3 +1,9 @@
+---
+layout: default
+title: "APGUJEONGTOPLINE"
+lang: ja
+---
+
 ## 狎鸥亭topline医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/apgujeongtopline?from=skill

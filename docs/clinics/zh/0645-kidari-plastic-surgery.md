@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kidari Plastic Surgery"
+lang: zh
+---
+
 ## 可大丽整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/kidari-plastic-surgery?from=skill

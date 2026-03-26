@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Just Plastic Surgery"
+lang: en
+---
+
 ## Just整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/just-plastic-surgery?from=skill

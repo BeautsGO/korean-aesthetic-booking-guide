@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeju THE MIIN"
+lang: en
+---
+
 ## 济州THE MIIN Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/jeju-the-miin?from=skill

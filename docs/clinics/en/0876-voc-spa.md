@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Voc Spa"
+lang: en
+---
+
 ## Voc Spa Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/voc-spa?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bambi clinic"
+lang: th
+---
+
 ## bambi医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/bambi-clinic?from=skill

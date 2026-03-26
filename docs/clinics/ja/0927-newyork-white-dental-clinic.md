@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NewYork White Dental Clinic"
+lang: ja
+---
+
 ## NewYork White牙科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/newyork-white-dental-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "libhib clinic"
+lang: zh
+---
+
 ## 丽本Libhib皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/libhib-clinic?from=skill

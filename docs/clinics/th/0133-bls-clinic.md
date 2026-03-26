@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bls clinic"
+lang: th
+---
+
 ## BLS医院总院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/bls-clinic?from=skill

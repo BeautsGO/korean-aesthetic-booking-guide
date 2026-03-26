@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fill-Up Trend Plastic Surgery & Dematology"
+lang: ja
+---
+
 ## fillup trend 整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/fill-up-trend-plastic-surgery-dematology?from=skill

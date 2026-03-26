@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Pinpoint Lab"
+lang: ja
+---
+
 ## Pinpoint Lab半永久纹发 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/pinpoint-lab?from=skill

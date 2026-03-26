@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yoonique_up"
+lang: th
+---
+
 ## Yoonique_up คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/yooniqueup?from=skill

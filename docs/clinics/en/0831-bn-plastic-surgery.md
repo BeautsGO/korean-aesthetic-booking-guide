@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BN Plastic Surgery"
+lang: en
+---
+
 ## BN整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/bn-plastic-surgery?from=skill

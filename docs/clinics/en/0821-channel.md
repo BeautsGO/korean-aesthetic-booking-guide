@@ -1,3 +1,9 @@
+---
+layout: default
+title: "channel+皮肤科医院"
+lang: en
+---
+
 ## channel+皮肤科医院 Booking Guide
 
 🔗 Book directly here: 

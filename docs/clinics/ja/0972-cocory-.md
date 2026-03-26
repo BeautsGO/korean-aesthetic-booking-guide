@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cocory 明洞分店"
+lang: ja
+---
+
 ## Cocory 明洞分店 予約ガイド
 
 🔗 こちらから直接予約：

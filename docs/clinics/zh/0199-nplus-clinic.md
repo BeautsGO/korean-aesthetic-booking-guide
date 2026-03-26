@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Nplus Clinic"
+lang: zh
+---
+
 ## 恩普路斯整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/nplus-clinic?from=skill

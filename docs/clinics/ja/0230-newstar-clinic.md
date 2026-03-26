@@ -1,3 +1,9 @@
+---
+layout: default
+title: "newstar clinic"
+lang: ja
+---
+
 ## newstar皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/newstar-clinic?from=skill

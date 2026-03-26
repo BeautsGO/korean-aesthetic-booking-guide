@@ -1,3 +1,9 @@
+---
+layout: default
+title: "skinforet"
+lang: th
+---
+
 ## 思亲肤乐 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/skinforet?from=skill

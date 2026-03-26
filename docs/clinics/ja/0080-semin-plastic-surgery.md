@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Semin Plastic Surgery"
+lang: ja
+---
+
 ## 世民整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/semin-plastic-surgery?from=skill

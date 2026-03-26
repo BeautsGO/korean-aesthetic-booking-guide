@@ -1,3 +1,9 @@
+---
+layout: default
+title: "poen clinic"
+lang: th
+---
+
 ## poen医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/poen-clinic?from=skill

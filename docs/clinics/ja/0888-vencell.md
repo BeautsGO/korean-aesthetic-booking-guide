@@ -1,3 +1,9 @@
+---
+layout: default
+title: "vencell"
+lang: ja
+---
+
 ## vencell 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/vencell?from=skill

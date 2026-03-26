@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Plan Plastic Surgery Sinsadong"
+lang: zh
+---
+
 ## The Plan皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/the-plan-plastic-surgery-sinsadong?from=skill

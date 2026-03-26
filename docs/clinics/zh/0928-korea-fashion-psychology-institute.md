@@ -1,3 +1,9 @@
+---
+layout: default
+title: "KOREA FASHION PSYCHOLOGY INSTITUTE"
+lang: zh
+---
+
 ## 韩国时尚心理研究院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/korea-fashion-psychology-institute?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "APRIL31 PLASTIC SURGERY"
+lang: zh
+---
+
 ## 431整形外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/april31-plastic-surgery?from=skill

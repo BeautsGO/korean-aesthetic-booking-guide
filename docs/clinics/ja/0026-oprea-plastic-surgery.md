@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Oprea Plastic Surgery"
+lang: ja
+---
+
 ## 欧佩拉整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/oprea-plastic-surgery?from=skill

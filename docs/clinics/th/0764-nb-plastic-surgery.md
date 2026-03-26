@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NB Plastic Surgery"
+lang: th
+---
+
 ## NB 整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/nb-plastic-surgery?from=skill

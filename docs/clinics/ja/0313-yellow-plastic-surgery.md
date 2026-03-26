@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yellow Plastic Surgery"
+lang: ja
+---
+
 ## Yellow整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/yellow-plastic-surgery?from=skill

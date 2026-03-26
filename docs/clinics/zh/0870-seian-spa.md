@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SEiAN Spa"
+lang: zh
+---
+
 ## SEiAN Spa 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/seian-spa?from=skill

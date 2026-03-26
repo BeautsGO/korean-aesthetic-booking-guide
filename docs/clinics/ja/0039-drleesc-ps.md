@@ -1,3 +1,9 @@
+---
+layout: default
+title: "drleesc ps"
+lang: ja
+---
+
 ## 李承哲神经外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/drleesc-ps?from=skill

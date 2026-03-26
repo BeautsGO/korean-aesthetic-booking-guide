@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Inique Plastic Surgery"
+lang: en
+---
+
 ## 爱丽克医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/inique-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Glassy Skin Clinic"
+lang: th
+---
+
 ## glassy皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/glassy-skin-clinic?from=skill

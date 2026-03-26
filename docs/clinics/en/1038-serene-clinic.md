@@ -1,3 +1,9 @@
+---
+layout: default
+title: "serene clinic"
+lang: en
+---
+
 ## 圣水serene 皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/serene-clinic?from=skill

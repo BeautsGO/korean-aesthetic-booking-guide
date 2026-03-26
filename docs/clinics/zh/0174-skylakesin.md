@@ -1,3 +1,9 @@
+---
+layout: default
+title: "skylakesin"
+lang: zh
+---
+
 ## 天空湖水皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/skylakesin?from=skill

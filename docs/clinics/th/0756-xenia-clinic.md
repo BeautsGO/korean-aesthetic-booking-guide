@@ -1,3 +1,9 @@
+---
+layout: default
+title: "XENIA CLINIC"
+lang: th
+---
+
 ## XENIA诗丽雅医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/xenia-clinic?from=skill

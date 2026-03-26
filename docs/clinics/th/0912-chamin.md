@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chamin整形外科&皮肤科"
+lang: th
+---
+
 ## 瑳旼整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/chamin?from=skill

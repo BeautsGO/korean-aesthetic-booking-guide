@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Banana plastic surgery"
+lang: zh
+---
+
 ## Banana整形外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/banana-plastic-surgery?from=skill

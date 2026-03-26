@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Oprea Plastic Surgery"
+lang: th
+---
+
 ## 欧佩拉整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/oprea-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MANO PLASTIC SURGERY"
+lang: zh
+---
+
 ## MANO整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/mano-plastic-surgery?from=skill

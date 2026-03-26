@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dite Plastic Surgery"
+lang: en
+---
+
 ## DITE 整形外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/dite-plastic-surgery?from=skill

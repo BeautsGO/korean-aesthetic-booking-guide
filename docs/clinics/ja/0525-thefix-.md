@@ -1,3 +1,9 @@
+---
+layout: default
+title: "thefix 整形外科"
+lang: ja
+---
+
 ## thefix 整形外科 予約ガイド
 
 🔗 こちらから直接予約：

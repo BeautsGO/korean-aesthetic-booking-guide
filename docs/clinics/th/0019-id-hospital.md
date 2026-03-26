@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ID Hospital"
+lang: th
+---
+
 ## ID医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/id-hospital?from=skill

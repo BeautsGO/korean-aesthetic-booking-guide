@@ -1,3 +1,9 @@
+---
+layout: default
+title: "THE HEAL"
+lang: ja
+---
+
 ## 德希尔皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/the-heal?from=skill

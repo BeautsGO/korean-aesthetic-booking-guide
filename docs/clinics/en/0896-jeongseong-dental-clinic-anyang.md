@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeongseong Dental Clinic, Anyang"
+lang: en
+---
+
 ## 정성치과의원 안양 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/jeongseong-dental-clinic-anyang?from=skill

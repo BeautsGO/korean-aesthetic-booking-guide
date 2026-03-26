@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Forena Clinic"
+lang: ja
+---
+
 ## Forena医院 弘大店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/forena-clinic?from=skill

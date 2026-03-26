@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Le Dental Clinic"
+lang: en
+---
+
 ## 韩国le牙科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/le-dental-clinic?from=skill

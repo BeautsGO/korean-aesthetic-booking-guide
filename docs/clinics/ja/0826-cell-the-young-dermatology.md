@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cell the Young Dermatology"
+lang: ja
+---
+
 ## cell the young 皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/cell-the-young-dermatology?from=skill

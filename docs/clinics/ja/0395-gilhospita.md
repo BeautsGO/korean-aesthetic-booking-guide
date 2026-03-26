@@ -1,3 +1,9 @@
+---
+layout: default
+title: "gilhospita"
+lang: ja
+---
+
 ## 仁川加川大吉医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/gilhospita?from=skill

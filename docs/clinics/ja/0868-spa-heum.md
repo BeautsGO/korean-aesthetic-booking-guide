@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Spa Heum"
+lang: ja
+---
+
 ## Spa Heum 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/spa-heum?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yeson Voice Center"
+lang: ja
+---
+
 ## 艺颂耳鼻喉医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/yeson-voice-center?from=skill

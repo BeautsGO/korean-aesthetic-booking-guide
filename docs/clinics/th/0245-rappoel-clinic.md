@@ -1,3 +1,9 @@
+---
+layout: default
+title: "rappoel clinic"
+lang: th
+---
+
 ## rappoel医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/rappoel-clinic?from=skill

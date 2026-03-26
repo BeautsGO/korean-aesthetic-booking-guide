@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cheongdam Arden Dermatology"
+lang: en
+---
+
 ## 清潭arden皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/cheongdam-arden-dermatology?from=skill

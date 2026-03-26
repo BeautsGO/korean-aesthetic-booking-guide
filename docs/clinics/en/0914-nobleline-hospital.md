@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Nobleline Hospital"
+lang: en
+---
+
 ## Nobleline医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/nobleline-hospital?from=skill

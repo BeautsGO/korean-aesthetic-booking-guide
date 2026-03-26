@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MIDAS Seocho"
+lang: ja
+---
+
 ## MIDAS 医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/midas-seocho?from=skill

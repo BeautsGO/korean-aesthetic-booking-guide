@@ -1,3 +1,9 @@
+---
+layout: default
+title: "before&after clinic"
+lang: en
+---
+
 ## 清潭b&a医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/beforeafter-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Made u"
+lang: en
+---
+
 ## MADE U皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/made-u?from=skill

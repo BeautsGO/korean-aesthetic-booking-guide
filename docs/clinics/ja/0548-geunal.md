@@ -1,3 +1,9 @@
+---
+layout: default
+title: "geunal"
+lang: ja
+---
+
 ## 歌娜整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/geunal?from=skill

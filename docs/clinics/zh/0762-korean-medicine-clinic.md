@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Korean Medicine Clinic"
+lang: zh
+---
+
 ## Ye韩医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/korean-medicine-clinic?from=skill

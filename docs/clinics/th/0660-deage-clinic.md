@@ -1,3 +1,9 @@
+---
+layout: default
+title: "De:AGE Clinic"
+lang: th
+---
+
 ## 延世De:AGE医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/deage-clinic?from=skill

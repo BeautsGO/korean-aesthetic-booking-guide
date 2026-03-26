@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Thenan"
+lang: th
+---
+
 ## Thenan คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ppeum Daegu"
+lang: zh
+---
+
 ## 丽芬聚大邱东城路分店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/ppeum-daegu?from=skill

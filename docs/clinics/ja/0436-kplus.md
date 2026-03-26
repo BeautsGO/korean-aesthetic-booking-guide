@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kplus整形外科医院"
+lang: ja
+---
+
 ## kplus整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：

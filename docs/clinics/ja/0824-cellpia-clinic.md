@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cellpia Clinic"
+lang: ja
+---
+
 ## Cellpia医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/cellpia-clinic?from=skill

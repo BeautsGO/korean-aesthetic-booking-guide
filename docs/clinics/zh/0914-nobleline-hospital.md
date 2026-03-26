@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Nobleline Hospital"
+lang: zh
+---
+
 ## Nobleline医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/nobleline-hospital?from=skill

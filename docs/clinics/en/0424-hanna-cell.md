@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hanna Cell"
+lang: en
+---
+
 ## hannacell皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/hanna-cell?from=skill

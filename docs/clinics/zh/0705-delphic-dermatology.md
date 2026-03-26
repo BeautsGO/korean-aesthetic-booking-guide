@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Delphic Dermatology"
+lang: zh
+---
+
 ## 德尔菲皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/delphic-dermatology?from=skill

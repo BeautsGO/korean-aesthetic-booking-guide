@@ -1,3 +1,9 @@
+---
+layout: default
+title: "jasmin line"
+lang: zh
+---
+
 ## 清潭jasmin line医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/jasmin-line?from=skill

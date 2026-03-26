@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Default Studio"
+lang: en
+---
+
 ## 默认相馆 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/default-studio?from=skill

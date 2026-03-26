@@ -1,3 +1,9 @@
+---
+layout: default
+title: "story clinic"
+lang: th
+---
+
 ## story皮肤科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/story-clinic?from=skill

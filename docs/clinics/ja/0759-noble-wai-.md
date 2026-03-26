@@ -1,3 +1,9 @@
+---
+layout: default
+title: "noble wai 整形外科"
+lang: ja
+---
+
 ## noble wai 整形外科 予約ガイド
 
 🔗 こちらから直接予約：

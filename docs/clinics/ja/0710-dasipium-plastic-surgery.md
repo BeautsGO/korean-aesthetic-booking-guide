@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DASIPIUM PLASTIC SURGERY"
+lang: ja
+---
+
 ## DASIPIUM整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/dasipium-plastic-surgery?from=skill

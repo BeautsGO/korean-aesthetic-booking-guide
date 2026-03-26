@@ -1,3 +1,9 @@
+---
+layout: default
+title: "江南daybeau"
+lang: ja
+---
+
 ## 江南daybeau 予約ガイド
 
 🔗 こちらから直接予約：

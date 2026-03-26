@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesol_atelier"
+lang: ja
+---
+
 ## 莱索尔工作室 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lesolatelier?from=skill

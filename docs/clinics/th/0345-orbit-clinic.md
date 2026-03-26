@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Orbit Clinic"
+lang: th
+---
+
 ## Orbit皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/orbit-clinic?from=skill

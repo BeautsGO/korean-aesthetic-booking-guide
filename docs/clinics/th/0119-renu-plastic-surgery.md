@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Renu plastic surgery"
+lang: th
+---
+
 ## Renu外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/renu-plastic-surgery?from=skill

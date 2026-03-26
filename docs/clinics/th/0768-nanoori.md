@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NANOORI医院"
+lang: th
+---
+
 ## NANOORI医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

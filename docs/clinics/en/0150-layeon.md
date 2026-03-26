@@ -1,3 +1,9 @@
+---
+layout: default
+title: "layeon"
+lang: en
+---
+
 ## 罗然韩医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/layeon?from=skill

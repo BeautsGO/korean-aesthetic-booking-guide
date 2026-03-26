@@ -1,3 +1,9 @@
+---
+layout: default
+title: "clair plastic surgery"
+lang: ja
+---
+
 ## 克琳尔整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/clair-plastic-surgery?from=skill

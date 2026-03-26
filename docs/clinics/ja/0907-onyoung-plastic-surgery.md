@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Onyoung Plastic Surgery"
+lang: ja
+---
+
 ## 欧恩漾整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/onyoung-plastic-surgery?from=skill

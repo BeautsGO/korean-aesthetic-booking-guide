@@ -1,3 +1,9 @@
+---
+layout: default
+title: "i love 整形外科"
+lang: ja
+---
+
 ## i love 整形外科 予約ガイド
 
 🔗 こちらから直接予約：

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SWOMAN"
+lang: ja
+---
+
 ## S女性医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/swoman?from=skill

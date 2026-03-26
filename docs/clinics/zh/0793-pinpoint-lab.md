@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Pinpoint Lab"
+lang: zh
+---
+
 ## Pinpoint Lab半永久纹发 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/pinpoint-lab?from=skill

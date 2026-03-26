@@ -1,3 +1,9 @@
+---
+layout: default
+title: "gangnamenter"
+lang: th
+---
+
 ## 江南enter牙科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/gangnamenter?from=skill

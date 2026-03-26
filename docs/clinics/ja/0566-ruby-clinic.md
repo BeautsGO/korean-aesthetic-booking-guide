@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ruby clinic"
+lang: ja
+---
+
 ## ruby皮肤科 良才站 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ruby-clinic?from=skill

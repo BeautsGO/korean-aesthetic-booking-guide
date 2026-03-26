@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BRIGHT EYE CLINIC"
+lang: en
+---
+
 ## 明目眼科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/bright-eye-clinic?from=skill

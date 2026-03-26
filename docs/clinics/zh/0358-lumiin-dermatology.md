@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lumiin Dermatology"
+lang: zh
+---
+
 ## 鹿美人皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/lumiin-dermatology?from=skill

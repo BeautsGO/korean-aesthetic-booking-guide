@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LCPS Plastic Surgery"
+lang: th
+---
+
 ## lcps 整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lcps-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LV Plastic Surgery"
+lang: th
+---
+
 ## LV 整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lv-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Seoul all up"
+lang: ja
+---
+
 ## 首尔ALL UP皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/seoul-all-up?from=skill

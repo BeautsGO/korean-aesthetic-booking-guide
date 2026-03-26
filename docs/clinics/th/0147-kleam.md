@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kleam"
+lang: th
+---
+
 ## 可丽皮肤科（弘大新村店） คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/kleam?from=skill

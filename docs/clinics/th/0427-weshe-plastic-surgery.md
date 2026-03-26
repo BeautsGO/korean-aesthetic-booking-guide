@@ -1,3 +1,9 @@
+---
+layout: default
+title: "WESHE PLASTIC SURGERY"
+lang: th
+---
+
 ## weshe整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/weshe-plastic-surgery?from=skill

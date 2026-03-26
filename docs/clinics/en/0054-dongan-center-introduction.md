@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DongAn Center Introduction"
+lang: en
+---
+
 ## 童颜中心医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/dongan-center-introduction?from=skill

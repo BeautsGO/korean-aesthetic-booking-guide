@@ -1,3 +1,9 @@
+---
+layout: default
+title: "umi skin clinic"
+lang: en
+---
+
 ## 明洞优美皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/umi-skin-clinic?from=skill

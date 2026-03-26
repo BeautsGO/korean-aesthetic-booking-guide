@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lifton Dermatology"
+lang: th
+---
+
 ## lifton皮肤科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lifton-dermatology?from=skill

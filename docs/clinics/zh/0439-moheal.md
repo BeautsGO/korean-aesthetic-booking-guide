@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Moheal"
+lang: zh
+---
+
 ## Moheal医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/moheal?from=skill

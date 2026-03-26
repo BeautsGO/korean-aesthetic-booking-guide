@@ -1,3 +1,9 @@
+---
+layout: default
+title: "hiyonsei women's clinic"
+lang: th
+---
+
 ## Hi延世女性医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/hiyonsei-womens-clinic?from=skill

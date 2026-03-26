@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NoseLab Plastic Surgery"
+lang: en
+---
+
 ## noselab医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/noselab-plastic-surgery?from=skill

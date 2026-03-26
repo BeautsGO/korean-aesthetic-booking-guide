@@ -1,3 +1,9 @@
+---
+layout: default
+title: "reberry clinic Yeongjongdo"
+lang: en
+---
+
 ## reberry医院 永宗岛店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/reberry-clinic-yeongjongdo?from=skill

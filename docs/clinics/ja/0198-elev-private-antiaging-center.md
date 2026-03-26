@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ELEV Private Antiaging Center"
+lang: ja
+---
+
 ## ELEV皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/elev-private-antiaging-center?from=skill

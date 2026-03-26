@@ -1,3 +1,9 @@
+---
+layout: default
+title: "youandchung clinic"
+lang: en
+---
+
 ## youandchung皮肤科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/youandchung-clinic?from=skill

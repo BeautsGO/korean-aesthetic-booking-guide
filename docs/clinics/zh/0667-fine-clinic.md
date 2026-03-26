@@ -1,3 +1,9 @@
+---
+layout: default
+title: "fine clinic"
+lang: zh
+---
+
 ## fine医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/fine-clinic?from=skill

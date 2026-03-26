@@ -1,3 +1,9 @@
+---
+layout: default
+title: "OKAYDermatology"
+lang: en
+---
+
 ## 清潭OK整形外科&皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/okaydermatology?from=skill

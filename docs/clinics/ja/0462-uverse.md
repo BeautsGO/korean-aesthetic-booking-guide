@@ -1,3 +1,9 @@
+---
+layout: default
+title: "uverse整形外科"
+lang: ja
+---
+
 ## uverse整形外科 予約ガイド
 
 🔗 こちらから直接予約：

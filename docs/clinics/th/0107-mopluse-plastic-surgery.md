@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MOPLUSE PLASTIC SURGERY"
+lang: th
+---
+
 ## 毛家毛发移植医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/mopluse-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Beauty_muui"
+lang: en
+---
+
 ## 清潭muui妆造室 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/beautymuui?from=skill

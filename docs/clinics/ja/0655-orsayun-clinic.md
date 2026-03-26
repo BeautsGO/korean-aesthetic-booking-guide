@@ -1,3 +1,9 @@
+---
+layout: default
+title: "orsayun clinic"
+lang: ja
+---
+
 ## orsayun医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/orsayun-clinic?from=skill

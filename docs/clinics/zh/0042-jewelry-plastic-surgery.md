@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JEWELRY PLASTIC SURGERY"
+lang: zh
+---
+
 ## 珠儿丽整形外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/jewelry-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sungeyulahn"
+lang: ja
+---
+
 ## 安成烈整形外科&皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/sungeyulahn?from=skill

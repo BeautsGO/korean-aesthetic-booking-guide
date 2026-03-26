@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dongdaemun doctors"
+lang: ja
+---
+
 ## 东大门doctors皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/dongdaemun-doctors?from=skill

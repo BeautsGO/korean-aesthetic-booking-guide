@@ -1,3 +1,9 @@
+---
+layout: default
+title: "pposong clinic"
+lang: ja
+---
+
 ## pposong皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/pposong-clinic?from=skill

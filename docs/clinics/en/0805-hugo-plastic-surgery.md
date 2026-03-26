@@ -1,3 +1,9 @@
+---
+layout: default
+title: "HUGO PLASTIC SURGERY"
+lang: en
+---
+
 ## Hugo整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/hugo-plastic-surgery?from=skill

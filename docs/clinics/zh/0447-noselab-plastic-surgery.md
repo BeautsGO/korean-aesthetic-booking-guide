@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NoseLab Plastic Surgery"
+lang: zh
+---
+
 ## noselab医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/noselab-plastic-surgery?from=skill

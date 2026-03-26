@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cheongdam AIOO Clinic"
+lang: zh
+---
+
 ## 清潭AIOO Clinic 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/cheongdam-aioo-clinic?from=skill

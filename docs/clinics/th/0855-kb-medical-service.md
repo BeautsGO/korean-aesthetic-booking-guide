@@ -1,3 +1,9 @@
+---
+layout: default
+title: "KB Medical Service"
+lang: th
+---
+
 ## 明亮圣母眼科医院江南店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/kb-medical-service?from=skill

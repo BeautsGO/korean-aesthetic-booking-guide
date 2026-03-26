@@ -1,3 +1,9 @@
+---
+layout: default
+title: "jasmin line"
+lang: en
+---
+
 ## 清潭jasmin line医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/jasmin-line?from=skill

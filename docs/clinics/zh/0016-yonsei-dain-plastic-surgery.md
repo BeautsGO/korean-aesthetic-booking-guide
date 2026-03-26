@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yonsei Dain Plastic Surgery"
+lang: zh
+---
+
 ## 延世多仁整形外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/yonsei-dain-plastic-surgery?from=skill

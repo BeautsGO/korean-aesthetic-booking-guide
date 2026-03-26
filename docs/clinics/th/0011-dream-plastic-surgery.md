@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dream Plastic Surgery"
+lang: th
+---
+
 ## 梦想整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/dream-plastic-surgery?from=skill

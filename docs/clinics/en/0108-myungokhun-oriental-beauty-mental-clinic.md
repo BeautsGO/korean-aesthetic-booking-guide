@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MYUNGOKHUN Oriental Beauty& Mental Clinic"
+lang: en
+---
+
 ## 鸣玉轩韩医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/myungokhun-oriental-beauty-mental-clinic?from=skill

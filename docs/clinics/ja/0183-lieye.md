@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lieye"
+lang: ja
+---
+
 ## 在喜整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lieye?from=skill

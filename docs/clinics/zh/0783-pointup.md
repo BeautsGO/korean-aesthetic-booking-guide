@@ -1,3 +1,9 @@
+---
+layout: default
+title: "pointup医院"
+lang: zh
+---
+
 ## pointup医院 预约指南
 
 🔗 点击直达预约页面：

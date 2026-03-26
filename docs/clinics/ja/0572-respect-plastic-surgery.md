@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RESPECT PLASTIC SURGERY."
+lang: ja
+---
+
 ## respect整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/respect-plastic-surgery?from=skill

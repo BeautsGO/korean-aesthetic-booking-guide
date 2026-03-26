@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theone"
+lang: en
+---
+
 ## theone整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/theone?from=skill

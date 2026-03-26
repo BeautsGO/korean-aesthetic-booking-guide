@@ -1,3 +1,9 @@
+---
+layout: default
+title: "reberry clinic Gangnam"
+lang: zh
+---
+
 ## reberry医院 江南店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/reberry-clinic-gangnam?from=skill

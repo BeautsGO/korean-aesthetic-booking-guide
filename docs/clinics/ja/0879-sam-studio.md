@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sam Studio"
+lang: ja
+---
+
 ## Sam Studio 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/sam-studio?from=skill

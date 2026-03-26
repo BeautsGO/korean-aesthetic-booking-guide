@@ -1,3 +1,9 @@
+---
+layout: default
+title: "barogclinic Gangnam"
+lang: en
+---
+
 ## Barog医院（江南店） Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/barogclinic-gangnam?from=skill

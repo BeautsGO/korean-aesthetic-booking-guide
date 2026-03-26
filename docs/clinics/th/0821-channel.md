@@ -1,3 +1,9 @@
+---
+layout: default
+title: "channel+皮肤科医院"
+lang: th
+---
+
 ## channel+皮肤科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

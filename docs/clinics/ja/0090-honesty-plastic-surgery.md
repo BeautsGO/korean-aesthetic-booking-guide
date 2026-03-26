@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Honesty Plastic Surgery"
+lang: ja
+---
+
 ## HONESTY整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/honesty-plastic-surgery?from=skill

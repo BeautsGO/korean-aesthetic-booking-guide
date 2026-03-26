@@ -1,3 +1,9 @@
+---
+layout: default
+title: "reyeonk"
+lang: zh
+---
+
 ## 丽延k 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/reyeonk?from=skill

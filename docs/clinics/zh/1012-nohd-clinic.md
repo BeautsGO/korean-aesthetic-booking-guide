@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nohd clinic"
+lang: zh
+---
+
 ## nohd医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/nohd-clinic?from=skill

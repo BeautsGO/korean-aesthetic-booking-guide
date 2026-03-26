@@ -1,3 +1,9 @@
+---
+layout: default
+title: "somunnanwoman clinic"
+lang: th
+---
+
 ## 锁恩爱女性医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/somunnanwoman-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "KRISMAS整形外科"
+lang: ja
+---
+
 ## KRISMAS整形外科 予約ガイド
 
 🔗 こちらから直接予約：

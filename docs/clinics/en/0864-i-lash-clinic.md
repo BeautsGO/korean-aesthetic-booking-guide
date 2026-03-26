@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I Lash Clinic"
+lang: en
+---
+
 ## I Lash Clinic Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/i-lash-clinic?from=skill

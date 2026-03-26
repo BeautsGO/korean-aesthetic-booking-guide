@@ -1,3 +1,9 @@
+---
+layout: default
+title: "youth&young clinic"
+lang: th
+---
+
 ## Youth&Young 医院（清潭本店） คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/youthyoung-clinic?from=skill

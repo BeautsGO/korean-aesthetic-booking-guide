@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lavian Plastic Surgery"
+lang: ja
+---
+
 ## 拉菲安整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lavian-plastic-surgery?from=skill

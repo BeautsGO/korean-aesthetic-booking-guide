@@ -1,3 +1,9 @@
+---
+layout: default
+title: "youth clinic"
+lang: zh
+---
+
 ## youth医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/youth-clinic?from=skill

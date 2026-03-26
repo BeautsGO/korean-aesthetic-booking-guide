@@ -1,3 +1,9 @@
+---
+layout: default
+title: "secret clinic"
+lang: zh
+---
+
 ## 希瑞特医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/secret-clinic?from=skill

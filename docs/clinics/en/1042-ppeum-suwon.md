@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ppeum Suwon"
+lang: en
+---
+
 ## 丽芬聚水原店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ppeum-suwon?from=skill

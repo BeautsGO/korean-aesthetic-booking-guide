@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vin Makeup Studio"
+lang: ja
+---
+
 ## Vin化妆室 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/vin-makeup-studio?from=skill

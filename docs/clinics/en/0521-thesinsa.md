@@ -1,3 +1,9 @@
+---
+layout: default
+title: "thesinsa医院"
+lang: en
+---
+
 ## THESINSA医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/thesinsa?from=skill

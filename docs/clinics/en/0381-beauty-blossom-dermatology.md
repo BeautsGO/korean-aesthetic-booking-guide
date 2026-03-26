@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Beauty Blossom Dermatology"
+lang: en
+---
+
 ## 丽朵Beauty blossom皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/beauty-blossom-dermatology?from=skill

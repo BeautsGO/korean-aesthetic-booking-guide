@@ -1,3 +1,9 @@
+---
+layout: default
+title: "restory"
+lang: ja
+---
+
 ## restory整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/restory?from=skill

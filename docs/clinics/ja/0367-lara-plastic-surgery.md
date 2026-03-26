@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lara Plastic Surgery"
+lang: ja
+---
+
 ## 乐日整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lara-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "COLOR SIGNAL"
+lang: th
+---
+
 ## 可中英 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/color-signal?from=skill

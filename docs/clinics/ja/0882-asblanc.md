@@ -1,3 +1,9 @@
+---
+layout: default
+title: "asblanc现代百货千户店"
+lang: ja
+---
+
 ## asblanc现代百货千户店 予約ガイド
 
 🔗 こちらから直接予約：

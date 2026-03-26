@@ -1,3 +1,9 @@
+---
+layout: default
+title: "first clinic"
+lang: en
+---
+
 ## 清潭FIRST整形外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/first-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "day beau clinic"
+lang: zh
+---
+
 ## Day beau皮肤科 弘大店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/day-beau-clinic?from=skill

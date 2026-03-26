@@ -1,3 +1,9 @@
+---
+layout: default
+title: "summit clinic"
+lang: en
+---
+
 ## SUMMIT皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/summit-clinic?from=skill

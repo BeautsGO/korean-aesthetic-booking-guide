@@ -1,3 +1,9 @@
+---
+layout: default
+title: "pastelmood makeup studio"
+lang: zh
+---
+
 ## pastelmood化妆室 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/pastelmood-makeup-studio?from=skill

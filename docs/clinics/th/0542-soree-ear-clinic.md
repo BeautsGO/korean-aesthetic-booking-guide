@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Soree Ear Clinic"
+lang: th
+---
+
 ## Soree耳鼻喉科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/soree-ear-clinic?from=skill

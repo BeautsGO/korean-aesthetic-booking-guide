@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cbjfirst"
+lang: th
+---
+
 ## 第一医院（整形&皮肤） คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cbjfirst?from=skill

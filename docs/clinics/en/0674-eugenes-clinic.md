@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EU:GENES CLINIC"
+lang: en
+---
+
 ## Eugenes医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/eugenes-clinic?from=skill

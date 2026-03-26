@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Woomchan Hair Transplant Surgery"
+lang: th
+---
+
 ## 永长植发医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/woomchan-hair-transplant-surgery?from=skill

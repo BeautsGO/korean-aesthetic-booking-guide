@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LIJIN clinic"
+lang: en
+---
+
 ## 明洞lijin皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/lijin-clinic?from=skill

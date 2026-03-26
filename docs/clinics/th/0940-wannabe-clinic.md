@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wannabe clinic"
+lang: th
+---
+
 ## 釜山奥纳比皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/wannabe-clinic?from=skill

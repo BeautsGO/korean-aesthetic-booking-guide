@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mori Clinic"
+lang: th
+---
+
 ## 毛理医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/mori-clinic?from=skill

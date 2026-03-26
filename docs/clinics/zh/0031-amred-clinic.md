@@ -1,3 +1,9 @@
+---
+layout: default
+title: "AMRED CLINIC"
+lang: zh
+---
+
 ## AMRED皮肤科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/amred-clinic?from=skill

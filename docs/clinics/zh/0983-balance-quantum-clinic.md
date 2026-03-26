@@ -1,3 +1,9 @@
+---
+layout: default
+title: "balance quantum clinic"
+lang: zh
+---
+
 ## balance quantum抗衰中心 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/balance-quantum-clinic?from=skill

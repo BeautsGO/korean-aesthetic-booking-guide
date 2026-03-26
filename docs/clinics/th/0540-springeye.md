@@ -1,3 +1,9 @@
+---
+layout: default
+title: "springeye"
+lang: th
+---
+
 ## springeye คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MOMO HAIR TRANSPLANT"
+lang: th
+---
+
 ## 毛茂整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/momo-hair-transplant?from=skill

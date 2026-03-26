@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cellin clinic Myeongdong"
+lang: en
+---
+
 ## 赛琳明洞店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/cellin-clinic-myeongdong?from=skill

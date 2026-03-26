@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EverGreen Hospital (Jeju Island)"
+lang: en
+---
+
 ## EverGreen医院（济州岛） Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/evergreen-hospital-jeju-island?from=skill

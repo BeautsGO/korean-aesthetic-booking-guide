@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DAYONE CLINIC"
+lang: th
+---
+
 ## dayone皮肤科总院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/dayone-clinic?from=skill

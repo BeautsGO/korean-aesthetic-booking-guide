@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BORN:DI PLASTIC SURGERY"
+lang: zh
+---
+
 ## Brondi整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/borndi-plastic-surgery?from=skill

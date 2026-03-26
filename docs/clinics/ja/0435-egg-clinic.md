@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EGG Clinic"
+lang: ja
+---
+
 ## 新沙EGG皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/egg-clinic?from=skill

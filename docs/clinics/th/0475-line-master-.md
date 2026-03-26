@@ -1,3 +1,9 @@
+---
+layout: default
+title: "line master 医院"
+lang: th
+---
+
 ## line master 医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

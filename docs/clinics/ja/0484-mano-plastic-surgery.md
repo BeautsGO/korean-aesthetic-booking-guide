@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MANO PLASTIC SURGERY"
+lang: ja
+---
+
 ## MANO整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mano-plastic-surgery?from=skill

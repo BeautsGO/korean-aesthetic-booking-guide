@@ -1,3 +1,9 @@
+---
+layout: default
+title: "WESHE PLASTIC SURGERY"
+lang: zh
+---
+
 ## weshe整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/weshe-plastic-surgery?from=skill

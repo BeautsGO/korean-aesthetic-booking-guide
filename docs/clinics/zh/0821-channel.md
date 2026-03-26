@@ -1,3 +1,9 @@
+---
+layout: default
+title: "channel+皮肤科医院"
+lang: zh
+---
+
 ## channel+皮肤科医院 预约指南
 
 🔗 点击直达预约页面：

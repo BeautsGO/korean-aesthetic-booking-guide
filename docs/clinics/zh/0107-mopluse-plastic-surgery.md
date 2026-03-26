@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MOPLUSE PLASTIC SURGERY"
+lang: zh
+---
+
 ## 毛家毛发移植医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/mopluse-plastic-surgery?from=skill

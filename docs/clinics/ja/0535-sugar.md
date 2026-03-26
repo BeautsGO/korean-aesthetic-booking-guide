@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sugar整形外科"
+lang: ja
+---
+
 ## sugar整形外科 予約ガイド
 
 🔗 こちらから直接予約：

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "TJ Plastic Surgery"
+lang: ja
+---
+
 ## tj整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/tj-plastic-surgery?from=skill

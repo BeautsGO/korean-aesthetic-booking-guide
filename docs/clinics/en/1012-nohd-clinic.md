@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nohd clinic"
+lang: en
+---
+
 ## nohd医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/nohd-clinic?from=skill

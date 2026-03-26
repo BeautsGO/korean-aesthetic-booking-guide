@@ -1,3 +1,9 @@
+---
+layout: default
+title: "drgirl 医院"
+lang: th
+---
+
 ## drgirl 医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

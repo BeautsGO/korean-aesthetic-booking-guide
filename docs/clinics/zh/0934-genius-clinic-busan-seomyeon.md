@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Genius Clinic Busan Seomyeon"
+lang: zh
+---
+
 ## genius clinic 釜山西面 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/genius-clinic-busan-seomyeon?from=skill

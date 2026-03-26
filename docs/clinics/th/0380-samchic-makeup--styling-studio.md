@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Samchic Makeup & Styling Studio"
+lang: th
+---
+
 ## samchic妆造店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/samchic-makeup-styling-studio?from=skill

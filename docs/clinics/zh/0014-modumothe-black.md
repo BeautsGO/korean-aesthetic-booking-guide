@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Modumo（the black）"
+lang: zh
+---
+
 ## 布莱克医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/modumothe-black?from=skill

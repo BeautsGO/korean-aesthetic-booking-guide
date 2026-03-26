@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fleur jardin myeongdong"
+lang: en
+---
+
 ## 弗勒尔花园美妆店明洞 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/fleur-jardin-myeongdong?from=skill

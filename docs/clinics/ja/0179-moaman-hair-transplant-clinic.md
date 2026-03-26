@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Moaman Hair Transplant Clinic"
+lang: ja
+---
+
 ## 毛阿满医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/moaman-hair-transplant-clinic?from=skill

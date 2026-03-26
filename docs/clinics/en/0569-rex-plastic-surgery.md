@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Rex Plastic Surgery"
+lang: en
+---
+
 ## Rex整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/rex-plastic-surgery?from=skill

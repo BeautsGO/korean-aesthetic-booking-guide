@@ -1,3 +1,9 @@
+---
+layout: default
+title: "pointup医院"
+lang: ja
+---
+
 ## pointup医院 予約ガイド
 
 🔗 こちらから直接予約：

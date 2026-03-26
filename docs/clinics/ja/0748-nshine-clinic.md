@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nshine clinic"
+lang: ja
+---
+
 ## 清潭nshine医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/nshine-clinic?from=skill

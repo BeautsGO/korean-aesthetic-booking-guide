@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BeautsGO Official Flagship Store"
+lang: en
+---
+
 ## BeautsGO官方旗舰店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/beautsgo-official-flagship-store?from=skill

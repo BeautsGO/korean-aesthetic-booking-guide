@@ -1,3 +1,9 @@
+---
+layout: default
+title: "vencell"
+lang: en
+---
+
 ## vencell Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/vencell?from=skill

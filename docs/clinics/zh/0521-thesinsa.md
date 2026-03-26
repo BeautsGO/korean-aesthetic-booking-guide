@@ -1,3 +1,9 @@
+---
+layout: default
+title: "thesinsa医院"
+lang: zh
+---
+
 ## THESINSA医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/thesinsa?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "reverse clinic"
+lang: th
+---
+
 ## reverse皮肤科 江南店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/reverse-clinic?from=skill

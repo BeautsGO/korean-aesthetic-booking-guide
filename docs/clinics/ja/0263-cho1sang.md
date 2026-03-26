@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cho1sang"
+lang: ja
+---
+
 ## 崔翔妇科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/cho1sang?from=skill

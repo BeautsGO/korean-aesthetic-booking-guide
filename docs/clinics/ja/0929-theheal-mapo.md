@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theheal mapo"
+lang: ja
+---
+
 ## 德希尔皮肤科（麻浦公德店） 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/theheal-mapo?from=skill

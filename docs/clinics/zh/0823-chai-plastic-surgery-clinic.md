@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chai Plastic Surgery Clinic"
+lang: zh
+---
+
 ## CHAI整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/chai-plastic-surgery-clinic?from=skill

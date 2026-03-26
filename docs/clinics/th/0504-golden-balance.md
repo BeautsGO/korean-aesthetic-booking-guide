@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Golden balance"
+lang: th
+---
+
 ## 黄金百伦女性医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/golden-balance?from=skill

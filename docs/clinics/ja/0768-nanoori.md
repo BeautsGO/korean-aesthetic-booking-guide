@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NANOORI医院"
+lang: ja
+---
+
 ## NANOORI医院 予約ガイド
 
 🔗 こちらから直接予約：

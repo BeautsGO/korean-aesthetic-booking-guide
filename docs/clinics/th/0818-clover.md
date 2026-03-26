@@ -1,3 +1,9 @@
+---
+layout: default
+title: "clover妇科"
+lang: th
+---
+
 ## clover妇科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CNUPIC Clinic (Myeongdong)"
+lang: zh
+---
+
 ## cnupic의원(明洞) 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/cnupic-clinic-myeongdong?from=skill

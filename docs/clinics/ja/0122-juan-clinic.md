@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JUAN Clinic"
+lang: ja
+---
+
 ## 珠颜皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/juan-clinic?from=skill

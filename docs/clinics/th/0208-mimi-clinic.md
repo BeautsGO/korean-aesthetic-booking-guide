@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mi&Mi clinic"
+lang: th
+---
+
 ## 美&美医院 江南店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/mimi-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "before&after clinic"
+lang: zh
+---
+
 ## 清潭b&a医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/beforeafter-clinic?from=skill

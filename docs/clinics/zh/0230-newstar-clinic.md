@@ -1,3 +1,9 @@
+---
+layout: default
+title: "newstar clinic"
+lang: zh
+---
+
 ## newstar皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/newstar-clinic?from=skill

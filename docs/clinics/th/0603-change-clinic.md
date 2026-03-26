@@ -1,3 +1,9 @@
+---
+layout: default
+title: "change clinic"
+lang: th
+---
+
 ## 体引脂 整形医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/change-clinic?from=skill

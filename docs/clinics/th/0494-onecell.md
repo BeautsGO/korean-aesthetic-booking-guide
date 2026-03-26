@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Onecell医院"
+lang: th
+---
+
 ## Onecell医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

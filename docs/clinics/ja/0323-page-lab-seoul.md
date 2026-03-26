@@ -1,3 +1,9 @@
+---
+layout: default
+title: "PAGE LAB SEOUL"
+lang: ja
+---
+
 ## pagelab医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/page-lab-seoul?from=skill

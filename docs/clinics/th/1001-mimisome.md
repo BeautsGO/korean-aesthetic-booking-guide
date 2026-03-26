@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mimisome"
+lang: th
+---
+
 ## 米米诊所(釜山德川店) คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/mimisome?from=skill

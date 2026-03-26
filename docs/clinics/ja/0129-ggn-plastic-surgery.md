@@ -1,3 +1,9 @@
+---
+layout: default
+title: "GGN plastic surgery"
+lang: ja
+---
+
 ## 梦美整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ggn-plastic-surgery?from=skill

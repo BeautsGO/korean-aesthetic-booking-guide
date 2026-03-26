@@ -1,3 +1,9 @@
+---
+layout: default
+title: "emediline"
+lang: ja
+---
+
 ## emediline皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/emediline?from=skill

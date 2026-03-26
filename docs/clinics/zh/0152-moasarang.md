@@ -1,3 +1,9 @@
+---
+layout: default
+title: "moasarang"
+lang: zh
+---
+
 ## 江南MOA爱心医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/moasarang?from=skill

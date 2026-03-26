@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Woori  plastic surgery"
+lang: ja
+---
+
 ## 友利整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/woori-plastic-surgery?from=skill

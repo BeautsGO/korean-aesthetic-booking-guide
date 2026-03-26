@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SEMI Plastic Surgery"
+lang: zh
+---
+
 ## 世美整形外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/semi-plastic-surgery?from=skill

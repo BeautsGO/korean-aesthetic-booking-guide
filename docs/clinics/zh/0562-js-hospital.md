@@ -1,3 +1,9 @@
+---
+layout: default
+title: "js hospital"
+lang: zh
+---
+
 ## 江南JS医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/js-hospital?from=skill

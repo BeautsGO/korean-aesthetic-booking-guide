@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theia clinic"
+lang: ja
+---
+
 ## theia 皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/theia-clinic?from=skill

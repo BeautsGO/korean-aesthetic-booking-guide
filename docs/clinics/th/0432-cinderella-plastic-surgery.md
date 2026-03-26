@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cinderella Plastic Surgery"
+lang: th
+---
+
 ## 新帝瑞娜 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cinderella-plastic-surgery?from=skill

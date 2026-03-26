@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Muted 化妆室"
+lang: ja
+---
+
 ## Muted 化妆室 予約ガイド
 
 🔗 こちらから直接予約：

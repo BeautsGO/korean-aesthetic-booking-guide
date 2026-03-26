@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dicarat医院"
+lang: en
+---
+
 ## dicarat医院 Booking Guide
 
 🔗 Book directly here: 

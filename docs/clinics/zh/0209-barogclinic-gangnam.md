@@ -1,3 +1,9 @@
+---
+layout: default
+title: "barogclinic Gangnam"
+lang: zh
+---
+
 ## Barog医院（江南店） 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/barogclinic-gangnam?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mo&line"
+lang: en
+---
+
 ## 毛莱茵植发整形医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/moline?from=skill

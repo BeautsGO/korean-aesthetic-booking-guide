@@ -1,3 +1,9 @@
+---
+layout: default
+title: "PARKVIEW CLINIC"
+lang: ja
+---
+
 ## 仁川PARKVIEW皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/parkview-clinic?from=skill

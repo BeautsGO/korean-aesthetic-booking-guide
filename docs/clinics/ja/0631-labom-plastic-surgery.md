@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Labom Plastic Surgery"
+lang: ja
+---
+
 ## 拉本整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/labom-plastic-surgery?from=skill

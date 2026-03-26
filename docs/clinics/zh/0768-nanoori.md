@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NANOORI医院"
+lang: zh
+---
+
 ## NANOORI医院 预约指南
 
 🔗 点击直达预约页面：

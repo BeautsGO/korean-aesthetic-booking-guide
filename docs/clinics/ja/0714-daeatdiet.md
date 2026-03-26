@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DAEATDIET韩医院"
+lang: ja
+---
+
 ## DAEATDIET韩医院 予約ガイド
 
 🔗 こちらから直接予約：

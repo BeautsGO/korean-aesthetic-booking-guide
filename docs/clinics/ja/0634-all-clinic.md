@@ -1,3 +1,9 @@
+---
+layout: default
+title: "All Clinic"
+lang: ja
+---
+
 ## 明洞all医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/all-clinic?from=skill

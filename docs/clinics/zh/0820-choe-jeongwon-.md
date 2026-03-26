@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Choe Jeongwon 牙科"
+lang: zh
+---
+
 ## Choe Jeongwon 牙科 预约指南
 
 🔗 点击直达预约页面：

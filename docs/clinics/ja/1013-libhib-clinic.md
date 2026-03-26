@@ -1,3 +1,9 @@
+---
+layout: default
+title: "libhib clinic"
+lang: ja
+---
+
 ## 丽本Libhib皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/libhib-clinic?from=skill

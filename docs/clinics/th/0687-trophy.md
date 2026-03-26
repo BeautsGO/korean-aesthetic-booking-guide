@@ -1,3 +1,9 @@
+---
+layout: default
+title: "trophy皮肤科"
+lang: th
+---
+
 ## 奖杯皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/trophy?from=skill

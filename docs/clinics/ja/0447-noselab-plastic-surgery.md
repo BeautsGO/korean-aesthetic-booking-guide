@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NoseLab Plastic Surgery"
+lang: ja
+---
+
 ## noselab医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/noselab-plastic-surgery?from=skill

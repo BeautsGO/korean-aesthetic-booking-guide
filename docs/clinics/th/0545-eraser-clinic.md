@@ -1,3 +1,9 @@
+---
+layout: default
+title: "eraser clinic"
+lang: th
+---
+
 ## 橡皮皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/eraser-clinic?from=skill

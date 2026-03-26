@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chang Clinic"
+lang: ja
+---
+
 ## 昌皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/chang-clinic?from=skill

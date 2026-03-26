@@ -1,3 +1,9 @@
+---
+layout: default
+title: "abijouclinic Myeongdong"
+lang: en
+---
+
 ## 明洞雅秘珠医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/abijouclinic-myeongdong?from=skill

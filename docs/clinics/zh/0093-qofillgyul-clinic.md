@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Qofill&Gyul Clinic"
+lang: zh
+---
+
 ## Qofill&gyul整形医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/qofillgyul-clinic?from=skill

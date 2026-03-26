@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NowMedi医院(济州)"
+lang: zh
+---
+
 ## NowMedi医院(济州) 预约指南
 
 🔗 点击直达预约页面：

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "prime整形外科"
+lang: ja
+---
+
 ## prime整形外科 予約ガイド
 
 🔗 こちらから直接予約：

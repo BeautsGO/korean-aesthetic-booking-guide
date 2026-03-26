@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LaPrin Clinic"
+lang: th
+---
+
 ## 来福琳医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/laprin-clinic?from=skill

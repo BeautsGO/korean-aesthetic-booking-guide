@@ -1,3 +1,9 @@
+---
+layout: default
+title: "etonne"
+lang: en
+---
+
 ## 韩国ETONNE整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/etonne?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "jd clinic"
+lang: zh
+---
+
 ## JD皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/jd-clinic?from=skill

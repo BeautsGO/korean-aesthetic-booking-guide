@@ -1,3 +1,9 @@
+---
+layout: default
+title: "somunnanwoman clinic"
+lang: en
+---
+
 ## 锁恩爱女性医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/somunnanwoman-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lowe hair"
+lang: th
+---
+
 ## 圣水lowe hair คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lowe-hair?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "blancjou"
+lang: en
+---
+
 ## blancjou Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/blancjou?from=skill

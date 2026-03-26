@@ -1,3 +1,9 @@
+---
+layout: default
+title: "antian clinic"
+lang: ja
+---
+
 ## 清潭antian抗衰医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/antian-clinic?from=skill

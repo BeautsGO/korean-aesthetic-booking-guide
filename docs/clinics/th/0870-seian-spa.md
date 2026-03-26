@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SEiAN Spa"
+lang: th
+---
+
 ## SEiAN Spa คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/seian-spa?from=skill

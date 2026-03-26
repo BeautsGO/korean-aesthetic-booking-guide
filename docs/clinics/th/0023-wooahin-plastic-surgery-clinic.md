@@ -1,3 +1,9 @@
+---
+layout: default
+title: "WooAhIn Plastic Surgery Clinic"
+lang: th
+---
+
 ## 优雅人整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/wooahin-plastic-surgery-clinic?from=skill

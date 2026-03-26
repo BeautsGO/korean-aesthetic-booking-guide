@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Modenri"
+lang: th
+---
+
 ## Modenri คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/modenri?from=skill

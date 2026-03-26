@@ -1,3 +1,9 @@
+---
+layout: default
+title: "juno hair Gangnam"
+lang: ja
+---
+
 ## juno hair理发店 江南站1号店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/juno-hair-gangnam?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bellebeau clinic"
+lang: th
+---
+
 ## bellebeau医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/bellebeau-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Little Princess Plastic Surgery"
+lang: zh
+---
+
 ## 小公主整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/little-princess-plastic-surgery?from=skill

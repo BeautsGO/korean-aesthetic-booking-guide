@@ -1,3 +1,9 @@
+---
+layout: default
+title: "owbom clinic"
+lang: ja
+---
+
 ## owbom医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/owbom-clinic?from=skill

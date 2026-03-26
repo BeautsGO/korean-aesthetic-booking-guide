@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mate Plastic Surgery"
+lang: ja
+---
+
 ## Mate整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mate-plastic-surgery?from=skill

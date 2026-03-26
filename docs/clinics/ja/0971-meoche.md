@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MEOCHE照相馆"
+lang: ja
+---
+
 ## MEOCHE照相馆 予約ガイド
 
 🔗 こちらから直接予約：

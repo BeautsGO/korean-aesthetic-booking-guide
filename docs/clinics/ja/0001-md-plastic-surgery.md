@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MD Plastic Surgery"
+lang: ja
+---
+
 ## MD胸部外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/md-plastic-surgery?from=skill

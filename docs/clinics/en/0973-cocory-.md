@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cocory 延禧总店"
+lang: en
+---
+
 ## Cocory 延禧总店 Booking Guide
 
 🔗 Book directly here: 

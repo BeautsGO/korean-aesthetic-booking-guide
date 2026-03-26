@@ -1,3 +1,9 @@
+---
+layout: default
+title: "renovo"
+lang: en
+---
+
 ## 釜山丽诺博 renovo （西面） Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/renovo?from=skill

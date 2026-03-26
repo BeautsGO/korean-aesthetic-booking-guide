@@ -1,3 +1,9 @@
+---
+layout: default
+title: "D&A Dermatology Clinic"
+lang: th
+---
+
 ## D&A皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/da-dermatology-clinic?from=skill

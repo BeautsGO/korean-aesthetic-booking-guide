@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cocory 明洞分店"
+lang: th
+---
+
 ## Cocory 明洞分店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

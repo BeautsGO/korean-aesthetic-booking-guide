@@ -1,3 +1,9 @@
+---
+layout: default
+title: "jionu clinic"
+lang: th
+---
+
 ## 清潭jionu医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jionu-clinic?from=skill

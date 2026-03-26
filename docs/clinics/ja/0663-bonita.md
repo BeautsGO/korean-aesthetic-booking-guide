@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bonita"
+lang: ja
+---
+
 ## 宝妮达医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/bonita?from=skill

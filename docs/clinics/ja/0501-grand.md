@@ -1,3 +1,9 @@
+---
+layout: default
+title: "grand"
+lang: ja
+---
+
 ## 高兰得整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/grand?from=skill

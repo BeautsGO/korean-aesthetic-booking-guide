@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Reageau Clinic"
+lang: th
+---
+
 ## Reageau首尔皮肤科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/reageau-clinic?from=skill

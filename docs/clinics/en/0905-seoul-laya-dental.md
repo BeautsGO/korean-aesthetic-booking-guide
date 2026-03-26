@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Seoul Laya Dental"
+lang: en
+---
+
 ## 首尔啦啦牙科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/seoul-laya-dental?from=skill

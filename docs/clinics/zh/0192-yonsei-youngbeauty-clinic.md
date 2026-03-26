@@ -1,3 +1,9 @@
+---
+layout: default
+title: "YONSEI YOUNG&BEAUTY CLINIC"
+lang: zh
+---
+
 ## 延世YB 医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/yonsei-youngbeauty-clinic?from=skill

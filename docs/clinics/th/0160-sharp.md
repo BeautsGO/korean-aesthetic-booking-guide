@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sharp"
+lang: th
+---
+
 ## SHARP整形医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/sharp?from=skill

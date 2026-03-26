@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kcell clinic"
+lang: th
+---
+
 ## kcell医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/kcell-clinic?from=skill

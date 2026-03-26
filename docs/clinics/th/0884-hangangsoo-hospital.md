@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hangangsoo Hospital"
+lang: th
+---
+
 ## hangangsoo医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/hangangsoo-hospital?from=skill

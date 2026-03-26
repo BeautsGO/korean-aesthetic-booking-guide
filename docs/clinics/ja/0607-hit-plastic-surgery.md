@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hit Plastic Surgery"
+lang: ja
+---
+
 ## hit整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/hit-plastic-surgery?from=skill

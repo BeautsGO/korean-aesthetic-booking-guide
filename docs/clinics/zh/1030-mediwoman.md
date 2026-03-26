@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mediwoman妇科（釜山）"
+lang: zh
+---
+
 ## mediwoman妇科（釜山） 预约指南
 
 🔗 点击直达预约页面：

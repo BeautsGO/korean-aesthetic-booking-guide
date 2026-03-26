@@ -1,3 +1,9 @@
+---
+layout: default
+title: "blancjou"
+lang: th
+---
+
 ## blancjou คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/blancjou?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Trinity women ' s clinic"
+lang: ja
+---
+
 ## 特里尼蒂女性私密整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/trinity-women-s-clinic?from=skill

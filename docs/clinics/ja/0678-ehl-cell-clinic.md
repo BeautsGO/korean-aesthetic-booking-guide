@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EHL Cell Clinic"
+lang: ja
+---
+
 ## EHL Cell医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ehl-cell-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MIINDO Dermatology"
+lang: zh
+---
+
 ## MIINDO皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/miindo-dermatology?from=skill

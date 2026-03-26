@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Reageau Clinic"
+lang: en
+---
+
 ## Reageau首尔皮肤科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/reageau-clinic?from=skill

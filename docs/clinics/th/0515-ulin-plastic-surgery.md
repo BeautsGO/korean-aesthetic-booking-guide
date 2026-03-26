@@ -1,3 +1,9 @@
+---
+layout: default
+title: "U&Lin Plastic Surgery"
+lang: th
+---
+
 ## U&LIN整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/ulin-plastic-surgery?from=skill

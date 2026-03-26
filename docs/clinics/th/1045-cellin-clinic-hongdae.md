@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cellin clinic Hongdae"
+lang: th
+---
+
 ## 赛琳弘大店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cellin-clinic-hongdae?from=skill

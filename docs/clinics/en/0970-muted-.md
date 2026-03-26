@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Muted 化妆室"
+lang: en
+---
+
 ## Muted 化妆室 Booking Guide
 
 🔗 Book directly here: 

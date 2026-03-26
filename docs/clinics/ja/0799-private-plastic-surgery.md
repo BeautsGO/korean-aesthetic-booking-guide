@@ -1,3 +1,9 @@
+---
+layout: default
+title: "private plastic surgery"
+lang: ja
+---
+
 ## private整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/private-plastic-surgery?from=skill

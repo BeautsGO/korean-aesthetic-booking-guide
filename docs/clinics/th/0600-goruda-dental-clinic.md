@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Goruda Dental Clinic"
+lang: th
+---
+
 ## goruda牙科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/goruda-dental-clinic?from=skill

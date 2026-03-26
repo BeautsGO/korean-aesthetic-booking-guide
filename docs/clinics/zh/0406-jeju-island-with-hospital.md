@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeju Island with hospital"
+lang: zh
+---
+
 ## 济州岛with医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/jeju-island-with-hospital?from=skill

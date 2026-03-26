@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ian Manhattan Dental Clinic"
+lang: zh
+---
+
 ## 伊安曼哈顿牙科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/ian-manhattan-dental-clinic?from=skill

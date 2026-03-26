@@ -1,3 +1,9 @@
+---
+layout: default
+title: "grida"
+lang: zh
+---
+
 ## 可丽达整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/grida?from=skill

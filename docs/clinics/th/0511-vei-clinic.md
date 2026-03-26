@@ -1,3 +1,9 @@
+---
+layout: default
+title: "vei clinic"
+lang: th
+---
+
 ## vei 医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/vei-clinic?from=skill

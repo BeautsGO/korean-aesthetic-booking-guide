@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ppeum Hongdae"
+lang: en
+---
+
 ## 丽芬聚弘大国际店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ppeum-hongdae?from=skill

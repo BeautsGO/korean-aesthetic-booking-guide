@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Classic Clinic"
+lang: ja
+---
+
 ## 德克莱斯整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/the-classic-clinic?from=skill

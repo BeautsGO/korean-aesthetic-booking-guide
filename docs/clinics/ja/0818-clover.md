@@ -1,3 +1,9 @@
+---
+layout: default
+title: "clover妇科"
+lang: ja
+---
+
 ## clover妇科 予約ガイド
 
 🔗 こちらから直接予約：

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theliz clinic"
+lang: ja
+---
+
 ## theliz clinic 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/theliz-clinic?from=skill

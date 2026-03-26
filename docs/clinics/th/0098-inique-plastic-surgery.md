@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Inique Plastic Surgery"
+lang: th
+---
+
 ## 爱丽克医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/inique-plastic-surgery?from=skill

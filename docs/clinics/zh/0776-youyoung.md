@@ -1,3 +1,9 @@
+---
+layout: default
+title: "you&young皮肤科"
+lang: zh
+---
+
 ## you&young皮肤科 预约指南
 
 🔗 点击直达预约页面：

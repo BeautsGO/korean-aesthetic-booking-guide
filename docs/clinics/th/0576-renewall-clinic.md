@@ -1,3 +1,9 @@
+---
+layout: default
+title: "renewall clinic"
+lang: th
+---
+
 ## renewall医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/renewall-clinic?from=skill

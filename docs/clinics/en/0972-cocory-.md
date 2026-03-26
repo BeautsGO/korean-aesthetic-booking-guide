@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cocory 明洞分店"
+lang: en
+---
+
 ## Cocory 明洞分店 Booking Guide
 
 🔗 Book directly here: 

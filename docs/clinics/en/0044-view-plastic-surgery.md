@@ -1,3 +1,9 @@
+---
+layout: default
+title: "View Plastic Surgery"
+lang: en
+---
+
 ## 必妩整形医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/view-plastic-surgery?from=skill

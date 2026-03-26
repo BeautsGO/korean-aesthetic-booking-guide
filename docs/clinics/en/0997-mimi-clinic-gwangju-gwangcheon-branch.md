@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mimi Clinic (Gwangju Gwangcheon Branch)"
+lang: en
+---
+
 ## 米米诊所(光州广川店) Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/mimi-clinic-gwangju-gwangcheon-branch?from=skill

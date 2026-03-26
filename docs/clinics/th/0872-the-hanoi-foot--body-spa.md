@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Hanoi Foot & Body SPA"
+lang: th
+---
+
 ## The Hanoi Foot & Body SPA คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/the-hanoi-foot-body-spa?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nohd clinic"
+lang: th
+---
+
 ## nohd医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/nohd-clinic?from=skill

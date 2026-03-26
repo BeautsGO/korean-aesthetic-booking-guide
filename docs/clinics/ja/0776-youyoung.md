@@ -1,3 +1,9 @@
+---
+layout: default
+title: "you&young皮肤科"
+lang: ja
+---
+
 ## you&young皮肤科 予約ガイド
 
 🔗 こちらから直接予約：

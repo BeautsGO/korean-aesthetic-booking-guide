@@ -1,3 +1,9 @@
+---
+layout: default
+title: "江南daybeau"
+lang: zh
+---
+
 ## 江南daybeau 预约指南
 
 🔗 点击直达预约页面：

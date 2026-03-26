@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I FEEL U CLINIC"
+lang: ja
+---
+
 ## Ifeelyou皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/i-feel-u-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I CONTACT PLASTIC SURGERY"
+lang: th
+---
+
 ## I Contact整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/i-contact-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NEWLINE"
+lang: ja
+---
+
 ## Newline皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/newline?from=skill

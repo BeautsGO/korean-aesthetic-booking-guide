@@ -1,3 +1,9 @@
+---
+layout: default
+title: "D&A Dermatology Clinic"
+lang: en
+---
+
 ## D&A皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/da-dermatology-clinic?from=skill

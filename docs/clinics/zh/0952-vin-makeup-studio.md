@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vin Makeup Studio"
+lang: zh
+---
+
 ## Vin化妆室 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/vin-makeup-studio?from=skill

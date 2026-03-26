@@ -1,3 +1,9 @@
+---
+layout: default
+title: "VS LINE CLINIC"
+lang: zh
+---
+
 ## VS LINE皮肤科（狎鸥亭店） 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/vs-line-clinic?from=skill

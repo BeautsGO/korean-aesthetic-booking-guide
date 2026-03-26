@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Profile"
+lang: ja
+---
+
 ## 普罗菲耳整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/profile?from=skill

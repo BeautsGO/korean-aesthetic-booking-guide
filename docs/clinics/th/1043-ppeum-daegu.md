@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ppeum Daegu"
+lang: th
+---
+
 ## 丽芬聚大邱东城路分店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/ppeum-daegu?from=skill

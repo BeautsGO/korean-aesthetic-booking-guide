@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MODS CLINIC"
+lang: ja
+---
+
 ## 摩兹医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mods-clinic?from=skill

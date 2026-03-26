@@ -1,3 +1,9 @@
+---
+layout: default
+title: "YUJIN Plastic Surgery"
+lang: en
+---
+
 ## 友珍 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/yujin-plastic-surgery?from=skill

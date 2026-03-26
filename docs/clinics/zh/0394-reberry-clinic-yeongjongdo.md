@@ -1,3 +1,9 @@
+---
+layout: default
+title: "reberry clinic Yeongjongdo"
+lang: zh
+---
+
 ## reberry医院 永宗岛店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/reberry-clinic-yeongjongdo?from=skill

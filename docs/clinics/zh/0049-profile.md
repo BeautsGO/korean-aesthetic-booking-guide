@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Profile"
+lang: zh
+---
+
 ## 普罗菲耳整形外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/profile?from=skill

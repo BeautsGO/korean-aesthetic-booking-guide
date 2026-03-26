@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Beauty Dermatology (Jeju Island)"
+lang: en
+---
+
 ## 美丽皮肤科（济州岛） Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/beauty-dermatology-jeju-island?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "pointup医院"
+lang: en
+---
+
 ## pointup医院 Booking Guide
 
 🔗 Book directly here: 

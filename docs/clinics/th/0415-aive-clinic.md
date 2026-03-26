@@ -1,3 +1,9 @@
+---
+layout: default
+title: "AIVE CLINIC"
+lang: th
+---
+
 ## aive医院新沙皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/aive-clinic?from=skill

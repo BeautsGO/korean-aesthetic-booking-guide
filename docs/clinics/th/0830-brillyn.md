@@ -1,3 +1,9 @@
+---
+layout: default
+title: "brillyn皮肤科"
+lang: th
+---
+
 ## brillyn皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

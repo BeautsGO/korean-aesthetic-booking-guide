@@ -1,3 +1,9 @@
+---
+layout: default
+title: "AVANT PLASTIC SURGERY & MEDICAL SPA"
+lang: zh
+---
+
 ## Avant整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/avant-plastic-surgery-medical-spa?from=skill

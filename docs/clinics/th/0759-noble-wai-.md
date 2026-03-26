@@ -1,3 +1,9 @@
+---
+layout: default
+title: "noble wai 整形外科"
+lang: th
+---
+
 ## noble wai 整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

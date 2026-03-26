@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesol_atelier"
+lang: th
+---
+
 ## 莱索尔工作室 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lesolatelier?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Maylin Clinic"
+lang: th
+---
+
 ## 仁川媄琳皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/maylin-clinic?from=skill

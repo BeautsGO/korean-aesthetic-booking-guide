@@ -1,3 +1,9 @@
+---
+layout: default
+title: "thefix 整形外科"
+lang: en
+---
+
 ## thefix 整形外科 Booking Guide
 
 🔗 Book directly here: 

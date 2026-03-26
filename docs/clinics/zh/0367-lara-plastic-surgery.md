@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lara Plastic Surgery"
+lang: zh
+---
+
 ## 乐日整形医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/lara-plastic-surgery?from=skill

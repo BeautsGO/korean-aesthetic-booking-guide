@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MINISH DENTAL HOSPITAL"
+lang: ja
+---
+
 ## MINISH口腔医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/minish-dental-hospital?from=skill

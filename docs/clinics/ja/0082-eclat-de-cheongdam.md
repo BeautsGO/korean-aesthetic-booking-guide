@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ECLAT DE CHEONGDAM"
+lang: ja
+---
+
 ## 清潭Eclatde医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/eclat-de-cheongdam?from=skill

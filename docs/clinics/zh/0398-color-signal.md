@@ -1,3 +1,9 @@
+---
+layout: default
+title: "COLOR SIGNAL"
+lang: zh
+---
+
 ## 可中英 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/color-signal?from=skill

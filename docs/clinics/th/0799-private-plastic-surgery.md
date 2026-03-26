@@ -1,3 +1,9 @@
+---
+layout: default
+title: "private plastic surgery"
+lang: th
+---
+
 ## private整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/private-plastic-surgery?from=skill

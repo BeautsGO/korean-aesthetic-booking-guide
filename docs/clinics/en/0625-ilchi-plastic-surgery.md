@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ILCHI Plastic Surgery"
+lang: en
+---
+
 ## 一致整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ilchi-plastic-surgery?from=skill

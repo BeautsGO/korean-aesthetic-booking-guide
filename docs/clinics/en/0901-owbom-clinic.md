@@ -1,3 +1,9 @@
+---
+layout: default
+title: "owbom clinic"
+lang: en
+---
+
 ## owbom医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/owbom-clinic?from=skill

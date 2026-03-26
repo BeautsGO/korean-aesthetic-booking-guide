@@ -1,3 +1,9 @@
+---
+layout: default
+title: "HERSHE Plastic Surgery"
+lang: ja
+---
+
 ## 韩国赫尔希整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/hershe-plastic-surgery?from=skill

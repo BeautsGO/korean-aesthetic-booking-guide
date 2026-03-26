@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Onul Plastic Surgery"
+lang: ja
+---
+
 ## onul整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/onul-plastic-surgery?from=skill

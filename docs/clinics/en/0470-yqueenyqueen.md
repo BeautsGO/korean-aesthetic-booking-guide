@@ -1,3 +1,9 @@
+---
+layout: default
+title: "yqueen/YQUEEN"
+lang: en
+---
+
 ## 颐坤妇科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/yqueenyqueen?from=skill

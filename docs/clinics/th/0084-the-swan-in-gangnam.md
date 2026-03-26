@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Swan in Gangnam"
+lang: th
+---
+
 ## The Swan整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/the-swan-in-gangnam?from=skill

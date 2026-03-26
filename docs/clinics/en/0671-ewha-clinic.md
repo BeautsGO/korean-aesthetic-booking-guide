@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ewha clinic"
+lang: en
+---
+
 ## ewha皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ewha-clinic?from=skill

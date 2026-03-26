@@ -1,3 +1,9 @@
+---
+layout: default
+title: "gangnamenter"
+lang: ja
+---
+
 ## 江南enter牙科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/gangnamenter?from=skill

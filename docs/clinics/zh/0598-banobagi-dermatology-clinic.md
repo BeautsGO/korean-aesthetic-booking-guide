@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Banobagi Dermatology Clinic"
+lang: zh
+---
+
 ## 佰诺佰琪皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/banobagi-dermatology-clinic?from=skill

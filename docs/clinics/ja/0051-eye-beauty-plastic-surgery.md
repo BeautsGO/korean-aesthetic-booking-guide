@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EYE BEAUTY PLASTIC SURGERY"
+lang: ja
+---
+
 ## 大眼睛整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/eye-beauty-plastic-surgery?from=skill

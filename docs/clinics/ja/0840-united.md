@@ -1,3 +1,9 @@
+---
+layout: default
+title: "UNITED医院"
+lang: ja
+---
+
 ## UNITED医院 予約ガイド
 
 🔗 こちらから直接予約：

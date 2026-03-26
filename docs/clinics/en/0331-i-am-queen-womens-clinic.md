@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I AM QUEEN WOMEN'S CLINIC"
+lang: en
+---
+
 ## 千芊妍妇科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/i-am-queen-womens-clinic?from=skill

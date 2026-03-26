@@ -1,3 +1,9 @@
+---
+layout: default
+title: "you&young皮肤科"
+lang: th
+---
+
 ## you&young皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

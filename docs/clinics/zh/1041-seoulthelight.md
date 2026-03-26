@@ -1,3 +1,9 @@
+---
+layout: default
+title: "釜山SeoulTheLight医院"
+lang: zh
+---
+
 ## 釜山SeoulTheLight医院 预约指南
 
 🔗 点击直达预约页面：

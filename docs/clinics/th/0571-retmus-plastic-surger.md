@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RETMUS PLASTIC SURGER"
+lang: th
+---
+
 ## retmus整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/retmus-plastic-surger?from=skill

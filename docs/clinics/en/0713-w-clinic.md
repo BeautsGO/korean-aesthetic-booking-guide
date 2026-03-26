@@ -1,3 +1,9 @@
+---
+layout: default
+title: "w clinic"
+lang: en
+---
+
 ## w医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/w-clinic?from=skill

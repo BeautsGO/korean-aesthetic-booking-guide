@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nbom dermatology"
+lang: en
+---
+
 ## nbom皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/nbom-dermatology?from=skill

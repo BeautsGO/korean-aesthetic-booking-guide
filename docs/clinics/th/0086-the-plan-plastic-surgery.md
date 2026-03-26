@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Plan Plastic Surgery"
+lang: th
+---
+
 ## The Plan整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/the-plan-plastic-surgery?from=skill

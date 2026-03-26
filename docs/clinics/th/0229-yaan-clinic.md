@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yaan Clinic"
+lang: th
+---
+
 ## yaan皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/yaan-clinic?from=skill

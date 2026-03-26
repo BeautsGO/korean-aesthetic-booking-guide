@@ -1,3 +1,9 @@
+---
+layout: default
+title: "UNITED医院"
+lang: th
+---
+
 ## UNITED医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

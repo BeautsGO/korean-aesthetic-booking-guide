@@ -1,3 +1,9 @@
+---
+layout: default
+title: "eraser clinic"
+lang: zh
+---
+
 ## 橡皮皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/eraser-clinic?from=skill

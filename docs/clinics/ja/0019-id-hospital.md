@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ID Hospital"
+lang: ja
+---
+
 ## ID医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/id-hospital?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Luarc PlasticSurgery"
+lang: th
+---
+
 ## luarc整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/luarc-plasticsurgery?from=skill

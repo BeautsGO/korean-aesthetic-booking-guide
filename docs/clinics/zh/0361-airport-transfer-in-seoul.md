@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Airport transfer in Seoul"
+lang: zh
+---
+
 ## 首尔接送机 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/airport-transfer-in-seoul?from=skill

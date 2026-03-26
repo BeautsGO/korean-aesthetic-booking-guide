@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JP Plastic Surgery"
+lang: th
+---
+
 ## JP整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jp-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "you&young皮肤科"
+lang: en
+---
+
 ## you&young皮肤科 Booking Guide
 
 🔗 Book directly here: 

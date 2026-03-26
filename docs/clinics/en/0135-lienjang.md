@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lienjang"
+lang: en
+---
+
 ## 丽延长江南店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/lienjang?from=skill

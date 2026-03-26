@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ppeum Busan"
+lang: ja
+---
+
 ## 丽芬聚釜山国际店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ppeum-busan?from=skill

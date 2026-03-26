@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cocory 明洞分店"
+lang: zh
+---
+
 ## Cocory 明洞分店 预约指南
 
 🔗 点击直达预约页面：

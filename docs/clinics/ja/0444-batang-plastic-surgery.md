@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BATANG Plastic Surgery"
+lang: ja
+---
+
 ## 芭堂整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/batang-plastic-surgery?from=skill

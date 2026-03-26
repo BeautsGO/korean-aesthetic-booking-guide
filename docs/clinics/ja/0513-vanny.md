@@ -1,3 +1,9 @@
+---
+layout: default
+title: "vanny整形医院"
+lang: ja
+---
+
 ## vanny整形医院 予約ガイド
 
 🔗 こちらから直接予約：

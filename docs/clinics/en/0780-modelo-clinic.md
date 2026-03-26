@@ -1,3 +1,9 @@
+---
+layout: default
+title: "modelo clinic"
+lang: en
+---
+
 ## modelo皮肤科医院 清潭店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/modelo-clinic?from=skill

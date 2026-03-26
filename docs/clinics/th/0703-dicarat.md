@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dicarat医院"
+lang: th
+---
+
 ## dicarat医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

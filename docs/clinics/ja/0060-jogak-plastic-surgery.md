@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jogak Plastic Surgery"
+lang: ja
+---
+
 ## 雕刻整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jogak-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kplus整形外科医院"
+lang: th
+---
+
 ## kplus整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

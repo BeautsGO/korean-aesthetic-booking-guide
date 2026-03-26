@@ -1,3 +1,9 @@
+---
+layout: default
+title: "shinsang整形外科"
+lang: ja
+---
+
 ## shinsang整形外科 予約ガイド
 
 🔗 こちらから直接予約：

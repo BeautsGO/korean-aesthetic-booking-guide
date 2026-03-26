@@ -1,3 +1,9 @@
+---
+layout: default
+title: "you&i clinic"
+lang: ja
+---
+
 ## you&i医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/youi-clinic?from=skill

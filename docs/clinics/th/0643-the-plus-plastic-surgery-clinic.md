@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Plus Plastic Surgery Clinic"
+lang: th
+---
+
 ## 德嘉整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/the-plus-plastic-surgery-clinic?from=skill

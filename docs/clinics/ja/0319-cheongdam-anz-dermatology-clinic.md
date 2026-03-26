@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CHEONGDAM ANZ DERMATOLOGY CLINIC"
+lang: ja
+---
+
 ## 清潭anz皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/cheongdam-anz-dermatology-clinic?from=skill

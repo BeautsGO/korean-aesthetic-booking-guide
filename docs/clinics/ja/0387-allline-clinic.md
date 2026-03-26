@@ -1,3 +1,9 @@
+---
+layout: default
+title: "allline clinic"
+lang: ja
+---
+
 ## 弘大allline医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/allline-clinic?from=skill

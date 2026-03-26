@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Melab clinic"
+lang: en
+---
+
 ## 美LAB医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/melab-clinic?from=skill

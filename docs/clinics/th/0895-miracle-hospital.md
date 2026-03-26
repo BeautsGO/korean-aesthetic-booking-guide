@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Miracle Hospital"
+lang: th
+---
+
 ## miracle 医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/miracle-hospital?from=skill

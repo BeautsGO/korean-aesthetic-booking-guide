@@ -1,3 +1,9 @@
+---
+layout: default
+title: "beauty pleasure clinic"
+lang: en
+---
+
 ## 清潭美乐皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/beauty-pleasure-clinic?from=skill

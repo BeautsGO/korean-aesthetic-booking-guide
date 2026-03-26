@@ -1,3 +1,9 @@
+---
+layout: default
+title: "viola cell"
+lang: ja
+---
+
 ## violacell 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/viola-cell?from=skill

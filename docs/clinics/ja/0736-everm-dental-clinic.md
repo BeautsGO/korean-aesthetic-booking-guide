@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EVERM dental clinic"
+lang: ja
+---
+
 ## 爱宝牙科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/everm-dental-clinic?from=skill

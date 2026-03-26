@@ -1,3 +1,9 @@
+---
+layout: default
+title: "be&young clinic"
+lang: ja
+---
+
 ## Be&Young医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/beyoung-clinic?from=skill

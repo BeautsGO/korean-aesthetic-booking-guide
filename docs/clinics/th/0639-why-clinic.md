@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Why clinic"
+lang: th
+---
+
 ## why口腔颌面外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/why-clinic?from=skill

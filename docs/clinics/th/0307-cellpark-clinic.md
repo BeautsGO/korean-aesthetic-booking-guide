@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cellpark clinic"
+lang: th
+---
+
 ## cellpark皮肤科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cellpark-clinic?from=skill

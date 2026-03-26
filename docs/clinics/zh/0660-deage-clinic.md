@@ -1,3 +1,9 @@
+---
+layout: default
+title: "De:AGE Clinic"
+lang: zh
+---
+
 ## 延世De:AGE医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/deage-clinic?from=skill

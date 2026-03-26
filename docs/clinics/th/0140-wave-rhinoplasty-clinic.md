@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wave Rhinoplasty Clinic"
+lang: th
+---
+
 ## Wave医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/wave-rhinoplasty-clinic?from=skill

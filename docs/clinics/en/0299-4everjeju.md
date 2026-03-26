@@ -1,3 +1,9 @@
+---
+layout: default
+title: "4everjeju"
+lang: en
+---
+
 ## 济州4ever jeju Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/4everjeju?from=skill

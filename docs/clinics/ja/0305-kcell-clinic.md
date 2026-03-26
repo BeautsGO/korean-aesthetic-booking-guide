@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kcell clinic"
+lang: ja
+---
+
 ## kcell医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/kcell-clinic?from=skill

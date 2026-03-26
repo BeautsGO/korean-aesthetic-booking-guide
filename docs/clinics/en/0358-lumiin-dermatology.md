@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lumiin Dermatology"
+lang: en
+---
+
 ## 鹿美人皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/lumiin-dermatology?from=skill

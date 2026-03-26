@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sage clinic"
+lang: ja
+---
+
 ## sage 明星直腿医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/sage-clinic?from=skill

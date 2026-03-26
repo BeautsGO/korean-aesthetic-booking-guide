@@ -1,3 +1,9 @@
+---
+layout: default
+title: "U You clinic"
+lang: zh
+---
+
 ## U You clinic 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/u-you-clinic?from=skill

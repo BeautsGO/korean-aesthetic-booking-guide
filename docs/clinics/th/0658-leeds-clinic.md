@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LEEDS CLINIC"
+lang: th
+---
+
 ## 延世leeds医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/leeds-clinic?from=skill

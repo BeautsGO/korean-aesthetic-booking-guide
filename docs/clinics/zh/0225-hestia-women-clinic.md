@@ -1,3 +1,9 @@
+---
+layout: default
+title: "hestia-women clinic"
+lang: zh
+---
+
 ## Hestia女性医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/hestia-women-clinic?from=skill

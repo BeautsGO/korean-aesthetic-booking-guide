@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LCPS Plastic Surgery"
+lang: zh
+---
+
 ## lcps 整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/lcps-plastic-surgery?from=skill

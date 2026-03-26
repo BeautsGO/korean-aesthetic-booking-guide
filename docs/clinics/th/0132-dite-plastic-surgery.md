@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dite Plastic Surgery"
+lang: th
+---
+
 ## DITE 整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/dite-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Color Holic Personalcolor Imagelab"
+lang: th
+---
+
 ## 个人形象诊断工作室 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/color-holic-personalcolor-imagelab?from=skill

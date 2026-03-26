@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MOODON plastic surgery"
+lang: en
+---
+
 ## Mood on 整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/moodon-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "7-Page Photo Studio"
+lang: zh
+---
+
 ## 7页照相馆 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/7-page-photo-studio?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ami clinic"
+lang: ja
+---
+
 ## 阿米医院（济州） 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ami-clinic?from=skill

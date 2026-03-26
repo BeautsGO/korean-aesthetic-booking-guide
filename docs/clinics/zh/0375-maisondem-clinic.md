@@ -1,3 +1,9 @@
+---
+layout: default
+title: "maisondeM clinic"
+lang: zh
+---
+
 ## 梅宗德医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/maisondem-clinic?from=skill

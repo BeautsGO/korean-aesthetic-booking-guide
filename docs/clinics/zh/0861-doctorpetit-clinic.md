@@ -1,3 +1,9 @@
+---
+layout: default
+title: "doctorpetit clinic"
+lang: zh
+---
+
 ## 朵戈芙蒂医院江南店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/doctorpetit-clinic?from=skill

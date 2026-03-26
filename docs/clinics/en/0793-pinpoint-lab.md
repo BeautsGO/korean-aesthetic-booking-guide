@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Pinpoint Lab"
+lang: en
+---
+
 ## Pinpoint Lab半永久纹发 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/pinpoint-lab?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DongAn Center Introduction"
+lang: ja
+---
+
 ## 童颜中心医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/dongan-center-introduction?from=skill

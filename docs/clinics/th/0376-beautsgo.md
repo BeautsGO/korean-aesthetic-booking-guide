@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BeautsGO"
+lang: th
+---
+
 ## BeautsGO คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

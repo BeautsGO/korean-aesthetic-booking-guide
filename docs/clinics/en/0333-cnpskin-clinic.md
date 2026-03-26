@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cnpskin  clinic"
+lang: en
+---
+
 ## cnp皮肤科明洞店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/cnpskin-clinic?from=skill

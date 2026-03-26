@@ -1,3 +1,9 @@
+---
+layout: default
+title: "uverse整形外科"
+lang: th
+---
+
 ## uverse整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

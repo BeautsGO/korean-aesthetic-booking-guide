@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ASBLANC"
+lang: th
+---
+
 ## ASBLANC คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/asblanc?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "elliot clinic"
+lang: en
+---
+
 ## elliot皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/elliot-clinic?from=skill

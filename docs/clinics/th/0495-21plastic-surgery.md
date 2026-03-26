@@ -1,3 +1,9 @@
+---
+layout: default
+title: "21plastic surgery"
+lang: th
+---
+
 ## 21整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/21plastic-surgery?from=skill

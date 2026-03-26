@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ppeum Gangnam"
+lang: en
+---
+
 ## 丽芬聚江南国际总店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ppeum-gangnam?from=skill

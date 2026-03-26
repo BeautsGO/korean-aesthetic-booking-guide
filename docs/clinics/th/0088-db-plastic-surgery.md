@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DB Plastic Surgery"
+lang: th
+---
+
 ## 韩国DB整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/db-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Modenri"
+lang: en
+---
+
 ## Modenri Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/modenri?from=skill

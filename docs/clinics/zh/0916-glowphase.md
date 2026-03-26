@@ -1,3 +1,9 @@
+---
+layout: default
+title: "GlowPhase"
+lang: zh
+---
+
 ## 辉光面纱 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/glowphase?from=skill

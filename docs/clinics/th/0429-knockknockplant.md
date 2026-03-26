@@ -1,3 +1,9 @@
+---
+layout: default
+title: "knockknockplant牙科"
+lang: th
+---
+
 ## knockknockplant牙科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

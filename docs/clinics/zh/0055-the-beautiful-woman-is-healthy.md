@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Beautiful Woman is Healthy"
+lang: zh
+---
+
 ## 好手艺医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/the-beautiful-woman-is-healthy?from=skill

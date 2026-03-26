@@ -1,3 +1,9 @@
+---
+layout: default
+title: "IOU plastic surgery"
+lang: th
+---
+
 ## IOU整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/iou-plastic-surgery?from=skill

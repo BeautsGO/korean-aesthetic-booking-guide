@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Seroi Plastic& Aesthetic Surgery"
+lang: zh
+---
+
 ## 德社罗伊整形医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/the-seroi-plastic-aesthetic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "reyeonk"
+lang: ja
+---
+
 ## 丽延k 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/reyeonk?from=skill

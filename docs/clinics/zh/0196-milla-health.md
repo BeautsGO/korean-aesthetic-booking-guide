@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Milla Health"
+lang: zh
+---
+
 ## 美尔韩方医院（江南本店） 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/milla-health?from=skill

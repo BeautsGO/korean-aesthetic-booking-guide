@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EHL Cell Clinic"
+lang: th
+---
+
 ## EHL Cell医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/ehl-cell-clinic?from=skill

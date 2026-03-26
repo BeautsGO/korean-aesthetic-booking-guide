@@ -1,3 +1,9 @@
+---
+layout: default
+title: "jd clinic"
+lang: ja
+---
+
 ## JD皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jd-clinic?from=skill

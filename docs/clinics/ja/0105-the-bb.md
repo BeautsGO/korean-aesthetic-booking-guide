@@ -1,3 +1,9 @@
+---
+layout: default
+title: "the bb"
+lang: ja
+---
+
 ## 得芘芘整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/the-bb?from=skill

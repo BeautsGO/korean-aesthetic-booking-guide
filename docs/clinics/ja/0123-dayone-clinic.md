@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DAYONE CLINIC"
+lang: ja
+---
+
 ## dayone皮肤科总院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/dayone-clinic?from=skill

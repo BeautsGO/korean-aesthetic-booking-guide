@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DAYONE CLINIC GANGNAM STATION  Korean"
+lang: ja
+---
+
 ## Dayone皮肤科（江南站店） 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/dayone-clinic-gangnam-station-korean?from=skill

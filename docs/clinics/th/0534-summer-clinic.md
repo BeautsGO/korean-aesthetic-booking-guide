@@ -1,3 +1,9 @@
+---
+layout: default
+title: "summer clinic"
+lang: th
+---
+
 ## summer医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/summer-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "PPEUM Myeongdong"
+lang: th
+---
+
 ## 明洞丽芬聚医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/ppeum-myeongdong?from=skill

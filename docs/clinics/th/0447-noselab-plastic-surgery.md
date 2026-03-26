@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NoseLab Plastic Surgery"
+lang: th
+---
+
 ## noselab医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/noselab-plastic-surgery?from=skill

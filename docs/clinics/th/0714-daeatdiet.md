@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DAEATDIET韩医院"
+lang: th
+---
+
 ## DAEATDIET韩医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

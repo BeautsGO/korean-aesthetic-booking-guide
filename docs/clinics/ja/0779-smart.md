@@ -1,3 +1,9 @@
+---
+layout: default
+title: "江南smart医院"
+lang: ja
+---
+
 ## 江南smart医院 予約ガイド
 
 🔗 こちらから直接予約：

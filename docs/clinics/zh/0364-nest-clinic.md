@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nest clinic"
+lang: zh
+---
+
 ## nestclinic 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/nest-clinic?from=skill

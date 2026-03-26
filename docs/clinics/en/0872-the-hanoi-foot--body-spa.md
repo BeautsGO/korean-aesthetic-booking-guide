@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Hanoi Foot & Body SPA"
+lang: en
+---
+
 ## The Hanoi Foot & Body SPA Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/the-hanoi-foot-body-spa?from=skill

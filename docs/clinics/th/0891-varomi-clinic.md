@@ -1,3 +1,9 @@
+---
+layout: default
+title: "varomi clinic"
+lang: th
+---
+
 ## varomi clinic คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/varomi-clinic?from=skill

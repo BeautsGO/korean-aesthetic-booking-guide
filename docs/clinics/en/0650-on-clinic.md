@@ -1,3 +1,9 @@
+---
+layout: default
+title: "on clinic"
+lang: en
+---
+
 ## ON医院(皮肤科） Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/on-clinic?from=skill

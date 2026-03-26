@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ava Hair Apgujeong Rodeo Branch"
+lang: ja
+---
+
 ## 에이바헤어 압구정로데오점 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ava-hair-apgujeong-rodeo-branch?from=skill

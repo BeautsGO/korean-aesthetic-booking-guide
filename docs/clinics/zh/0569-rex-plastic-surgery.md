@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Rex Plastic Surgery"
+lang: zh
+---
+
 ## Rex整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/rex-plastic-surgery?from=skill

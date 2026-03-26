@@ -1,3 +1,9 @@
+---
+layout: default
+title: "muse clinic"
+lang: ja
+---
+
 ## 谬慈医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/muse-clinic?from=skill

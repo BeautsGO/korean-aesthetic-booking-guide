@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lu-cell"
+lang: en
+---
+
 ## lu-cell医院（皮肤科） Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/lu-cell?from=skill

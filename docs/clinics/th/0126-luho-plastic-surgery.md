@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LUHO PLASTIC SURGERY"
+lang: th
+---
+
 ## Luho汝好整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/luho-plastic-surgery?from=skill

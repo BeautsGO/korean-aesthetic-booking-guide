@@ -1,3 +1,9 @@
+---
+layout: default
+title: "3H Cosmetic dental clinic"
+lang: th
+---
+
 ## 三小时牙科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/3h-cosmetic-dental-clinic?from=skill

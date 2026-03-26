@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CLUBMIZ LAMICHE"
+lang: th
+---
+
 ## LAMICHE皮肤科（然美之皮肤科） คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/clubmiz-lamiche?from=skill

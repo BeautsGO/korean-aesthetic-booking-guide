@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JUAN Clinic"
+lang: th
+---
+
 ## 珠颜皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/juan-clinic?from=skill

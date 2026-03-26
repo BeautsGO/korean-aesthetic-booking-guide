@@ -1,3 +1,9 @@
+---
+layout: default
+title: "apple woman"
+lang: en
+---
+
 ## apple妇科医院 往十里店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/apple-woman?from=skill

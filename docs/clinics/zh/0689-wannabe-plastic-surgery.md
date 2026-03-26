@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wannabe plastic surgery"
+lang: zh
+---
+
 ## 奥纳比整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/wannabe-plastic-surgery?from=skill

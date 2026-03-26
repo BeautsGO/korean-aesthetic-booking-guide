@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bellebeau clinic"
+lang: en
+---
+
 ## bellebeau医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/bellebeau-clinic?from=skill

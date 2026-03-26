@@ -1,3 +1,9 @@
+---
+layout: default
+title: "yongsan human clinic"
+lang: th
+---
+
 ## human皮肤科医院 龙山店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/yongsan-human-clinic?from=skill

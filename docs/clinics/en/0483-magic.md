@@ -1,3 +1,9 @@
+---
+layout: default
+title: "magic"
+lang: en
+---
+
 ## magic皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/magic?from=skill

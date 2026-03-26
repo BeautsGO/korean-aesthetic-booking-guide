@@ -1,3 +1,9 @@
+---
+layout: default
+title: "1% PLASTIC SURGERY"
+lang: th
+---
+
 ## 百分之一整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/1-plastic-surgery?from=skill

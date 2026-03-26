@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Good Plastic Surgery"
+lang: th
+---
+
 ## Good整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/good-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EU:GENES CLINIC"
+lang: th
+---
+
 ## Eugenes医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/eugenes-clinic?from=skill

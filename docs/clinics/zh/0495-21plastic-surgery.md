@@ -1,3 +1,9 @@
+---
+layout: default
+title: "21plastic surgery"
+lang: zh
+---
+
 ## 21整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/21plastic-surgery?from=skill

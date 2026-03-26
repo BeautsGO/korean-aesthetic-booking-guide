@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BENJAMIN CLINIC"
+lang: en
+---
+
 ## 本杰明皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/benjamin-clinic?from=skill

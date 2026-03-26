@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sures整形外科"
+lang: th
+---
+
 ## Sures整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

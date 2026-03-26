@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Myeongdong Daybeau"
+lang: th
+---
+
 ## 明洞daybeau คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/myeongdong-daybeau?from=skill

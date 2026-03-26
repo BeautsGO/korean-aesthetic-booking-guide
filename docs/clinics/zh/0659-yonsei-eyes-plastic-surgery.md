@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yonsei Eyes Plastic Surgery"
+lang: zh
+---
+
 ## 延世eyes 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/yonsei-eyes-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bonita"
+lang: en
+---
+
 ## 宝妮达医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/bonita?from=skill

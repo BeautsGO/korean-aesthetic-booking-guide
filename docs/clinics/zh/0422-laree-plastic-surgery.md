@@ -1,3 +1,9 @@
+---
+layout: default
+title: "laree PLASTIC SURGERY"
+lang: zh
+---
+
 ## 来丽laree整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/laree-plastic-surgery?from=skill

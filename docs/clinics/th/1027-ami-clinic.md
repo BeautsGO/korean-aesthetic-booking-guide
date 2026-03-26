@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ami clinic"
+lang: th
+---
+
 ## 阿米医院（济州） คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/ami-clinic?from=skill

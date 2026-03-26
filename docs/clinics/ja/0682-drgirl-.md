@@ -1,3 +1,9 @@
+---
+layout: default
+title: "drgirl 医院"
+lang: ja
+---
+
 ## drgirl 医院 予約ガイド
 
 🔗 こちらから直接予約：

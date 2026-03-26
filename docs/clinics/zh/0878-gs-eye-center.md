@@ -1,3 +1,9 @@
+---
+layout: default
+title: "GS Eye Center"
+lang: zh
+---
+
 ## GS眼科醫院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/gs-eye-center?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vivid Studio"
+lang: th
+---
+
 ## Vivid Studio คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/vivid-studio?from=skill

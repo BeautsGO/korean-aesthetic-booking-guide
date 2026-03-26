@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Hada Plastic Surgery"
+lang: en
+---
+
 ## 多佳德整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/the-hada-plastic-surgery?from=skill

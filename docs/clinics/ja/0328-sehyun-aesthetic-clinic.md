@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SEHYUN AESTHETIC CLINIC"
+lang: ja
+---
+
 ## SEHYUN整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/sehyun-aesthetic-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Pinpoint Lab"
+lang: th
+---
+
 ## Pinpoint Lab半永久纹发 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/pinpoint-lab?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bambi clinic"
+lang: en
+---
+
 ## bambi医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/bambi-clinic?from=skill

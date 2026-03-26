@@ -1,3 +1,9 @@
+---
+layout: default
+title: "pposong clinic"
+lang: en
+---
+
 ## pposong皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/pposong-clinic?from=skill

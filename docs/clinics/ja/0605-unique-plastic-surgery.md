@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Unique Plastic Surgery"
+lang: ja
+---
+
 ## 优尼克整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/unique-plastic-surgery?from=skill

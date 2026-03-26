@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dr cream吸脂中心"
+lang: ja
+---
+
 ## dr cream吸脂中心 予約ガイド
 
 🔗 こちらから直接予約：

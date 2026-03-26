@@ -1,3 +1,9 @@
+---
+layout: default
+title: "wells clinic"
+lang: ja
+---
+
 ## wells皮肤科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/wells-clinic?from=skill

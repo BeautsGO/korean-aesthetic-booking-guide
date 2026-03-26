@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Min Hospital"
+lang: ja
+---
+
 ## 民医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/the-min-hospital?from=skill

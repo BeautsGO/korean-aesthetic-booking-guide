@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RIZ OBSTETRICS GYNECOLOGY"
+lang: en
+---
+
 ## 丽姿私密医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/riz-obstetrics-gynecology?from=skill

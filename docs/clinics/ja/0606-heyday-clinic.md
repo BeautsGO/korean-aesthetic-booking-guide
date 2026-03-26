@@ -1,3 +1,9 @@
+---
+layout: default
+title: "HeyDay Clinic"
+lang: ja
+---
+
 ## HeyDay皮肤医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/heyday-clinic?from=skill

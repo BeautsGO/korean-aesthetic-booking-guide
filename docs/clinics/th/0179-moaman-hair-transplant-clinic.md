@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Moaman Hair Transplant Clinic"
+lang: th
+---
+
 ## 毛阿满医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/moaman-hair-transplant-clinic?from=skill

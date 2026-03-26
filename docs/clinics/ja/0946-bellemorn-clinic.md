@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Bellemorn clinic"
+lang: ja
+---
+
 ## 佰梦整形外科(济州岛） 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/bellemorn-clinic?from=skill

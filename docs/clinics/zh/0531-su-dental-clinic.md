@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Su Dental Clinic"
+lang: zh
+---
+
 ## Su牙科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/su-dental-clinic?from=skill

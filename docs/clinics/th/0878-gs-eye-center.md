@@ -1,3 +1,9 @@
+---
+layout: default
+title: "GS Eye Center"
+lang: th
+---
+
 ## GS眼科醫院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/gs-eye-center?from=skill

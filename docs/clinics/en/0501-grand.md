@@ -1,3 +1,9 @@
+---
+layout: default
+title: "grand"
+lang: en
+---
+
 ## 高兰得整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/grand?from=skill

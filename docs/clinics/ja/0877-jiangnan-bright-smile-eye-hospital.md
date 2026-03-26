@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jiangnan Bright Smile Eye Hospital"
+lang: ja
+---
+
 ## 江南明亮微笑眼科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jiangnan-bright-smile-eye-hospital?from=skill

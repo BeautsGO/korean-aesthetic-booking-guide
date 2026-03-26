@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Doctor Petit"
+lang: ja
+---
+
 ## 建大Doctor Petit 皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/doctor-petit?from=skill

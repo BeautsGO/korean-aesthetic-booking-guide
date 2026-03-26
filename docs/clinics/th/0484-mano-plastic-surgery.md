@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MANO PLASTIC SURGERY"
+lang: th
+---
+
 ## MANO整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/mano-plastic-surgery?from=skill

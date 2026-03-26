@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Herne Clinic"
+lang: en
+---
+
 ## herne医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/herne-clinic?from=skill

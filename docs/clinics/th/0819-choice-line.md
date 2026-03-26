@@ -1,3 +1,9 @@
+---
+layout: default
+title: "choice line塑体医院"
+lang: th
+---
+
 ## choice line塑体医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

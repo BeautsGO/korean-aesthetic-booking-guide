@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theseroi clinic"
+lang: ja
+---
+
 ## theseroi医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/theseroi-clinic?from=skill

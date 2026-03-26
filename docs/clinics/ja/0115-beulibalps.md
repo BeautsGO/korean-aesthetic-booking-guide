@@ -1,3 +1,9 @@
+---
+layout: default
+title: "beulibalps"
+lang: ja
+---
+
 ## Beulibal整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/beulibalps?from=skill

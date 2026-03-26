@@ -1,3 +1,9 @@
+---
+layout: default
+title: "gilhospita"
+lang: th
+---
+
 ## 仁川加川大吉医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/gilhospita?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "barada韩医院"
+lang: th
+---
+
 ## barada韩医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

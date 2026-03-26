@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Leaders Dermatology Clinic"
+lang: th
+---
+
 ## 丽得姿皮肤科 明洞店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/leaders-dermatology-clinic?from=skill

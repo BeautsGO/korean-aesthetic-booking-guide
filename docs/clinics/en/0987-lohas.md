@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lohas医院(济州)"
+lang: en
+---
+
 ## lohas医院(济州) Booking Guide
 
 🔗 Book directly here: 

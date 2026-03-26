@@ -1,3 +1,9 @@
+---
+layout: default
+title: "be&young clinic"
+lang: zh
+---
+
 ## Be&Young医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/beyoung-clinic?from=skill

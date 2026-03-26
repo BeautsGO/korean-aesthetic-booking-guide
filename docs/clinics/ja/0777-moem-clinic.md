@@ -1,3 +1,9 @@
+---
+layout: default
+title: "moem clinic"
+lang: ja
+---
+
 ## moen医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/moem-clinic?from=skill

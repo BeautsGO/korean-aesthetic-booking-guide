@@ -1,3 +1,9 @@
+---
+layout: default
+title: "pointup医院"
+lang: th
+---
+
 ## pointup医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mate Plastic Surgery"
+lang: en
+---
+
 ## Mate整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/mate-plastic-surgery?from=skill

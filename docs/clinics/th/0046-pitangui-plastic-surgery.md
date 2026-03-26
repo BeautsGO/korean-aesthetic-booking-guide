@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Pitangui Plastic Surgery"
+lang: th
+---
+
 ## 必当归医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/pitangui-plastic-surgery?from=skill

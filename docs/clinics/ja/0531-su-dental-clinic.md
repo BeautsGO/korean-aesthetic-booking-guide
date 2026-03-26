@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Su Dental Clinic"
+lang: ja
+---
+
 ## Su牙科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/su-dental-clinic?from=skill

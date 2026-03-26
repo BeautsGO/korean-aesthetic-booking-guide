@@ -1,3 +1,9 @@
+---
+layout: default
+title: "re:one clinic"
+lang: zh
+---
+
 ## reone皮肤科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/reone-clinic?from=skill

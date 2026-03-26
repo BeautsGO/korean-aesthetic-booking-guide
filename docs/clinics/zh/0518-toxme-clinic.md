@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Toxme Clinic"
+lang: zh
+---
+
 ## toxme医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/toxme-clinic?from=skill

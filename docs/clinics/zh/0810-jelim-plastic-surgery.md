@@ -1,3 +1,9 @@
+---
+layout: default
+title: "jelim plastic surgery"
+lang: zh
+---
+
 ## jelim整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/jelim-plastic-surgery?from=skill

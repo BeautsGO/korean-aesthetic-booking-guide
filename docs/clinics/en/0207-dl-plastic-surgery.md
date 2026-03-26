@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DL Plastic Surgery."
+lang: en
+---
+
 ## DL整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/dl-plastic-surgery?from=skill

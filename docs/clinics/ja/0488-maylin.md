@@ -1,3 +1,9 @@
+---
+layout: default
+title: "maylin清潭皮肤科"
+lang: ja
+---
+
 ## maylin清潭皮肤科 予約ガイド
 
 🔗 こちらから直接予約：

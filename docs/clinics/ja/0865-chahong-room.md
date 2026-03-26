@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chahong Room"
+lang: ja
+---
+
 ## Chahong Room 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/chahong-room?from=skill

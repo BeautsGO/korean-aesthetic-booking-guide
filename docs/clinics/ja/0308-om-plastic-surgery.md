@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Om Plastic Surgery"
+lang: ja
+---
+
 ## Om整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/om-plastic-surgery?from=skill

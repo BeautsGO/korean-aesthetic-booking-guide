@@ -1,3 +1,9 @@
+---
+layout: default
+title: "PPEUM Myeongdong"
+lang: en
+---
+
 ## 明洞丽芬聚医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ppeum-myeongdong?from=skill

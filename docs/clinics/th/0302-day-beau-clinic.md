@@ -1,3 +1,9 @@
+---
+layout: default
+title: "day beau clinic"
+lang: th
+---
+
 ## Day beau皮肤科 弘大店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/day-beau-clinic?from=skill

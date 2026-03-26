@@ -1,3 +1,9 @@
+---
+layout: default
+title: "afternoon"
+lang: th
+---
+
 ## afternoon คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

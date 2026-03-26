@@ -1,3 +1,9 @@
+---
+layout: default
+title: "edgeline"
+lang: zh
+---
+
 ## 爱起来 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/edgeline?from=skill

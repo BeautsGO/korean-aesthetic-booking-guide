@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Roi Plastic Surgery"
+lang: th
+---
+
 ## Roi整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/roi-plastic-surgery?from=skill

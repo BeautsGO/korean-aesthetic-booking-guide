@@ -1,3 +1,9 @@
+---
+layout: default
+title: "renewall clinic"
+lang: ja
+---
+
 ## renewall医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/renewall-clinic?from=skill

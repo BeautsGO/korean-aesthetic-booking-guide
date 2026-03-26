@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LOVAÉ CLINIC"
+lang: en
+---
+
 ## 弘大LOVAÉ皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/lova-clinic?from=skill

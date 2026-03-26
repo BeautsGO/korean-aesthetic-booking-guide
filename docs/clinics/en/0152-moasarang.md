@@ -1,3 +1,9 @@
+---
+layout: default
+title: "moasarang"
+lang: en
+---
+
 ## 江南MOA爱心医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/moasarang?from=skill

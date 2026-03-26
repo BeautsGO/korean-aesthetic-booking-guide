@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vibe Plastic Surgery"
+lang: en
+---
+
 ## VIBE整形外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/vibe-plastic-surgery?from=skill

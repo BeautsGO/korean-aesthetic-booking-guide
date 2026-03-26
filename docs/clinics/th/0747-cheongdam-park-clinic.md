@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cheongdam park clinic"
+lang: th
+---
+
 ## 清潭park医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cheongdam-park-clinic?from=skill

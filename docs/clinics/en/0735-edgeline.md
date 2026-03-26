@@ -1,3 +1,9 @@
+---
+layout: default
+title: "edgeline"
+lang: en
+---
+
 ## 爱起来 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/edgeline?from=skill

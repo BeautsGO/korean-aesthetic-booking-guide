@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Leshine"
+lang: ja
+---
+
 ## Leshine 予約ガイド
 
 🔗 こちらから直接予約：

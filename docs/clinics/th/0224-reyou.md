@@ -1,3 +1,9 @@
+---
+layout: default
+title: "reyou"
+lang: th
+---
+
 ## 韩国Reyou皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/reyou?from=skill

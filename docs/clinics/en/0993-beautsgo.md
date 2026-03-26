@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BeautsGO"
+lang: en
+---
+
 ## BeautsGO Booking Guide
 
 🔗 Book directly here: 

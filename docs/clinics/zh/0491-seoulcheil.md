@@ -1,3 +1,9 @@
+---
+layout: default
+title: "seoulcheil"
+lang: zh
+---
+
 ## 首尔第一整形医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/seoulcheil?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DAN-A CLINIC"
+lang: en
+---
+
 ## 明洞丹雅皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/dan-a-clinic?from=skill

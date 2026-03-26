@@ -1,3 +1,9 @@
+---
+layout: default
+title: "1mm PLASTIC SURGERY"
+lang: en
+---
+
 ## 韩国1mm整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/1mm-plastic-surgery?from=skill

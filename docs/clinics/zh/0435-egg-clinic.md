@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EGG Clinic"
+lang: zh
+---
+
 ## 新沙EGG皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/egg-clinic?from=skill

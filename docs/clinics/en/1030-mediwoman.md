@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mediwoman妇科（釜山）"
+lang: en
+---
+
 ## mediwoman妇科（釜山） Booking Guide
 
 🔗 Book directly here: 

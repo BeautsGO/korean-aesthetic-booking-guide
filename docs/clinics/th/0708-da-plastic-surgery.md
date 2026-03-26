@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DA Plastic Surgery"
+lang: th
+---
+
 ## DA整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/da-plastic-surgery?from=skill

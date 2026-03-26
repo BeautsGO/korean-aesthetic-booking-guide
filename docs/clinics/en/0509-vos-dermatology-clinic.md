@@ -1,3 +1,9 @@
+---
+layout: default
+title: "vos dermatology clinic"
+lang: en
+---
+
 ## vos皮肤科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/vos-dermatology-clinic?from=skill

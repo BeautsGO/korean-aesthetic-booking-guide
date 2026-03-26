@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Herne Clinic"
+lang: ja
+---
+
 ## herne医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/herne-clinic?from=skill

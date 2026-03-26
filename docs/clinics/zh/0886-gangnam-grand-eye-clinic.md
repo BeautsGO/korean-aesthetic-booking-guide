@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gangnam Grand Eye Clinic"
+lang: zh
+---
+
 ## Gangnam Grand 眼科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/gangnam-grand-eye-clinic?from=skill

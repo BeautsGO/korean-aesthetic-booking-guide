@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kojunga clinic"
+lang: en
+---
+
 ## kojunga医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/kojunga-clinic?from=skill

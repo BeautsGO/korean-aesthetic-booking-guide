@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Way Plastic Surgery"
+lang: th
+---
+
 ## The Way整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/the-way-plastic-surgery?from=skill

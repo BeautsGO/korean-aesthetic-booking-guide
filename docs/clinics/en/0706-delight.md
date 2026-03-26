@@ -1,3 +1,9 @@
+---
+layout: default
+title: "delight皮肤科医院"
+lang: en
+---
+
 ## delight皮肤科医院 Booking Guide
 
 🔗 Book directly here: 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "goldjclinic"
+lang: th
+---
+
 ## goldj皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/goldjclinic?from=skill

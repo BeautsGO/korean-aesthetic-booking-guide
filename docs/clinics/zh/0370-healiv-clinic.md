@@ -1,3 +1,9 @@
+---
+layout: default
+title: "healiv clinic"
+lang: zh
+---
+
 ## HEALIV希里夫医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/healiv-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cellin clinic Myeongdong"
+lang: zh
+---
+
 ## 赛琳明洞店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/cellin-clinic-myeongdong?from=skill

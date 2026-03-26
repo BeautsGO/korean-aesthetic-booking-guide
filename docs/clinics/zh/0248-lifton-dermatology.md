@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lifton Dermatology"
+lang: zh
+---
+
 ## lifton皮肤科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/lifton-dermatology?from=skill

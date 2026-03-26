@@ -1,3 +1,9 @@
+---
+layout: default
+title: "江南daybeau"
+lang: th
+---
+
 ## 江南daybeau คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "doctors sinsa"
+lang: ja
+---
+
 ## doctors皮肤科新沙本院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/doctors-sinsa?from=skill

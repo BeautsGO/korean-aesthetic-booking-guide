@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yonsei Baro Chuk Hospital"
+lang: ja
+---
+
 ## 延世Barochuk医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/yonsei-baro-chuk-hospital?from=skill

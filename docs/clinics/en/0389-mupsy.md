@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mup_sy"
+lang: en
+---
+
 ## MUPSY Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/mupsy?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "classy"
+lang: zh
+---
+
 ## 可来熙整形外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/classy?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ksy clinic"
+lang: en
+---
+
 ## ksy皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ksy-clinic?from=skill

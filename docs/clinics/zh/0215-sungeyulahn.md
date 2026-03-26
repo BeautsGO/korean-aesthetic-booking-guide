@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sungeyulahn"
+lang: zh
+---
+
 ## 安成烈整形外科&皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/sungeyulahn?from=skill

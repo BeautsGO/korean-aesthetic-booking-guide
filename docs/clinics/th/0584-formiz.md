@@ -1,3 +1,9 @@
+---
+layout: default
+title: "formiz女性医院"
+lang: th
+---
+
 ## formiz女性医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

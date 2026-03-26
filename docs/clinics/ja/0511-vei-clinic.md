@@ -1,3 +1,9 @@
+---
+layout: default
+title: "vei clinic"
+lang: ja
+---
+
 ## vei 医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/vei-clinic?from=skill

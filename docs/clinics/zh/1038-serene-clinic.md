@@ -1,3 +1,9 @@
+---
+layout: default
+title: "serene clinic"
+lang: zh
+---
+
 ## 圣水serene 皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/serene-clinic?from=skill

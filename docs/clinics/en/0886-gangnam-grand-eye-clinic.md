@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gangnam Grand Eye Clinic"
+lang: en
+---
+
 ## Gangnam Grand 眼科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/gangnam-grand-eye-clinic?from=skill

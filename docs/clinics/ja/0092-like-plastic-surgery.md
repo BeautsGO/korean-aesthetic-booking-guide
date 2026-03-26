@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Like Plastic Surgery"
+lang: ja
+---
+
 ## 来客like整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/like-plastic-surgery?from=skill

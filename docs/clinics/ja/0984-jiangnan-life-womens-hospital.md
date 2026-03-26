@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jiangnan Life Women's Hospital"
+lang: ja
+---
+
 ## 江南life妇科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jiangnan-life-womens-hospital?from=skill

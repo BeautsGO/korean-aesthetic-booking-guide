@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Classic Clinic"
+lang: zh
+---
+
 ## 德克莱斯整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/the-classic-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "VAVAI"
+lang: en
+---
+
 ## VAVAI江南区妆造 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/vavai?from=skill

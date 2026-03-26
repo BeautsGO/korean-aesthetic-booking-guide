@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LINK PLASTIC SURGERY CLINIC"
+lang: zh
+---
+
 ## link整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/link-plastic-surgery-clinic?from=skill

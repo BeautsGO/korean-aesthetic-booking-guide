@@ -1,3 +1,9 @@
+---
+layout: default
+title: "354 Plastic Surgery"
+lang: th
+---
+
 ## 345整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/354-plastic-surgery?from=skill

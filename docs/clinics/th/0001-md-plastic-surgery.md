@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MD Plastic Surgery"
+lang: th
+---
+
 ## MD胸部外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/md-plastic-surgery?from=skill

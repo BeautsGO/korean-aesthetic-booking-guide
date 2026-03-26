@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yonsei Hangang Hospital"
+lang: zh
+---
+
 ## 延世汉江医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/yonsei-hangang-hospital?from=skill

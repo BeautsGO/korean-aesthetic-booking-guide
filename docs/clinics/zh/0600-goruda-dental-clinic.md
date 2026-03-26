@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Goruda Dental Clinic"
+lang: zh
+---
+
 ## goruda牙科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/goruda-dental-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nubebe医院(弘大)"
+lang: en
+---
+
 ## nubebe医院(弘大) Booking Guide
 
 🔗 Book directly here: 

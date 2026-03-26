@@ -1,3 +1,9 @@
+---
+layout: default
+title: "smin clinic"
+lang: ja
+---
+
 ## 清潭smin 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/smin-clinic?from=skill

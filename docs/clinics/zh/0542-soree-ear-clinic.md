@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Soree Ear Clinic"
+lang: zh
+---
+
 ## Soree耳鼻喉科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/soree-ear-clinic?from=skill

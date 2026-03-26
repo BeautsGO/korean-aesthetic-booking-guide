@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeju THE MIIN"
+lang: th
+---
+
 ## 济州THE MIIN คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jeju-the-miin?from=skill

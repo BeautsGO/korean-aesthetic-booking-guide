@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kisome化妆室"
+lang: zh
+---
+
 ## kisome化妆室 预约指南
 
 🔗 点击直达预约页面：

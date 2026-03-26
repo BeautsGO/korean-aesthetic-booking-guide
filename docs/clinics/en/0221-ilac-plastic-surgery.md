@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ILAC PLASTIC SURGERY"
+lang: en
+---
+
 ## 韩国I LIKE整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ilac-plastic-surgery?from=skill

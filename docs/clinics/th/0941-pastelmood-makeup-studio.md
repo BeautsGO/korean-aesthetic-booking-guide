@@ -1,3 +1,9 @@
+---
+layout: default
+title: "pastelmood makeup studio"
+lang: th
+---
+
 ## pastelmood化妆室 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/pastelmood-makeup-studio?from=skill

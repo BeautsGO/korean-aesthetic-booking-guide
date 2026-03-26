@@ -1,3 +1,9 @@
+---
+layout: default
+title: "summer clinic"
+lang: ja
+---
+
 ## summer医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/summer-clinic?from=skill

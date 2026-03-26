@@ -1,3 +1,9 @@
+---
+layout: default
+title: "iris dermatology clinic"
+lang: th
+---
+
 ## 圣水艾瑞诗皮肤科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/iris-dermatology-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lowell整形外科"
+lang: ja
+---
+
 ## lowell整形外科 予約ガイド
 
 🔗 こちらから直接予約：

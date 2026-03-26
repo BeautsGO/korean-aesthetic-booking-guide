@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NewYork White Dental Clinic"
+lang: en
+---
+
 ## NewYork White牙科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/newyork-white-dental-clinic?from=skill

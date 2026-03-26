@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tailor Plastic Surgery"
+lang: ja
+---
+
 ## 卓佑炫整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/tailor-plastic-surgery?from=skill

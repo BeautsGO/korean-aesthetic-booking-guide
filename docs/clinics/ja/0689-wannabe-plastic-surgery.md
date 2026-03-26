@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wannabe plastic surgery"
+lang: ja
+---
+
 ## 奥纳比整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/wannabe-plastic-surgery?from=skill

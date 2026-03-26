@@ -1,3 +1,9 @@
+---
+layout: default
+title: "delight皮肤科医院"
+lang: ja
+---
+
 ## delight皮肤科医院 予約ガイド
 
 🔗 こちらから直接予約：

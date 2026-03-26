@@ -1,3 +1,9 @@
+---
+layout: default
+title: "rejuel clinic"
+lang: ja
+---
+
 ## 丽珠尔皮肤科江南店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/rejuel-clinic?from=skill

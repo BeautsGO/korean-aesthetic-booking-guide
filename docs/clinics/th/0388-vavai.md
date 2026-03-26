@@ -1,3 +1,9 @@
+---
+layout: default
+title: "VAVAI"
+lang: th
+---
+
 ## VAVAI江南区妆造 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/vavai?from=skill

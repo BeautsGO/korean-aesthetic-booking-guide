@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Beauty_2tti"
+lang: en
+---
+
 ## Beauty_2tti妆造 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/beauty2tti?from=skill

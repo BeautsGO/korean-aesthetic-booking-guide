@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dr borw"
+lang: ja
+---
+
 ## dr borw 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/dr-borw?from=skill

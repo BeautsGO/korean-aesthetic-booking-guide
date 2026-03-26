@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Way Plastic Surgery"
+lang: ja
+---
+
 ## The Way整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/the-way-plastic-surgery?from=skill

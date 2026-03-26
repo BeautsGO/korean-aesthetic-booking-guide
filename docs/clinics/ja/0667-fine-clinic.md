@@ -1,3 +1,9 @@
+---
+layout: default
+title: "fine clinic"
+lang: ja
+---
+
 ## fine医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/fine-clinic?from=skill

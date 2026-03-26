@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BELLA CLINIC"
+lang: zh
+---
+
 ## 江南BELLA医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/bella-clinic?from=skill

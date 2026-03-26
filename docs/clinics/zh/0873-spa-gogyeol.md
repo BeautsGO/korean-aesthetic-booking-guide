@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Spa Gogyeol"
+lang: zh
+---
+
 ## Spa Gogyeol 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/spa-gogyeol?from=skill

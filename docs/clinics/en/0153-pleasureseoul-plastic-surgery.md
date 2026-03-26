@@ -1,3 +1,9 @@
+---
+layout: default
+title: "PLEASURESEOUL PLASTIC SURGERY."
+lang: en
+---
+
 ## 福莱泽整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/pleasureseoul-plastic-surgery?from=skill

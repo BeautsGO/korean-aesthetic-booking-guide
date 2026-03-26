@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Pitangui Plastic Surgery"
+lang: en
+---
+
 ## 必当归医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/pitangui-plastic-surgery?from=skill

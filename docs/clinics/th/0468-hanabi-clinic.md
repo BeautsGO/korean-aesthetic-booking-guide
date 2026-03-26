@@ -1,3 +1,9 @@
+---
+layout: default
+title: "hanabi clinic"
+lang: th
+---
+
 ## 韩娜鼻医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/hanabi-clinic?from=skill

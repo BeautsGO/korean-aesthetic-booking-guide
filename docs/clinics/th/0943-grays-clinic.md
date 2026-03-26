@@ -1,3 +1,9 @@
+---
+layout: default
+title: "gray’s clinic"
+lang: th
+---
+
 ## 釜山格莱斯皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/grays-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hit Plastic Surgery"
+lang: th
+---
+
 ## hit整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/hit-plastic-surgery?from=skill

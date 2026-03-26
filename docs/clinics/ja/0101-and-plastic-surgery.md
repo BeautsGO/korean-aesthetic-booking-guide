@@ -1,3 +1,9 @@
+---
+layout: default
+title: "AND Plastic Surgery"
+lang: ja
+---
+
 ## And整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/and-plastic-surgery?from=skill

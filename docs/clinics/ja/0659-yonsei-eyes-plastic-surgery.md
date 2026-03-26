@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yonsei Eyes Plastic Surgery"
+lang: ja
+---
+
 ## 延世eyes 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/yonsei-eyes-plastic-surgery?from=skill

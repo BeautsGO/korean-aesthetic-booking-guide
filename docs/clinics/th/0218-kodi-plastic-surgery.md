@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kodi Plastic Surgery"
+lang: th
+---
+
 ## KODI整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/kodi-plastic-surgery?from=skill

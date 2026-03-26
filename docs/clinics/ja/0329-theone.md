@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theone"
+lang: ja
+---
+
 ## theone整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/theone?from=skill

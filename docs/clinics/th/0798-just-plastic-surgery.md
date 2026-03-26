@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Just Plastic Surgery"
+lang: th
+---
+
 ## Just整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/just-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fresh Plastic Surgery"
+lang: th
+---
+
 ## 芙莱思整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/fresh-plastic-surgery?from=skill

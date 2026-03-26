@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cocory 延禧总店"
+lang: th
+---
+
 ## Cocory 延禧总店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "COWELL Plastic Surgery"
+lang: ja
+---
+
 ## 科威尔整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/cowell-plastic-surgery?from=skill

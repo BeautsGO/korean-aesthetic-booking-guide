@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ohn Studio"
+lang: th
+---
+
 ## 稳工作室 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/ohn-studio?from=skill

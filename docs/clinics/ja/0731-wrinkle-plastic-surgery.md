@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wrinkle Plastic Surgery"
+lang: ja
+---
+
 ## 玲克整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/wrinkle-plastic-surgery?from=skill

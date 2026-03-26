@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Choe Jeongwon 牙科"
+lang: ja
+---
+
 ## Choe Jeongwon 牙科 予約ガイド
 
 🔗 こちらから直接予約：

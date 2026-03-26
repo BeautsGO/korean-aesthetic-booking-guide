@@ -1,3 +1,9 @@
+---
+layout: default
+title: "doctors sinsa"
+lang: th
+---
+
 ## doctors皮肤科新沙本院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/doctors-sinsa?from=skill

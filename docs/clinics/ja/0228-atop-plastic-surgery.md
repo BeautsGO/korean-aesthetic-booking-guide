@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ATOP PLASTIC SURGERY"
+lang: ja
+---
+
 ## 爱她ATOP整形外科（皮肤科） 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/atop-plastic-surgery?from=skill

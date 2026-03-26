@@ -1,3 +1,9 @@
+---
+layout: default
+title: "juno hair mongdong4"
+lang: en
+---
+
 ## juno hair明洞4号店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/juno-hair-mongdong4?from=skill

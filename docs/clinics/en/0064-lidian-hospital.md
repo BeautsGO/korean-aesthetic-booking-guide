@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lidian Hospital"
+lang: en
+---
+
 ## 丽迪安医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/lidian-hospital?from=skill

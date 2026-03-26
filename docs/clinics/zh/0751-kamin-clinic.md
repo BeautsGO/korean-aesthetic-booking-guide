@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kamin clinic"
+lang: zh
+---
+
 ## 清潭kamin皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/kamin-clinic?from=skill

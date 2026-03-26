@@ -1,3 +1,9 @@
+---
+layout: default
+title: "VIP International Plastic Surgery"
+lang: en
+---
+
 ## VIP整形医院济州 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/vip-international-plastic-surgery?from=skill

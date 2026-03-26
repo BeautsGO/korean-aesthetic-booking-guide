@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Foot Shop Massage"
+lang: en
+---
+
 ## 江南腳底按摩 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/the-foot-shop-massage?from=skill

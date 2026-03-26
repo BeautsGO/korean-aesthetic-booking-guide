@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Railey Dressing Room"
+lang: th
+---
+
 ## Railey化妆室 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/railey-dressing-room?from=skill

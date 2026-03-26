@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ROSE Plastic Surgery"
+lang: en
+---
+
 ## ROSE整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/rose-plastic-surgery?from=skill

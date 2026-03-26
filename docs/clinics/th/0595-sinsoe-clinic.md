@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sinsoe Clinic"
+lang: th
+---
+
 ## 信所爱女性医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/sinsoe-clinic?from=skill

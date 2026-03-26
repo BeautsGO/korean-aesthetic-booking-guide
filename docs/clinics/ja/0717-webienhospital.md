@@ -1,3 +1,9 @@
+---
+layout: default
+title: "webienhospital"
+lang: ja
+---
+
 ## 胃飞扬医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/webienhospital?from=skill

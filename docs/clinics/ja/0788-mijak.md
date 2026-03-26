@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mijak整形外科"
+lang: ja
+---
+
 ## mijak整形外科 予約ガイド
 
 🔗 こちらから直接予約：

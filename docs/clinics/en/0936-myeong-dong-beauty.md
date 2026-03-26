@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Myeong-dong beauty"
+lang: en
+---
+
 ## 明洞beauty半永久化妆按摩 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/myeong-dong-beauty?from=skill

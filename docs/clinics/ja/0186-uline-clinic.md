@@ -1,3 +1,9 @@
+---
+layout: default
+title: "uline clinic"
+lang: ja
+---
+
 ## 延世ULINE牙科（江南店） 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/uline-clinic?from=skill

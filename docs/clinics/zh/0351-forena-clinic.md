@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Forena Clinic"
+lang: zh
+---
+
 ## Forena医院 弘大店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/forena-clinic?from=skill

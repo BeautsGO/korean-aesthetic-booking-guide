@@ -1,3 +1,9 @@
+---
+layout: default
+title: "milla clinic"
+lang: ja
+---
+
 ## milla医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/milla-clinic?from=skill

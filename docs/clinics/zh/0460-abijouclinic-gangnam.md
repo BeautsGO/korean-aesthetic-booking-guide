@@ -1,3 +1,9 @@
+---
+layout: default
+title: "abijouclinic Gangnam"
+lang: zh
+---
+
 ## 雅秘珠医院江南店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/abijouclinic-gangnam?from=skill

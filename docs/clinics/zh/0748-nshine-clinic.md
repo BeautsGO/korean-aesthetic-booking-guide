@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nshine clinic"
+lang: zh
+---
+
 ## 清潭nshine医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/nshine-clinic?from=skill

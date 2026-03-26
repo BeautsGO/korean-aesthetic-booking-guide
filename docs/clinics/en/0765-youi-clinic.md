@@ -1,3 +1,9 @@
+---
+layout: default
+title: "you&i clinic"
+lang: en
+---
+
 ## you&i医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/youi-clinic?from=skill

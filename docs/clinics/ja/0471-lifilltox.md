@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lifilltox丽菲尔特"
+lang: ja
+---
+
 ## lifilltox丽菲尔特 予約ガイド
 
 🔗 こちらから直接予約：

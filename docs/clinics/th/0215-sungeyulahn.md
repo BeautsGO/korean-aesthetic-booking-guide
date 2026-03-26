@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sungeyulahn"
+lang: th
+---
+
 ## 安成烈整形外科&皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/sungeyulahn?from=skill

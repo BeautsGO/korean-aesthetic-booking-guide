@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theseroi clinic"
+lang: en
+---
+
 ## theseroi医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/theseroi-clinic?from=skill

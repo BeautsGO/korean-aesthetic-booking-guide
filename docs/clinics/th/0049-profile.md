@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Profile"
+lang: th
+---
+
 ## 普罗菲耳整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/profile?from=skill

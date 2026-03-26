@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ThreeWishes Myeongdong"
+lang: ja
+---
+
 ## 三个心愿（明洞店） 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/threewishes-myeongdong?from=skill

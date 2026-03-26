@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Moheal"
+lang: ja
+---
+
 ## Moheal医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/moheal?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "t1 clinic"
+lang: zh
+---
+
 ## T1医院三成店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/t1-clinic?from=skill

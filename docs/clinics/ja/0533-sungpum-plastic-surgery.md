@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sungpum Plastic Surgery"
+lang: ja
+---
+
 ## Sungpum整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/sungpum-plastic-surgery?from=skill

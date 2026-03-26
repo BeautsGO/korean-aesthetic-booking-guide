@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Milla Health"
+lang: en
+---
+
 ## 美尔韩方医院（江南本店） Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/milla-health?from=skill

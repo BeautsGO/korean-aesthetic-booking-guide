@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vin Makeup Studio"
+lang: th
+---
+
 ## Vin化妆室 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/vin-makeup-studio?from=skill

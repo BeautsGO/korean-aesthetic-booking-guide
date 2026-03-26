@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kisome化妆室"
+lang: en
+---
+
 ## kisome化妆室 Booking Guide
 
 🔗 Book directly here: 

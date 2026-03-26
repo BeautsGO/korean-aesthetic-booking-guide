@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nubebe医院(弘大)"
+lang: ja
+---
+
 ## nubebe医院(弘大) 予約ガイド
 
 🔗 こちらから直接予約：

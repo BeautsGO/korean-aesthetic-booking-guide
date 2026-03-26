@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DABIDA PLASTIC SURGERY CLINIC"
+lang: th
+---
+
 ## 答必达整形医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/dabida-plastic-surgery-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jogak Plastic Surgery"
+lang: th
+---
+
 ## 雕刻整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jogak-plastic-surgery?from=skill

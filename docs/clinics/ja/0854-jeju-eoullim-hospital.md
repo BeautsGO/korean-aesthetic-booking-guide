@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeju EOULLIM Hospital"
+lang: ja
+---
+
 ## 济州EOULLIM医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jeju-eoullim-hospital?from=skill

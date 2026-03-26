@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Afor Hospital"
+lang: th
+---
+
 ## afor医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/afor-hospital?from=skill

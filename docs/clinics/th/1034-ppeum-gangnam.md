@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ppeum Gangnam"
+lang: th
+---
+
 ## 丽芬聚江南国际总店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/ppeum-gangnam?from=skill

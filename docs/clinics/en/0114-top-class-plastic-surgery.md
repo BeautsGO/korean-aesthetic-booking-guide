@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Top Class Plastic Surgery"
+lang: en
+---
+
 ## Topclass整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/top-class-plastic-surgery?from=skill

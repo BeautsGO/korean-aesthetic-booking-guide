@@ -1,3 +1,9 @@
+---
+layout: default
+title: "youth clinic"
+lang: th
+---
+
 ## youth医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/youth-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "afternoon"
+lang: ja
+---
+
 ## afternoon 予約ガイド
 
 🔗 こちらから直接予約：

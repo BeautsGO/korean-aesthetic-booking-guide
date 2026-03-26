@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BEAUTY & YOUNG CLINIC"
+lang: ja
+---
+
 ## beauty&young 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/beauty-young-clinic?from=skill

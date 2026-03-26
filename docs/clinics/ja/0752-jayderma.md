@@ -1,3 +1,9 @@
+---
+layout: default
+title: "清潭jayderma医院"
+lang: ja
+---
+
 ## 清潭jayderma医院 予約ガイド
 
 🔗 こちらから直接予約：

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fact Plastic Surgery"
+lang: en
+---
+
 ## Fact整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/fact-plastic-surgery?from=skill

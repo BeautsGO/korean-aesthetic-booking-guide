@@ -1,3 +1,9 @@
+---
+layout: default
+title: "VAVAI"
+lang: zh
+---
+
 ## VAVAI江南区妆造 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/vavai?from=skill

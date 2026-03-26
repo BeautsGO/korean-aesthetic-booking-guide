@@ -1,3 +1,9 @@
+---
+layout: default
+title: "the lift"
+lang: ja
+---
+
 ## THE LIFT（济州） 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/the-lift?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lidian Hospital"
+lang: ja
+---
+
 ## 丽迪安医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lidian-hospital?from=skill

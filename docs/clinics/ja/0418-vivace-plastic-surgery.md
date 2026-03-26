@@ -1,3 +1,9 @@
+---
+layout: default
+title: "VIVACE PLASTIC SURGERY"
+lang: ja
+---
+
 ## VIVACE整形皮肤济州 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/vivace-plastic-surgery?from=skill

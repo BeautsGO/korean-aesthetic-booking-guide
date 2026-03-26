@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Miracle Hospital"
+lang: en
+---
+
 ## miracle 医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/miracle-hospital?from=skill

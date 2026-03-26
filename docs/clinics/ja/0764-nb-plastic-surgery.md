@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NB Plastic Surgery"
+lang: ja
+---
+
 ## NB 整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/nb-plastic-surgery?from=skill

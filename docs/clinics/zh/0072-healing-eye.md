@@ -1,3 +1,9 @@
+---
+layout: default
+title: "HEALING EYE"
+lang: zh
+---
+
 ## healing眼科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/healing-eye?from=skill

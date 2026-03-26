@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Keye eye clinic"
+lang: th
+---
+
 ## KEYE眼科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/keye-eye-clinic?from=skill

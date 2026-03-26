@@ -1,3 +1,9 @@
+---
+layout: default
+title: "secondspringwomen clinic"
+lang: ja
+---
+
 ## 第二春妇科医院（狎鸥亭店） 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/secondspringwomen-clinic?from=skill

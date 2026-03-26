@@ -1,3 +1,9 @@
+---
+layout: default
+title: "restory"
+lang: en
+---
+
 ## restory整形医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/restory?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "centum core clinic"
+lang: zh
+---
+
 ## 釜山cc整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/centum-core-clinic?from=skill

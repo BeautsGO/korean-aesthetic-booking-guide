@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NowMedi医院(济州)"
+lang: th
+---
+
 ## NowMedi医院(济州) คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

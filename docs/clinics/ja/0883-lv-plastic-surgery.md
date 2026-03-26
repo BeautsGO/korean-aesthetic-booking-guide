@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LV Plastic Surgery"
+lang: ja
+---
+
 ## LV 整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lv-plastic-surgery?from=skill

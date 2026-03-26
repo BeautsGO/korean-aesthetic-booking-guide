@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Banana plastic surgery"
+lang: en
+---
+
 ## Banana整形外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/banana-plastic-surgery?from=skill

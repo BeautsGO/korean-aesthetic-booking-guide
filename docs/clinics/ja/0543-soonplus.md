@@ -1,3 +1,9 @@
+---
+layout: default
+title: "soonplus"
+lang: ja
+---
+
 ## soon plus整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/soonplus?from=skill

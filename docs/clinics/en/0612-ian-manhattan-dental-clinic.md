@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ian Manhattan Dental Clinic"
+lang: en
+---
+
 ## 伊安曼哈顿牙科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ian-manhattan-dental-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EY CLINIC"
+lang: en
+---
+
 ## ey医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ey-clinic?from=skill

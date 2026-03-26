@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Next Plastic Surgery"
+lang: ja
+---
+
 ## NEXT整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/next-plastic-surgery?from=skill

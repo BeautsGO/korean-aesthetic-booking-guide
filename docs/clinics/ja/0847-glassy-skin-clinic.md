@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Glassy Skin Clinic"
+lang: ja
+---
+
 ## glassy皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/glassy-skin-clinic?from=skill

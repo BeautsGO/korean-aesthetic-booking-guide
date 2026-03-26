@@ -1,3 +1,9 @@
+---
+layout: default
+title: "XENIA CLINIC"
+lang: zh
+---
+
 ## XENIA诗丽雅医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/xenia-clinic?from=skill

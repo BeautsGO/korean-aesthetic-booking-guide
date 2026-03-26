@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cheongdam RETOO CLINIC"
+lang: th
+---
+
 ## 清潭丽途皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cheongdam-retoo-clinic?from=skill

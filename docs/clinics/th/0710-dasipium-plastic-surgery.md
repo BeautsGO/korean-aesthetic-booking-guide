@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DASIPIUM PLASTIC SURGERY"
+lang: th
+---
+
 ## DASIPIUM整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/dasipium-plastic-surgery?from=skill

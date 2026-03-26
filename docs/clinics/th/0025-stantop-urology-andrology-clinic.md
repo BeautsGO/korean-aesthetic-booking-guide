@@ -1,3 +1,9 @@
+---
+layout: default
+title: "StanTop Urology& Andrology Clinic"
+lang: th
+---
+
 ## 世檀塔男科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/stantop-urology-andrology-clinic?from=skill

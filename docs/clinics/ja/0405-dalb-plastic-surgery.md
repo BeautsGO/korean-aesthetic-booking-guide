@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DAL:B PLASTIC SURGERY"
+lang: ja
+---
+
 ## Dal b 整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/dalb-plastic-surgery?from=skill

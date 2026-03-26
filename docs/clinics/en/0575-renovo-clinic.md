@@ -1,3 +1,9 @@
+---
+layout: default
+title: "renovo clinic"
+lang: en
+---
+
 ## renovo医院狎鸥亭店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/renovo-clinic?from=skill

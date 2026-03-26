@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JOEUNNUN VISION CLINIC"
+lang: th
+---
+
 ## 江南好眼睛眼科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/joeunnun-vision-clinic?from=skill

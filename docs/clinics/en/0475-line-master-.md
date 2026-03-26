@@ -1,3 +1,9 @@
+---
+layout: default
+title: "line master 医院"
+lang: en
+---
+
 ## line master 医院 Booking Guide
 
 🔗 Book directly here: 

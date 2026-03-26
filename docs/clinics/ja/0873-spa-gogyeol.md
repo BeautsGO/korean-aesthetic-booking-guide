@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Spa Gogyeol"
+lang: ja
+---
+
 ## Spa Gogyeol 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/spa-gogyeol?from=skill

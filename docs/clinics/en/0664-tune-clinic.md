@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tune Clinic"
+lang: en
+---
+
 ## 图恩医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/tune-clinic?from=skill

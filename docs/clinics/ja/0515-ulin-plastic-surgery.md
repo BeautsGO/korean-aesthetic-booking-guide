@@ -1,3 +1,9 @@
+---
+layout: default
+title: "U&Lin Plastic Surgery"
+lang: ja
+---
+
 ## U&LIN整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ulin-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ppeum Hongdae"
+lang: zh
+---
+
 ## 丽芬聚弘大国际店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/ppeum-hongdae?from=skill

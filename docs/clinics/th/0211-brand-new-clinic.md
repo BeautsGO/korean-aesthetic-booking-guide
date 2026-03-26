@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Brand New Clinic"
+lang: th
+---
+
 ## Brand New 皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/brand-new-clinic?from=skill

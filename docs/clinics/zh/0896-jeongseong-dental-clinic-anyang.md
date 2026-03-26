@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeongseong Dental Clinic, Anyang"
+lang: zh
+---
+
 ## 정성치과의원 안양 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/jeongseong-dental-clinic-anyang?from=skill

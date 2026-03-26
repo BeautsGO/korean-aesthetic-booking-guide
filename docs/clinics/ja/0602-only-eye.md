@@ -1,3 +1,9 @@
+---
+layout: default
+title: "only eye"
+lang: ja
+---
+
 ## only eye整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/only-eye?from=skill

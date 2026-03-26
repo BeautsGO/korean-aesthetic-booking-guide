@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SEMI Plastic Surgery"
+lang: th
+---
+
 ## 世美整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/semi-plastic-surgery?from=skill

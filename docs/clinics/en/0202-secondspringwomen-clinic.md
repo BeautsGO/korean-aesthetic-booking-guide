@@ -1,3 +1,9 @@
+---
+layout: default
+title: "secondspringwomen clinic"
+lang: en
+---
+
 ## 第二春妇科医院（狎鸥亭店） Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/secondspringwomen-clinic?from=skill

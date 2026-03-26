@@ -1,3 +1,9 @@
+---
+layout: default
+title: "t1 clinic"
+lang: th
+---
+
 ## T1医院三成店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/t1-clinic?from=skill

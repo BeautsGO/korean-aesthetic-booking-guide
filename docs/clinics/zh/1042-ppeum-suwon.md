@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ppeum Suwon"
+lang: zh
+---
+
 ## 丽芬聚水原店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/ppeum-suwon?from=skill

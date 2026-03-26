@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Luarc PlasticSurgery"
+lang: en
+---
+
 ## luarc整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/luarc-plasticsurgery?from=skill

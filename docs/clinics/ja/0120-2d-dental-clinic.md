@@ -1,3 +1,9 @@
+---
+layout: default
+title: "2D DENTAL CLINIC"
+lang: ja
+---
+
 ## 2D牙科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/2d-dental-clinic?from=skill

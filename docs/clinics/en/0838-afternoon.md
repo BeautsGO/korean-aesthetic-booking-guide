@@ -1,3 +1,9 @@
+---
+layout: default
+title: "afternoon"
+lang: en
+---
+
 ## afternoon Booking Guide
 
 🔗 Book directly here: 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LaPrin Clinic"
+lang: ja
+---
+
 ## 来福琳医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/laprin-clinic?from=skill

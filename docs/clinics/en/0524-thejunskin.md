@@ -1,3 +1,9 @@
+---
+layout: default
+title: "thejunskin"
+lang: en
+---
+
 ## thejun皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/thejunskin?from=skill

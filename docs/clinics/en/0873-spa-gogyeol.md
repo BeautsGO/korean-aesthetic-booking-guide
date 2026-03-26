@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Spa Gogyeol"
+lang: en
+---
+
 ## Spa Gogyeol Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/spa-gogyeol?from=skill

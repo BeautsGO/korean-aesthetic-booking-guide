@@ -1,3 +1,9 @@
+---
+layout: default
+title: "yongsan human clinic"
+lang: zh
+---
+
 ## human皮肤科医院 龙山店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/yongsan-human-clinic?from=skill

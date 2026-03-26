@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gre Haus"
+lang: en
+---
+
 ## 弘大GRE HAUS Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/gre-haus?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "COLOR SIGNAL"
+lang: ja
+---
+
 ## 可中英 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/color-signal?from=skill

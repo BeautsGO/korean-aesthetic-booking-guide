@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Snow Plastic Surgery"
+lang: zh
+---
+
 ## snow整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/snow-plastic-surgery?from=skill

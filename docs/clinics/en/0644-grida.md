@@ -1,3 +1,9 @@
+---
+layout: default
+title: "grida"
+lang: en
+---
+
 ## 可丽达整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/grida?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "TS Plastic Surgery"
+lang: th
+---
+
 ## TS整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/ts-plastic-surgery?from=skill

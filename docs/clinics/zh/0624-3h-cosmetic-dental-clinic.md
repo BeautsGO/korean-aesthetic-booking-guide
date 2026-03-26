@@ -1,3 +1,9 @@
+---
+layout: default
+title: "3H Cosmetic dental clinic"
+lang: zh
+---
+
 ## 三小时牙科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/3h-cosmetic-dental-clinic?from=skill

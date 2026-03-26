@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ready整形医院"
+lang: zh
+---
+
 ## Ready整形医院 预约指南
 
 🔗 点击直达预约页面：

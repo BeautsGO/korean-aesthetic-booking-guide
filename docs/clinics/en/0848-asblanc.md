@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ASBLANC"
+lang: en
+---
+
 ## ASBLANC Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/asblanc?from=skill

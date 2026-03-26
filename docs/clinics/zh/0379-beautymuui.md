@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Beauty_muui"
+lang: zh
+---
+
 ## 清潭muui妆造室 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/beautymuui?from=skill

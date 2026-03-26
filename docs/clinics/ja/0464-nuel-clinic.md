@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nuel clinic"
+lang: ja
+---
+
 ## nuel皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/nuel-clinic?from=skill

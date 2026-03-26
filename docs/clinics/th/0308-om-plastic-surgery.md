@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Om Plastic Surgery"
+lang: th
+---
+
 ## Om整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/om-plastic-surgery?from=skill

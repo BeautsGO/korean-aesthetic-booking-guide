@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Top Plastic Surgery"
+lang: th
+---
+
 ## Top整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/top-plastic-surgery?from=skill

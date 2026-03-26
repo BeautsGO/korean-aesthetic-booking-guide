@@ -1,3 +1,9 @@
+---
+layout: default
+title: "KIBBUM PLASTIC SURGERY"
+lang: th
+---
+
 ## KIBBUM整形医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/kibbum-plastic-surgery?from=skill

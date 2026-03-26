@@ -1,3 +1,9 @@
+---
+layout: default
+title: "T-Up Clinic"
+lang: ja
+---
+
 ## T-Up皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/t-up-clinic?from=skill

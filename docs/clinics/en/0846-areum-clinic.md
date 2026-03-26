@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Areum Clinic"
+lang: en
+---
+
 ## 清潭areum Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/areum-clinic?from=skill

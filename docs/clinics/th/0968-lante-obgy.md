@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lante obgy"
+lang: th
+---
+
 ## 朗特妇产科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lante-obgy?from=skill

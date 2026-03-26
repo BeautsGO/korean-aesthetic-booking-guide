@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ONE HOPE CLINIC"
+lang: th
+---
+
 ## 哈娜希望医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/one-hope-clinic?from=skill

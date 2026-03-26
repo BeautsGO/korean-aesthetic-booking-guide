@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Machimpyo Plastic Surgery"
+lang: zh
+---
+
 ## 句号整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/machimpyo-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SELFI PLASTIC SURGERY"
+lang: ja
+---
+
 ## selfi整形外科釜山西面店(皮肤科) 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/selfi-plastic-surgery?from=skill

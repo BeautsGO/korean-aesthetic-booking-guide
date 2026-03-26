@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mylog"
+lang: zh
+---
+
 ## mylog 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/mylog?from=skill

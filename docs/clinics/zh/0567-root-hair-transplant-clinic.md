@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Root Hair Transplant Clinic"
+lang: zh
+---
+
 ## ROOT毛发移植医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/root-hair-transplant-clinic?from=skill

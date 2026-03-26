@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nest clinic"
+lang: en
+---
+
 ## nestclinic Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/nest-clinic?from=skill

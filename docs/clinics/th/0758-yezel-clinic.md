@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yezel Clinic"
+lang: th
+---
+
 ## Yezel伊泽尔医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/yezel-clinic?from=skill

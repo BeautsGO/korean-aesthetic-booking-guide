@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vivid Studio"
+lang: ja
+---
+
 ## Vivid Studio 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/vivid-studio?from=skill

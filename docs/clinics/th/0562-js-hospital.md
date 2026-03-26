@@ -1,3 +1,9 @@
+---
+layout: default
+title: "js hospital"
+lang: th
+---
+
 ## 江南JS医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/js-hospital?from=skill

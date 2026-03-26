@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cocory"
+lang: th
+---
+
 ## Cocory 江南分店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cocory?from=skill

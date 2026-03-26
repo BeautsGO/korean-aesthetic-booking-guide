@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Onecell医院"
+lang: zh
+---
+
 ## Onecell医院 预约指南
 
 🔗 点击直达预约页面：

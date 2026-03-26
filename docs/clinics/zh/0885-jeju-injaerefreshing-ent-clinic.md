@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeju Injaerefreshing ENT Clinic"
+lang: zh
+---
+
 ## 济州Injaerefreshing耳鼻喉科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/jeju-injaerefreshing-ent-clinic?from=skill

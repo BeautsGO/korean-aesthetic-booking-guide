@@ -1,3 +1,9 @@
+---
+layout: default
+title: "saekim"
+lang: ja
+---
+
 ## 世金整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/saekim?from=skill

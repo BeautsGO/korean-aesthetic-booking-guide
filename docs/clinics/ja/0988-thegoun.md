@@ -1,3 +1,9 @@
+---
+layout: default
+title: "TheGoun(济州)"
+lang: ja
+---
+
 ## TheGoun(济州) 予約ガイド
 
 🔗 こちらから直接予約：

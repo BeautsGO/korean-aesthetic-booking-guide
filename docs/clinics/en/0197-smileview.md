@@ -1,3 +1,9 @@
+---
+layout: default
+title: "smileview"
+lang: en
+---
+
 ## 江南SMILE VIEW牙科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/smileview?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cocory 延禧总店"
+lang: zh
+---
+
 ## Cocory 延禧总店 预约指南
 
 🔗 点击直达预约页面：

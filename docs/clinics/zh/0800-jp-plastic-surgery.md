@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JP Plastic Surgery"
+lang: zh
+---
+
 ## JP整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/jp-plastic-surgery?from=skill

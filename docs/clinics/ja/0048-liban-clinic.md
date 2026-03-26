@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LIBAN CLINIC"
+lang: ja
+---
+
 ## 俪伴整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/liban-clinic?from=skill

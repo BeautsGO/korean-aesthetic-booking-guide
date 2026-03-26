@@ -1,3 +1,9 @@
+---
+layout: default
+title: "江南smart医院"
+lang: en
+---
+
 ## 江南smart医院 Booking Guide
 
 🔗 Book directly here: 

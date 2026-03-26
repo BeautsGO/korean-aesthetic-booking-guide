@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BEAUTY & YOUNG CLINIC"
+lang: en
+---
+
 ## beauty&young Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/beauty-young-clinic?from=skill

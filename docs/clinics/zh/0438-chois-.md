@@ -1,3 +1,9 @@
+---
+layout: default
+title: "chois皮肤科医院 新沙店"
+lang: zh
+---
+
 ## chois皮肤科医院 新沙店 预约指南
 
 🔗 点击直达预约页面：

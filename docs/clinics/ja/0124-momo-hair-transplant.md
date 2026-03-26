@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MOMO HAIR TRANSPLANT"
+lang: ja
+---
+
 ## 毛茂整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/momo-hair-transplant?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EY CLINIC"
+lang: th
+---
+
 ## ey医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/ey-clinic?from=skill

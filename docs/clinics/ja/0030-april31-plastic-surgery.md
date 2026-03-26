@@ -1,3 +1,9 @@
+---
+layout: default
+title: "APRIL31 PLASTIC SURGERY"
+lang: ja
+---
+
 ## 431整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/april31-plastic-surgery?from=skill

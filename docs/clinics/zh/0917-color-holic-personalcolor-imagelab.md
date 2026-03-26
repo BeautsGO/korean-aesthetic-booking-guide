@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Color Holic Personalcolor Imagelab"
+lang: zh
+---
+
 ## 个人形象诊断工作室 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/color-holic-personalcolor-imagelab?from=skill

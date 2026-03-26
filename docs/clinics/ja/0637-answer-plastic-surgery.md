@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Answer Plastic Surgery"
+lang: ja
+---
+
 ## answer整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/answer-plastic-surgery?from=skill

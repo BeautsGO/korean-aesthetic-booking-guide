@@ -1,3 +1,9 @@
+---
+layout: default
+title: "be&young clinic"
+lang: th
+---
+
 ## Be&Young医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/beyoung-clinic?from=skill

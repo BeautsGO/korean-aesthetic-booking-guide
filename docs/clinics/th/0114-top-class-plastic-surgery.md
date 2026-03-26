@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Top Class Plastic Surgery"
+lang: th
+---
+
 ## Topclass整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/top-class-plastic-surgery?from=skill

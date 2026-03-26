@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CNP SKIN Konkuk University"
+lang: zh
+---
+
 ## 建大cnp皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/cnp-skin-konkuk-university?from=skill

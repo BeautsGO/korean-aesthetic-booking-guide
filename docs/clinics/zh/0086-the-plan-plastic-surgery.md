@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Plan Plastic Surgery"
+lang: zh
+---
+
 ## The Plan整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/the-plan-plastic-surgery?from=skill

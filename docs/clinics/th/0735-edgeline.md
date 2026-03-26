@@ -1,3 +1,9 @@
+---
+layout: default
+title: "edgeline"
+lang: th
+---
+
 ## 爱起来 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/edgeline?from=skill

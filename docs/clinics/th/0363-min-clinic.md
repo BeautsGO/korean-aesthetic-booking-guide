@@ -1,3 +1,9 @@
+---
+layout: default
+title: "min clinic"
+lang: th
+---
+
 ## MIN CLINIC คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/min-clinic?from=skill

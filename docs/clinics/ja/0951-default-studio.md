@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Default Studio"
+lang: ja
+---
+
 ## 默认相馆 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/default-studio?from=skill

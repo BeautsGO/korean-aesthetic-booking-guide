@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fact Plastic Surgery"
+lang: th
+---
+
 ## Fact整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/fact-plastic-surgery?from=skill

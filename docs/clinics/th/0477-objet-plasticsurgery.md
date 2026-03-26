@@ -1,3 +1,9 @@
+---
+layout: default
+title: "OBJET PlasticSurgery"
+lang: th
+---
+
 ## OBJET整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/objet-plasticsurgery?from=skill

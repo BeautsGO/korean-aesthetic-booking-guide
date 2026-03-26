@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MUPSY"
+lang: zh
+---
+
 ## MUPSY釜山店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/mupsy?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "soyou medical clinic"
+lang: th
+---
+
 ## Soyou皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/soyou-medical-clinic?from=skill

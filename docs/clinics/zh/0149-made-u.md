@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Made u"
+lang: zh
+---
+
 ## MADE U皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/made-u?from=skill

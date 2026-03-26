@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EGG Clinic"
+lang: en
+---
+
 ## 新沙EGG皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/egg-clinic?from=skill

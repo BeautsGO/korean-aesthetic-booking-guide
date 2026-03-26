@@ -1,3 +1,9 @@
+---
+layout: default
+title: "hestia-women clinic"
+lang: ja
+---
+
 ## Hestia女性医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/hestia-women-clinic?from=skill

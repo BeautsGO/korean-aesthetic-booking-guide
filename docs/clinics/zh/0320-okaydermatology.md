@@ -1,3 +1,9 @@
+---
+layout: default
+title: "OKAYDermatology"
+lang: zh
+---
+
 ## 清潭OK整形外科&皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/okaydermatology?from=skill

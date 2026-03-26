@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Inique Plastic Surgery"
+lang: zh
+---
+
 ## 爱丽克医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/inique-plastic-surgery?from=skill

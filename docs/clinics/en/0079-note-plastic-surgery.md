@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NOTE PLASTIC SURGERY"
+lang: en
+---
+
 ## 韩国NOTE整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/note-plastic-surgery?from=skill

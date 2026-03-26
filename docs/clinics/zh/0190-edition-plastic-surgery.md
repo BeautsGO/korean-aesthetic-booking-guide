@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Edition Plastic Surgery"
+lang: zh
+---
+
 ## 艾迪升整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/edition-plastic-surgery?from=skill

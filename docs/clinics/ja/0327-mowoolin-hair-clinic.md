@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MOWOOLIN Hair Clinic"
+lang: ja
+---
+
 ## 毛雨林医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mowoolin-hair-clinic?from=skill

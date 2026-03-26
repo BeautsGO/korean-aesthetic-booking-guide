@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dicarat医院"
+lang: ja
+---
+
 ## dicarat医院 予約ガイド
 
 🔗 こちらから直接予約：

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Oracle Dermatology Plastic Surgery"
+lang: zh
+---
+
 ## 奥拉克皮肤科 整形外科(清潭店） 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/oracle-dermatology-plastic-surgery?from=skill

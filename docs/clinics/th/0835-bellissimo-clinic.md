@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bellissimo clinic"
+lang: th
+---
+
 ## bellissimo医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/bellissimo-clinic?from=skill

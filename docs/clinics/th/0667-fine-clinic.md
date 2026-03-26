@@ -1,3 +1,9 @@
+---
+layout: default
+title: "fine clinic"
+lang: th
+---
+
 ## fine医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/fine-clinic?from=skill

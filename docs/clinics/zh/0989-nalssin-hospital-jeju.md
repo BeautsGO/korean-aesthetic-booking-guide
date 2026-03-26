@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nalssin Hospital (Jeju)"
+lang: zh
+---
+
 ## nalssin医院(济州) 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/nalssin-hospital-jeju?from=skill

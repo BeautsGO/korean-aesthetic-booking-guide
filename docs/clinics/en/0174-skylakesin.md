@@ -1,3 +1,9 @@
+---
+layout: default
+title: "skylakesin"
+lang: en
+---
+
 ## 天空湖水皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/skylakesin?from=skill

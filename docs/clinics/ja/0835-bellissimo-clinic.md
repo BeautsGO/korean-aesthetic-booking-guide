@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bellissimo clinic"
+lang: ja
+---
+
 ## bellissimo医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/bellissimo-clinic?from=skill

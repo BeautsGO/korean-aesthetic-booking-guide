@@ -1,3 +1,9 @@
+---
+layout: default
+title: "WIZ&MI Clinic"
+lang: ja
+---
+
 ## Wiz&美整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/wizmi-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeju EOULLIM Hospital"
+lang: en
+---
+
 ## 济州EOULLIM医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/jeju-eoullim-hospital?from=skill

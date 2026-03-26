@@ -1,3 +1,9 @@
+---
+layout: default
+title: "poen clinic"
+lang: en
+---
+
 ## poen医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/poen-clinic?from=skill

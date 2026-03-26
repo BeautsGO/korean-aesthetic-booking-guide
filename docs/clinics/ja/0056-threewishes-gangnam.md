@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ThreeWishes Gangnam"
+lang: ja
+---
+
 ## 三个心愿（江南店） 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/threewishes-gangnam?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Foot Shop Massage"
+lang: zh
+---
+
 ## 江南腳底按摩 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/the-foot-shop-massage?from=skill

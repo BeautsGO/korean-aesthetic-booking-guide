@@ -1,3 +1,9 @@
+---
+layout: default
+title: "G7 clinic"
+lang: zh
+---
+
 ## G7医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/g7-clinic?from=skill

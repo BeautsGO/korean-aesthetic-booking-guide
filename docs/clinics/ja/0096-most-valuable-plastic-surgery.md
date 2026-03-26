@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Most Valuable Plastic Surgery"
+lang: ja
+---
+
 ## Noselips整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/most-valuable-plastic-surgery?from=skill

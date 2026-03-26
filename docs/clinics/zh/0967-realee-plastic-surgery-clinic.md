@@ -1,3 +1,9 @@
+---
+layout: default
+title: "realee plastic surgery clinic"
+lang: zh
+---
+
 ## 丽尔丽整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/realee-plastic-surgery-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "geunal"
+lang: th
+---
+
 ## 歌娜整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/geunal?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mori Clinic"
+lang: ja
+---
+
 ## 毛理医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mori-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JK Plastic Surgery Clinic"
+lang: th
+---
+
 ## JK整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jk-plastic-surgery-clinic?from=skill

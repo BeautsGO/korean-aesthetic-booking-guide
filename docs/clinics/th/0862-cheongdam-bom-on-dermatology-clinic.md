@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cheongdam Bom-on Dermatology Clinic"
+lang: th
+---
+
 ## 清潭bom-on皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cheongdam-bom-on-dermatology-clinic?from=skill

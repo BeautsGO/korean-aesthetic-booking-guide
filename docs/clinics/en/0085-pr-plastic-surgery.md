@@ -1,3 +1,9 @@
+---
+layout: default
+title: "PR Plastic Surgery"
+lang: en
+---
+
 ## PR整形外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/pr-plastic-surgery?from=skill

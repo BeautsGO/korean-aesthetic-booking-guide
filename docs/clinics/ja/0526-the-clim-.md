@@ -1,3 +1,9 @@
+---
+layout: default
+title: "the-clim 妇科"
+lang: ja
+---
+
 ## the-clim 妇科 予約ガイド
 
 🔗 こちらから直接予約：

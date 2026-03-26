@@ -1,3 +1,9 @@
+---
+layout: default
+title: "vsline江南店"
+lang: th
+---
+
 ## vsline江南店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

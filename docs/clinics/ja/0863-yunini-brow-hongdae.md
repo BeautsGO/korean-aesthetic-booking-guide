@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yunini Brow Hongdae"
+lang: ja
+---
+
 ## 弘大紋眉紋眼線 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/yunini-brow-hongdae?from=skill

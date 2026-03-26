@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yoon Hairline"
+lang: th
+---
+
 ## 艺丽人医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/yoon-hairline?from=skill

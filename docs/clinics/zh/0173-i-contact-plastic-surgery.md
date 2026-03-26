@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I CONTACT PLASTIC SURGERY"
+lang: zh
+---
+
 ## I Contact整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/i-contact-plastic-surgery?from=skill

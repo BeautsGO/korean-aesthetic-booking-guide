@@ -1,3 +1,9 @@
+---
+layout: default
+title: "1mm PLASTIC SURGERY"
+lang: ja
+---
+
 ## 韩国1mm整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/1mm-plastic-surgery?from=skill

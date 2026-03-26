@@ -1,3 +1,9 @@
+---
+layout: default
+title: "plansclinic Gangnam"
+lang: th
+---
+
 ## 普兰斯医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/plansclinic-gangnam?from=skill

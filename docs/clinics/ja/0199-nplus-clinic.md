@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Nplus Clinic"
+lang: ja
+---
+
 ## 恩普路斯整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/nplus-clinic?from=skill

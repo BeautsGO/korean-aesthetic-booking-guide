@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lara Plastic Surgery"
+lang: th
+---
+
 ## 乐日整形医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lara-plastic-surgery?from=skill

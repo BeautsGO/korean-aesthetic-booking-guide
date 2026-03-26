@@ -1,3 +1,9 @@
+---
+layout: default
+title: "human dermatology clinic"
+lang: en
+---
+
 ## human皮肤科医院 首尔大店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/human-dermatology-clinic?from=skill

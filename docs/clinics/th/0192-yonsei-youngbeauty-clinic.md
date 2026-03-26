@@ -1,3 +1,9 @@
+---
+layout: default
+title: "YONSEI YOUNG&BEAUTY CLINIC"
+lang: th
+---
+
 ## 延世YB 医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/yonsei-youngbeauty-clinic?from=skill

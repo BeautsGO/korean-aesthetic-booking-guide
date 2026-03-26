@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Planner整形医院"
+lang: en
+---
+
 ## Planner整形医院 Booking Guide
 
 🔗 Book directly here: 

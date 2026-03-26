@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Thenan"
+lang: ja
+---
+
 ## Thenan 予約ガイド
 
 🔗 こちらから直接予約：

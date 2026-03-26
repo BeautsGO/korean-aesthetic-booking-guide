@@ -1,3 +1,9 @@
+---
+layout: default
+title: "you&me clinic"
+lang: th
+---
+
 ## you&me皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/youme-clinic?from=skill

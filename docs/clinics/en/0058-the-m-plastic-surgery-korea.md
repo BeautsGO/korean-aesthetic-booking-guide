@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The M plastic surgery Korea"
+lang: en
+---
+
 ## 迪美整形外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/the-m-plastic-surgery-korea?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NewYork White Dental Clinic"
+lang: zh
+---
+
 ## NewYork White牙科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/newyork-white-dental-clinic?from=skill

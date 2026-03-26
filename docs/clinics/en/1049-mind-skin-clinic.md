@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mind skin clinic"
+lang: en
+---
+
 ## 弘大mind皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/mind-skin-clinic?from=skill

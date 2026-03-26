@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SeoulFace21 Hospital"
+lang: zh
+---
+
 ## 首尔face21牙科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/seoulface21-hospital?from=skill

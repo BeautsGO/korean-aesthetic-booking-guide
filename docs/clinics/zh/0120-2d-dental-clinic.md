@@ -1,3 +1,9 @@
+---
+layout: default
+title: "2D DENTAL CLINIC"
+lang: zh
+---
+
 ## 2D牙科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/2d-dental-clinic?from=skill

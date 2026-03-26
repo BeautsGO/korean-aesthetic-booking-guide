@@ -1,3 +1,9 @@
+---
+layout: default
+title: "the first"
+lang: th
+---
+
 ## 釜山德佛丝特皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/the-first?from=skill

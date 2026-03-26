@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Foot Shop Massage"
+lang: ja
+---
+
 ## 江南腳底按摩 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/the-foot-shop-massage?from=skill

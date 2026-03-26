@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cocory 弘大分店"
+lang: ja
+---
+
 ## Cocory 弘大分店 予約ガイド
 
 🔗 こちらから直接予約：

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "knockknockplant牙科"
+lang: ja
+---
+
 ## knockknockplant牙科 予約ガイド
 
 🔗 こちらから直接予約：

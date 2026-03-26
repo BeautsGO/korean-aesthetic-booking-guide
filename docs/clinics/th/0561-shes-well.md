@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Shes well"
+lang: th
+---
+
 ## Shes well 妇科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/shes-well?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "De:AGE Clinic"
+lang: ja
+---
+
 ## 延世De:AGE医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/deage-clinic?from=skill

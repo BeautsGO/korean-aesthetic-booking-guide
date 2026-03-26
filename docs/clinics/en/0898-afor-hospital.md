@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Afor Hospital"
+lang: en
+---
+
 ## afor医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/afor-hospital?from=skill

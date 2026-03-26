@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MOMO HAIR TRANSPLANT"
+lang: zh
+---
+
 ## 毛茂整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/momo-hair-transplant?from=skill

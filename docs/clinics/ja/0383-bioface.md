@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bioface"
+lang: ja
+---
+
 ## bioface皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/bioface?from=skill

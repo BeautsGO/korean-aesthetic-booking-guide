@@ -1,3 +1,9 @@
+---
+layout: default
+title: "barogclinic Busan"
+lang: en
+---
+
 ## barog医院 釜山西面 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/barogclinic-busan?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ID Hospital"
+lang: en
+---
+
 ## ID医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/id-hospital?from=skill

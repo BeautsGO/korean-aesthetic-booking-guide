@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EY CLINIC"
+lang: ja
+---
+
 ## ey医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ey-clinic?from=skill

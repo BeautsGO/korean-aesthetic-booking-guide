@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Verygood Plastic Surgery"
+lang: th
+---
+
 ## 百利酷整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/verygood-plastic-surgery?from=skill

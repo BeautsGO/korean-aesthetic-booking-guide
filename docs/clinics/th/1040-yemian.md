@@ -1,3 +1,9 @@
+---
+layout: default
+title: "釜山Yemian皮肤科"
+lang: th
+---
+
 ## 釜山Yemian皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

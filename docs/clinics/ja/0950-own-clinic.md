@@ -1,3 +1,9 @@
+---
+layout: default
+title: "own clinic"
+lang: ja
+---
+
 ## own医院 三成店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/own-clinic?from=skill

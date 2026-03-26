@@ -1,3 +1,9 @@
+---
+layout: default
+title: "PARKVIEW CLINIC"
+lang: th
+---
+
 ## 仁川PARKVIEW皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/parkview-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Spa at Four Seasons Hotel Seoul"
+lang: ja
+---
+
 ## 四季酒店 SPA 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/the-spa-at-four-seasons-hotel-seoul?from=skill

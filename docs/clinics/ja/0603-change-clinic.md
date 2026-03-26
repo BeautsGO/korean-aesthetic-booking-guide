@@ -1,3 +1,9 @@
+---
+layout: default
+title: "change clinic"
+lang: ja
+---
+
 ## 体引脂 整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/change-clinic?from=skill

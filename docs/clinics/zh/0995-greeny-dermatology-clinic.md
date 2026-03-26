@@ -1,3 +1,9 @@
+---
+layout: default
+title: "greeny dermatology clinic"
+lang: zh
+---
+
 ## greeny皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/greeny-dermatology-clinic?from=skill

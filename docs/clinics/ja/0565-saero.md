@@ -1,3 +1,9 @@
+---
+layout: default
+title: "saero"
+lang: ja
+---
+
 ## saero整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/saero?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "smin clinic"
+lang: th
+---
+
 ## 清潭smin คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/smin-clinic?from=skill

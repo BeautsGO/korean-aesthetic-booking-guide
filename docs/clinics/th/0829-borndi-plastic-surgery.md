@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BORN:DI PLASTIC SURGERY"
+lang: th
+---
+
 ## Brondi整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/borndi-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MOWOOLIN Hair Clinic"
+lang: zh
+---
+
 ## 毛雨林医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/mowoolin-hair-clinic?from=skill

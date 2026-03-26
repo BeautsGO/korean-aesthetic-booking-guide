@@ -1,3 +1,9 @@
+---
+layout: default
+title: "secondspringwomen clinic"
+lang: th
+---
+
 ## 第二春妇科医院（狎鸥亭店） คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/secondspringwomen-clinic?from=skill

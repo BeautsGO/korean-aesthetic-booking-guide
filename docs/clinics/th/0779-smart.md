@@ -1,3 +1,9 @@
+---
+layout: default
+title: "江南smart医院"
+lang: th
+---
+
 ## 江南smart医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

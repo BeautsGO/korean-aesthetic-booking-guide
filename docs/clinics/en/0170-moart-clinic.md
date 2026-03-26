@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Moart Clinic"
+lang: en
+---
+
 ## Moart毛发移植医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/moart-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ANEW PLASTIC SURGERY CLINIC"
+lang: en
+---
+
 ## 新整形外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/anew-plastic-surgery-clinic?from=skill

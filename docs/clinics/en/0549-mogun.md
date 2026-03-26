@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mogun"
+lang: en
+---
+
 ## 毛健皮肤科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/mogun?from=skill

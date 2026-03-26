@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Voc Spa"
+lang: ja
+---
+
 ## Voc Spa 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/voc-spa?from=skill

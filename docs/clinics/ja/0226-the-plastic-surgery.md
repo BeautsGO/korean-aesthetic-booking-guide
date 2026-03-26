@@ -1,3 +1,9 @@
+---
+layout: default
+title: "THE PLASTIC SURGERY"
+lang: ja
+---
+
 ## THE整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/the-plastic-surgery?from=skill

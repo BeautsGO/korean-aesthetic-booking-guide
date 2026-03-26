@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mamms clinic plastic surgery"
+lang: ja
+---
+
 ## 满心整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mamms-clinic-plastic-surgery?from=skill

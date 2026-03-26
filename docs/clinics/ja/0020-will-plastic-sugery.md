@@ -1,3 +1,9 @@
+---
+layout: default
+title: "WILL Plastic Sugery"
+lang: ja
+---
+
 ## WILL整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/will-plastic-sugery?from=skill

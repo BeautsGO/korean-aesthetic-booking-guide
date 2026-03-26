@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BARUNGYN"
+lang: th
+---
+
 ## 吉女性医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/barungyn?from=skill

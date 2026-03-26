@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ONDO PLASTIC SURGERY"
+lang: ja
+---
+
 ## 温度整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ondo-plastic-surgery?from=skill

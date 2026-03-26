@@ -1,3 +1,9 @@
+---
+layout: default
+title: "healiv clinic"
+lang: th
+---
+
 ## HEALIV希里夫医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/healiv-clinic?from=skill

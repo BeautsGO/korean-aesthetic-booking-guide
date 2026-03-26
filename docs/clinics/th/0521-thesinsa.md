@@ -1,3 +1,9 @@
+---
+layout: default
+title: "thesinsa医院"
+lang: th
+---
+
 ## THESINSA医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/thesinsa?from=skill

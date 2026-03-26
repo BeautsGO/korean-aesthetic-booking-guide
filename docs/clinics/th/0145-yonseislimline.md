@@ -1,3 +1,9 @@
+---
+layout: default
+title: "YONSEISLIMLINE"
+lang: th
+---
+
 ## 延世姿丽来姻整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/yonseislimline?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "AIVE CLINIC"
+lang: en
+---
+
 ## aive医院新沙皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/aive-clinic?from=skill

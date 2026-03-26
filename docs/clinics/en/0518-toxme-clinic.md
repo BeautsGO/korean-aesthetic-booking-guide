@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Toxme Clinic"
+lang: en
+---
+
 ## toxme医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/toxme-clinic?from=skill

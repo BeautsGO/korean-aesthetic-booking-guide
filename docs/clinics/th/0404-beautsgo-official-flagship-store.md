@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BeautsGO Official Flagship Store"
+lang: th
+---
+
 ## BeautsGO官方旗舰店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/beautsgo-official-flagship-store?from=skill

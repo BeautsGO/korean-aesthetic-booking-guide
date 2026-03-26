@@ -1,3 +1,9 @@
+---
+layout: default
+title: "alive clinic"
+lang: ja
+---
+
 ## Alive皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/alive-clinic?from=skill

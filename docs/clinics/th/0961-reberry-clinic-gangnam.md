@@ -1,3 +1,9 @@
+---
+layout: default
+title: "reberry clinic Gangnam"
+lang: th
+---
+
 ## reberry医院 江南店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/reberry-clinic-gangnam?from=skill

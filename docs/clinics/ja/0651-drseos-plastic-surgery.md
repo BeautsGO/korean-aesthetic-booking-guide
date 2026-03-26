@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dr.seo's Plastic Surgery"
+lang: ja
+---
+
 ## 徐相宇整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/drseos-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Line&View Plastic Surgery Clinic"
+lang: zh
+---
+
 ## Line&View整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/lineview-plastic-surgery-clinic?from=skill

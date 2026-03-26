@@ -1,3 +1,9 @@
+---
+layout: default
+title: "milla clinic"
+lang: zh
+---
+
 ## milla医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/milla-clinic?from=skill

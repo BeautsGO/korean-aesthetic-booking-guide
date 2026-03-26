@@ -1,3 +1,9 @@
+---
+layout: default
+title: "karin clinic"
+lang: en
+---
+
 ## 明洞karin医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/karin-clinic?from=skill

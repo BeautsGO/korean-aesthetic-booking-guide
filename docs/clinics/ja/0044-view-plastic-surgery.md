@@ -1,3 +1,9 @@
+---
+layout: default
+title: "View Plastic Surgery"
+lang: ja
+---
+
 ## 必妩整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/view-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NB Plastic Surgery"
+lang: zh
+---
+
 ## NB 整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/nb-plastic-surgery?from=skill

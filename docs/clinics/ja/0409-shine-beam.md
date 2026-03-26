@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SHINE BEAM"
+lang: ja
+---
+
 ## shine beam 大田分店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/shine-beam?from=skill

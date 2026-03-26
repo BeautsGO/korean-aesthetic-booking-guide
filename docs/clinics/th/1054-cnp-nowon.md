@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cnp Nowon"
+lang: th
+---
+
 ## cnp皮肤科蘆原店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cnp-nowon?from=skill

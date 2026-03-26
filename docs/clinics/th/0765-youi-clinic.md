@@ -1,3 +1,9 @@
+---
+layout: default
+title: "you&i clinic"
+lang: th
+---
+
 ## you&i医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/youi-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mi&Mi clinic"
+lang: zh
+---
+
 ## 美&美医院 江南店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/mimi-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "gnghospita"
+lang: ja
+---
+
 ## GNG医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/gnghospita?from=skill

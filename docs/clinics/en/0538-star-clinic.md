@@ -1,3 +1,9 @@
+---
+layout: default
+title: "star clinic"
+lang: en
+---
+
 ## star整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/star-clinic?from=skill

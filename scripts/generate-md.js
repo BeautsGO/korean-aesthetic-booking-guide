@@ -42,7 +42,9 @@ async function main() {
       const outPath = path.join(langDir, `${slug}.md`)
       try {
         const content = await getBookingGuide(hospital.name, lang)
-        fs.writeFileSync(outPath, `${content}\n`, 'utf-8')
+        const title = hospital.en_name || hospital.name || slug
+        const frontmatter = `---\nlayout: default\ntitle: "${title.replace(/"/g, '\\"')}"\nlang: ${lang}\n---\n\n`
+        fs.writeFileSync(outPath, `${frontmatter}${content}\n`, 'utf-8')
         console.log(`✅ [${lang}] ${slug}.md`)
         ok++
       } catch (err) {

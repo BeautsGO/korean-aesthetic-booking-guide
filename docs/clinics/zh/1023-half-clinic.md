@@ -1,3 +1,9 @@
+---
+layout: default
+title: "half clinic"
+lang: zh
+---
+
 ## Half医院 大邱 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/half-clinic?from=skill

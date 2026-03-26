@@ -1,3 +1,9 @@
+---
+layout: default
+title: "chamdoctor医院"
+lang: en
+---
+
 ## chamdoctor医院 Booking Guide
 
 🔗 Book directly here: 

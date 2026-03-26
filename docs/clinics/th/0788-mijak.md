@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mijak整形外科"
+lang: th
+---
+
 ## mijak整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

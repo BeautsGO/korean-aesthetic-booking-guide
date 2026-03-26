@@ -1,3 +1,9 @@
+---
+layout: default
+title: "jfeel clinic Hongdae"
+lang: ja
+---
+
 ## jfeel皮肤科弘大店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jfeel-clinic-hongdae?from=skill

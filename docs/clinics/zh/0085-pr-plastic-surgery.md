@@ -1,3 +1,9 @@
+---
+layout: default
+title: "PR Plastic Surgery"
+lang: zh
+---
+
 ## PR整形外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/pr-plastic-surgery?from=skill

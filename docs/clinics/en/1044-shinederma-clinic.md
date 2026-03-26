@@ -1,3 +1,9 @@
+---
+layout: default
+title: "shinederma clinic"
+lang: en
+---
+
 ## 夏恩医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/shinederma-clinic?from=skill

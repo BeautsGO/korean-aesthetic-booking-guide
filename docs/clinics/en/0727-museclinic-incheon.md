@@ -1,3 +1,9 @@
+---
+layout: default
+title: "museclinic Incheon"
+lang: en
+---
+
 ## 缪慈医院仁川店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/museclinic-incheon?from=skill

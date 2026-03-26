@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Just Plastic Surgery"
+lang: ja
+---
+
 ## Just整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/just-plastic-surgery?from=skill

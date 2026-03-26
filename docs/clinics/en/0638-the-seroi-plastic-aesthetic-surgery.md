@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Seroi Plastic& Aesthetic Surgery"
+lang: en
+---
+
 ## 德社罗伊整形医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/the-seroi-plastic-aesthetic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theheal"
+lang: ja
+---
+
 ## 德希尔皮肤科东大门店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/theheal?from=skill

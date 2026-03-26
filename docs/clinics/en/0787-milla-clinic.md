@@ -1,3 +1,9 @@
+---
+layout: default
+title: "milla clinic"
+lang: en
+---
+
 ## milla医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/milla-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theline ps"
+lang: ja
+---
+
 ## 德莱茵整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/theline-ps?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "COSHARP PLASTIC SURGERY CLINIC"
+lang: ja
+---
+
 ## 碧夏整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/cosharp-plastic-surgery-clinic?from=skill

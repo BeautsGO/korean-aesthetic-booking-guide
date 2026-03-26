@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yaan Clinic"
+lang: ja
+---
+
 ## yaan皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/yaan-clinic?from=skill

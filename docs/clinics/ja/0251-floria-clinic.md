@@ -1,3 +1,9 @@
+---
+layout: default
+title: "floria clinic"
+lang: ja
+---
+
 ## 釜山弗洛丽雅皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/floria-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Seoul Laya Dental"
+lang: th
+---
+
 ## 首尔啦啦牙科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/seoul-laya-dental?from=skill

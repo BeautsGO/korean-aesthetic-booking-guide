@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesol_atelier"
+lang: zh
+---
+
 ## 莱索尔工作室 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/lesolatelier?from=skill

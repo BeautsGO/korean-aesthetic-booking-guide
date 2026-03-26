@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Pitangui Plastic Surgery"
+lang: zh
+---
+
 ## 必当归医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/pitangui-plastic-surgery?from=skill

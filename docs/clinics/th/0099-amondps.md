@@ -1,3 +1,9 @@
+---
+layout: default
+title: "amondps"
+lang: th
+---
+
 ## AMOND整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/amondps?from=skill

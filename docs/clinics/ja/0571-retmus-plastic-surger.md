@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RETMUS PLASTIC SURGER"
+lang: ja
+---
+
 ## retmus整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/retmus-plastic-surger?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Luarc PlasticSurgery"
+lang: ja
+---
+
 ## luarc整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/luarc-plasticsurgery?from=skill

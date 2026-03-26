@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kodi Plastic Surgery"
+lang: ja
+---
+
 ## KODI整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/kodi-plastic-surgery?from=skill

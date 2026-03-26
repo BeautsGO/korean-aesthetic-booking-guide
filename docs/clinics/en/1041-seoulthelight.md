@@ -1,3 +1,9 @@
+---
+layout: default
+title: "釜山SeoulTheLight医院"
+lang: en
+---
+
 ## 釜山SeoulTheLight医院 Booking Guide
 
 🔗 Book directly here: 

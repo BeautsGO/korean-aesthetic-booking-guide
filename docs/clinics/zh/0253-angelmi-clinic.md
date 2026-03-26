@@ -1,3 +1,9 @@
+---
+layout: default
+title: "angelmi clinic"
+lang: zh
+---
+
 ## 安琪美医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/angelmi-clinic?from=skill

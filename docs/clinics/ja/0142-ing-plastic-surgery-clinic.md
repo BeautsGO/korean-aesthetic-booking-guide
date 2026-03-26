@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ING Plastic Surgery Clinic"
+lang: ja
+---
+
 ## ING整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ing-plastic-surgery-clinic?from=skill

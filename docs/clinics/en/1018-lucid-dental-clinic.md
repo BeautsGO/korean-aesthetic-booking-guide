@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LUCID DENTAL CLINIC"
+lang: en
+---
+
 ## LUCID牙科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/lucid-dental-clinic?from=skill

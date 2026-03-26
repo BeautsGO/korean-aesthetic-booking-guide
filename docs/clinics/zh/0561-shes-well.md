@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Shes well"
+lang: zh
+---
+
 ## Shes well 妇科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/shes-well?from=skill

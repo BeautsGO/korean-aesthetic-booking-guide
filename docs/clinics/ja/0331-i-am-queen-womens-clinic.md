@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I AM QUEEN WOMEN'S CLINIC"
+lang: ja
+---
+
 ## 千芊妍妇科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/i-am-queen-womens-clinic?from=skill

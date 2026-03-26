@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Machimpyo Plastic Surgery"
+lang: th
+---
+
 ## 句号整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/machimpyo-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Keye eye clinic"
+lang: zh
+---
+
 ## KEYE眼科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/keye-eye-clinic?from=skill

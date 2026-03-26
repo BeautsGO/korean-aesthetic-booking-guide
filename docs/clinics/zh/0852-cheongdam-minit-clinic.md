@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cheongdam Minit Clinic"
+lang: zh
+---
+
 ## 清潭minit 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/cheongdam-minit-clinic?from=skill

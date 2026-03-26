@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Miracle Hospital"
+lang: zh
+---
+
 ## miracle 医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/miracle-hospital?from=skill

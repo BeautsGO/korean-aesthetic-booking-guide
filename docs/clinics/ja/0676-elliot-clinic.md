@@ -1,3 +1,9 @@
+---
+layout: default
+title: "elliot clinic"
+lang: ja
+---
+
 ## elliot皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/elliot-clinic?from=skill

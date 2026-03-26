@@ -1,3 +1,9 @@
+---
+layout: default
+title: "planew clinic"
+lang: en
+---
+
 ## planew医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/planew-clinic?from=skill

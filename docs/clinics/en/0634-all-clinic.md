@@ -1,3 +1,9 @@
+---
+layout: default
+title: "All Clinic"
+lang: en
+---
+
 ## 明洞all医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/all-clinic?from=skill

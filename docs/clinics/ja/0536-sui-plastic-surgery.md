@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SU:I Plastic Surgery"
+lang: ja
+---
+
 ## SU i 整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/sui-plastic-surgery?from=skill

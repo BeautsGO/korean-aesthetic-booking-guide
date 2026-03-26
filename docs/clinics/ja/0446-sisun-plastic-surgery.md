@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SISUN PLASTIC SURGERY"
+lang: ja
+---
+
 ## 视线整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/sisun-plastic-surgery?from=skill

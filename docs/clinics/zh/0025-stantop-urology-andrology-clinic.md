@@ -1,3 +1,9 @@
+---
+layout: default
+title: "StanTop Urology& Andrology Clinic"
+lang: zh
+---
+
 ## 世檀塔男科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/stantop-urology-andrology-clinic?from=skill

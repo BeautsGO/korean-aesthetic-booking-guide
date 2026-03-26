@@ -1,3 +1,9 @@
+---
+layout: default
+title: "gu Gangnam"
+lang: th
+---
+
 ## GU皮肤科江南店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/gu-gangnam?from=skill

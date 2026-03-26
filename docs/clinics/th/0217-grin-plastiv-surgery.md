@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Grin plastiv surgery"
+lang: th
+---
+
 ## 绮林整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/grin-plastiv-surgery?from=skill

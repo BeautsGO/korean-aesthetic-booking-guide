@@ -1,3 +1,9 @@
+---
+layout: default
+title: "WIZ&MI Clinic"
+lang: th
+---
+
 ## Wiz&美整形医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/wizmi-clinic?from=skill

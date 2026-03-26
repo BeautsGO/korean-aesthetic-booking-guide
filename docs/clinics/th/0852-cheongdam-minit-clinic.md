@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cheongdam Minit Clinic"
+lang: th
+---
+
 ## 清潭minit คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cheongdam-minit-clinic?from=skill

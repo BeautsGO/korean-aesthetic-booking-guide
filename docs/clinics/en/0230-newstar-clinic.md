@@ -1,3 +1,9 @@
+---
+layout: default
+title: "newstar clinic"
+lang: en
+---
+
 ## newstar皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/newstar-clinic?from=skill

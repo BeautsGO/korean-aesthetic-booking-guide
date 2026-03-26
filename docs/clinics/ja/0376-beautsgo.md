@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BeautsGO"
+lang: ja
+---
+
 ## BeautsGO 予約ガイド
 
 🔗 こちらから直接予約：

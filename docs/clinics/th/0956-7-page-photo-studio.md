@@ -1,3 +1,9 @@
+---
+layout: default
+title: "7-Page Photo Studio"
+lang: th
+---
+
 ## 7页照相馆 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/7-page-photo-studio?from=skill

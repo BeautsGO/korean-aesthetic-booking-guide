@@ -1,3 +1,9 @@
+---
+layout: default
+title: "human dermatology clinic"
+lang: zh
+---
+
 ## human皮肤科医院 首尔大店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/human-dermatology-clinic?from=skill

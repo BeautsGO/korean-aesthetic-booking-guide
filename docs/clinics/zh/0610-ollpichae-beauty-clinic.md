@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ollpichae Beauty Clinic"
+lang: zh
+---
+
 ## 优妩彩医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/ollpichae-beauty-clinic?from=skill

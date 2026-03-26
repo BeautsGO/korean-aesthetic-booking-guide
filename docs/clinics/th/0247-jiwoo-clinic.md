@@ -1,3 +1,9 @@
+---
+layout: default
+title: "jiwoo clinic"
+lang: th
+---
+
 ## 江南知友医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jiwoo-clinic?from=skill

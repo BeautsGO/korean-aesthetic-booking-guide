@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Scalp Makeup"
+lang: th
+---
+
 ## Scalp Makeup头皮半永久 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/scalp-makeup?from=skill

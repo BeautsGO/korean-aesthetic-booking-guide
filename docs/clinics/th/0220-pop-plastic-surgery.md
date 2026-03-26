@@ -1,3 +1,9 @@
+---
+layout: default
+title: "POP Plastic surgery"
+lang: th
+---
+
 ## POP整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/pop-plastic-surgery?from=skill

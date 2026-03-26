@@ -1,3 +1,9 @@
+---
+layout: default
+title: "br dermatology clinic"
+lang: en
+---
+
 ## BR皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/br-dermatology-clinic?from=skill

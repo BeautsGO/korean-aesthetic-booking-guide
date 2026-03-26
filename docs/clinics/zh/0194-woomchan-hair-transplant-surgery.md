@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Woomchan Hair Transplant Surgery"
+lang: zh
+---
+
 ## 永长植发医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/woomchan-hair-transplant-surgery?from=skill

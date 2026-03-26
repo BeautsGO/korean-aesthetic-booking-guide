@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Noble&co Plastic Surgery"
+lang: th
+---
+
 ## Noblenco整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/nobleco-plastic-surgery?from=skill

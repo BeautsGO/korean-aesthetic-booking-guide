@@ -1,3 +1,9 @@
+---
+layout: default
+title: "star clinic"
+lang: th
+---
+
 ## star整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/star-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jongno TOP Dental Clinic"
+lang: th
+---
+
 ## 钟路TOP齿科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jongno-top-dental-clinic?from=skill

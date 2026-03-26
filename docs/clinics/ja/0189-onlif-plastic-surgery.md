@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Onlif plastic surgery"
+lang: ja
+---
+
 ## Onlif整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/onlif-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CNP SKIN Dogok Yangjae"
+lang: th
+---
+
 ## cnp道谷良才店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cnp-skin-dogok-yangjae?from=skill

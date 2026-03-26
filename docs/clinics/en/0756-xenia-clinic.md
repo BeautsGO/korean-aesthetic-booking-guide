@@ -1,3 +1,9 @@
+---
+layout: default
+title: "XENIA CLINIC"
+lang: en
+---
+
 ## XENIA诗丽雅医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/xenia-clinic?from=skill

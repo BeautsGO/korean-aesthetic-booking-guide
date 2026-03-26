@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nalssin Hospital (Jeju)"
+lang: th
+---
+
 ## nalssin医院(济州) คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/nalssin-hospital-jeju?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "milla clinic"
+lang: th
+---
+
 ## milla医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/milla-clinic?from=skill

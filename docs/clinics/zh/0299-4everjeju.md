@@ -1,3 +1,9 @@
+---
+layout: default
+title: "4everjeju"
+lang: zh
+---
+
 ## 济州4ever jeju 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/4everjeju?from=skill

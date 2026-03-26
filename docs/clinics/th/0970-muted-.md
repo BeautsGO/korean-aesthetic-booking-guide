@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Muted 化妆室"
+lang: th
+---
+
 ## Muted 化妆室 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

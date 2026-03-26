@@ -1,3 +1,9 @@
+---
+layout: default
+title: "medicalo clinic"
+lang: zh
+---
+
 ## 魅力可傲医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/medicalo-clinic?from=skill

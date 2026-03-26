@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Spa Gogyeol"
+lang: th
+---
+
 ## Spa Gogyeol คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/spa-gogyeol?from=skill

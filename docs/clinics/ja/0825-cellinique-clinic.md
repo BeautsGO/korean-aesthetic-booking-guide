@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CELLINIQUE CLINIC"
+lang: ja
+---
+
 ## CELLINIQUE医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/cellinique-clinic?from=skill

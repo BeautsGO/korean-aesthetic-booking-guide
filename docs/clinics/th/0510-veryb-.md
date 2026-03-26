@@ -1,3 +1,9 @@
+---
+layout: default
+title: "veryB医院 江南站店"
+lang: th
+---
+
 ## veryB医院 江南站店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

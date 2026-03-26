@@ -1,3 +1,9 @@
+---
+layout: default
+title: "1% PLASTIC SURGERY"
+lang: ja
+---
+
 ## 百分之一整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/1-plastic-surgery?from=skill

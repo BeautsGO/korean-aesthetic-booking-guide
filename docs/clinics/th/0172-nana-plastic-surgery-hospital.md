@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NANA Plastic Surgery Hospital"
+lang: th
+---
+
 ## 娜娜NANA整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/nana-plastic-surgery-hospital?from=skill

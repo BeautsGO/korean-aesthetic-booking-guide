@@ -1,3 +1,9 @@
+---
+layout: default
+title: "WIZ&MI Clinic"
+lang: zh
+---
+
 ## Wiz&美整形医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/wizmi-clinic?from=skill

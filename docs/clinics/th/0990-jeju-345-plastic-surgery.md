@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeju 345 Plastic Surgery"
+lang: th
+---
+
 ## 济州345整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jeju-345-plastic-surgery?from=skill

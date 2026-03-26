@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeju EOULLIM Hospital"
+lang: zh
+---
+
 ## 济州EOULLIM医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/jeju-eoullim-hospital?from=skill

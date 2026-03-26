@@ -1,3 +1,9 @@
+---
+layout: default
+title: "GEMMA植发中心"
+lang: zh
+---
+
 ## GEMMA植发中心 预约指南
 
 🔗 点击直达预约页面：

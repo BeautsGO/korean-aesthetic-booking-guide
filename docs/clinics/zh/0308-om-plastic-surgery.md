@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Om Plastic Surgery"
+lang: zh
+---
+
 ## Om整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/om-plastic-surgery?from=skill

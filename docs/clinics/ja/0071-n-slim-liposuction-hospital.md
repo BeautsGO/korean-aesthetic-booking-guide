@@ -1,3 +1,9 @@
+---
+layout: default
+title: "N-slim Liposuction Hospital"
+lang: ja
+---
+
 ## N-slim吸脂医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/n-slim-liposuction-hospital?from=skill

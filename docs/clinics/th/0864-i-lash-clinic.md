@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I Lash Clinic"
+lang: th
+---
+
 ## I Lash Clinic คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/i-lash-clinic?from=skill

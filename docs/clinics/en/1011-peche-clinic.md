@@ -1,3 +1,9 @@
+---
+layout: default
+title: "peche clinic"
+lang: en
+---
+
 ## 佩舒皮肤科江南 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/peche-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "essential clinic"
+lang: ja
+---
+
 ## 艾森秀皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/essential-clinic?from=skill

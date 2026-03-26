@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cocory 弘大分店"
+lang: en
+---
+
 ## Cocory 弘大分店 Booking Guide
 
 🔗 Book directly here: 

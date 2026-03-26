@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MYCELL"
+lang: zh
+---
+
 ## mycell医院首尔店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/mycell?from=skill

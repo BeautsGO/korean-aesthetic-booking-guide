@@ -1,3 +1,9 @@
+---
+layout: default
+title: "G7 clinic"
+lang: en
+---
+
 ## G7医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/g7-clinic?from=skill

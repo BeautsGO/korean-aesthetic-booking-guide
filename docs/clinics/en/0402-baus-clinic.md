@@ -1,3 +1,9 @@
+---
+layout: default
+title: "baus clinic"
+lang: en
+---
+
 ## baus皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/baus-clinic?from=skill

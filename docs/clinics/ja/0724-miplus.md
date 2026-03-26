@@ -1,3 +1,9 @@
+---
+layout: default
+title: "miplus"
+lang: ja
+---
+
 ## 美加整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/miplus?from=skill

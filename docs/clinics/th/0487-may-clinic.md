@@ -1,3 +1,9 @@
+---
+layout: default
+title: "may clinic"
+lang: th
+---
+
 ## may clinic คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

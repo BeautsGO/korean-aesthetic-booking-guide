@@ -1,3 +1,9 @@
+---
+layout: default
+title: "monster clinic"
+lang: ja
+---
+
 ## monster医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/monster-clinic?from=skill

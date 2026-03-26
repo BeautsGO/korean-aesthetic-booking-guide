@@ -1,3 +1,9 @@
+---
+layout: default
+title: "allline clinic"
+lang: zh
+---
+
 ## 弘大allline医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/allline-clinic?from=skill

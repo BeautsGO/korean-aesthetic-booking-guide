@@ -1,3 +1,9 @@
+---
+layout: default
+title: "noble wai 整形外科"
+lang: en
+---
+
 ## noble wai 整形外科 Booking Guide
 
 🔗 Book directly here: 

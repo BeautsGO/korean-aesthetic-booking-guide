@@ -1,3 +1,9 @@
+---
+layout: default
+title: "asblanc现代百货千户店"
+lang: zh
+---
+
 ## asblanc现代百货千户店 预约指南
 
 🔗 点击直达预约页面：

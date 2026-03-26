@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CNP SKIN Konkuk University"
+lang: th
+---
+
 ## 建大cnp皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cnp-skin-konkuk-university?from=skill

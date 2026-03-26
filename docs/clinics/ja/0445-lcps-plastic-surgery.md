@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LCPS Plastic Surgery"
+lang: ja
+---
+
 ## lcps 整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lcps-plastic-surgery?from=skill

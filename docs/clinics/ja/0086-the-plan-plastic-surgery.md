@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Plan Plastic Surgery"
+lang: ja
+---
+
 ## The Plan整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/the-plan-plastic-surgery?from=skill

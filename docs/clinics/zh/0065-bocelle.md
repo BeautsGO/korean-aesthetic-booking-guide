@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BOCELLE"
+lang: zh
+---
+
 ## 宝士丽医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/bocelle?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EVERM dental clinic"
+lang: th
+---
+
 ## 爱宝牙科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/everm-dental-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "View Plastic Surgery"
+lang: zh
+---
+
 ## 必妩整形医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/view-plastic-surgery?from=skill

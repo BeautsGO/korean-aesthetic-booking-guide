@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BalGeunSeSang EYE Clinic"
+lang: zh
+---
+
 ## 光明眼科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/balgeunsesang-eye-clinic?from=skill

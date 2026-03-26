@@ -1,3 +1,9 @@
+---
+layout: default
+title: "YONSEISLIMLINE"
+lang: ja
+---
+
 ## 延世姿丽来姻整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/yonseislimline?from=skill

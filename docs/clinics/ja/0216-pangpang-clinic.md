@@ -1,3 +1,9 @@
+---
+layout: default
+title: "PANGPANG CLINIC"
+lang: ja
+---
+
 ## PANGPANG皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/pangpang-clinic?from=skill

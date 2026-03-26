@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Soree Ear Clinic"
+lang: ja
+---
+
 ## Soree耳鼻喉科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/soree-ear-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "gangnam kbeauty"
+lang: en
+---
+
 ## 江南kbeauty整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/gangnam-kbeauty?from=skill

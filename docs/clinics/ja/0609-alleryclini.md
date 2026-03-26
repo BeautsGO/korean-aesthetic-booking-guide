@@ -1,3 +1,9 @@
+---
+layout: default
+title: "alleryclini"
+lang: ja
+---
+
 ## allery皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/alleryclini?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sharp"
+lang: ja
+---
+
 ## SHARP整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/sharp?from=skill

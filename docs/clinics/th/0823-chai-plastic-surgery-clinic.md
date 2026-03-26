@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chai Plastic Surgery Clinic"
+lang: th
+---
+
 ## CHAI整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/chai-plastic-surgery-clinic?from=skill

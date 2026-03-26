@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hera Plastic surgery"
+lang: zh
+---
+
 ## 赫拉整形外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/hera-plastic-surgery?from=skill

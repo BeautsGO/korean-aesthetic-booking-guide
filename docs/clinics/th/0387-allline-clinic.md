@@ -1,3 +1,9 @@
+---
+layout: default
+title: "allline clinic"
+lang: th
+---
+
 ## 弘大allline医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/allline-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mi&Mi clinic"
+lang: en
+---
+
 ## 美&美医院 江南店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/mimi-clinic?from=skill

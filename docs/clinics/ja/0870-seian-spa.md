@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SEiAN Spa"
+lang: ja
+---
+
 ## SEiAN Spa 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/seian-spa?from=skill

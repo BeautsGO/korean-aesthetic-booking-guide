@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Way Plastic Surgery"
+lang: zh
+---
+
 ## The Way整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/the-way-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "hanabi clinic"
+lang: zh
+---
+
 ## 韩娜鼻医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/hanabi-clinic?from=skill

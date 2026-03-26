@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Nplus Clinic"
+lang: th
+---
+
 ## 恩普路斯整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/nplus-clinic?from=skill

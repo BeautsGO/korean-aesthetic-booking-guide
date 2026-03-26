@@ -1,3 +1,9 @@
+---
+layout: default
+title: "laurel clinic"
+lang: en
+---
+
 ## 劳雷尔医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/laurel-clinic?from=skill

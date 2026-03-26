@@ -1,3 +1,9 @@
+---
+layout: default
+title: "GlowPhase"
+lang: th
+---
+
 ## 辉光面纱 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/glowphase?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "banal整形外科"
+lang: ja
+---
+
 ## banal整形外科 予約ガイド
 
 🔗 こちらから直接予約：

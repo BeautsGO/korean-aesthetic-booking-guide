@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ROEN PREMIUM MEDICAL SERVICE"
+lang: th
+---
+
 ## 如妍妇科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/roen-premium-medical-service?from=skill

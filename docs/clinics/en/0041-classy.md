@@ -1,3 +1,9 @@
+---
+layout: default
+title: "classy"
+lang: en
+---
+
 ## 可来熙整形外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/classy?from=skill

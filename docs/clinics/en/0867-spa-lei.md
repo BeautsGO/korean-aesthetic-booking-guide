@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SPA LEI"
+lang: en
+---
+
 ## 江南24小時汗蒸 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/spa-lei?from=skill

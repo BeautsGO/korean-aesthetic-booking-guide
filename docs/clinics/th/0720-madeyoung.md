@@ -1,3 +1,9 @@
+---
+layout: default
+title: "madeyoung"
+lang: th
+---
+
 ## 美迪莹整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/madeyoung?from=skill

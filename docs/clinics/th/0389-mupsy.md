@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mup_sy"
+lang: th
+---
+
 ## MUPSY คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/mupsy?from=skill

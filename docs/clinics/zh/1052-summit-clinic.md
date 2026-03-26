@@ -1,3 +1,9 @@
+---
+layout: default
+title: "summit clinic"
+lang: zh
+---
+
 ## SUMMIT皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/summit-clinic?from=skill

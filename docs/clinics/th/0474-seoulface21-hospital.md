@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SeoulFace21 Hospital"
+lang: th
+---
+
 ## 首尔face21牙科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/seoulface21-hospital?from=skill

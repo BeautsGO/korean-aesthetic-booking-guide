@@ -1,3 +1,9 @@
+---
+layout: default
+title: "chois皮肤科医院 新沙店"
+lang: en
+---
+
 ## chois皮肤科医院 新沙店 Booking Guide
 
 🔗 Book directly here: 

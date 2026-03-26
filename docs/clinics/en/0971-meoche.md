@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MEOCHE照相馆"
+lang: en
+---
+
 ## MEOCHE照相馆 Booking Guide
 
 🔗 Book directly here: 

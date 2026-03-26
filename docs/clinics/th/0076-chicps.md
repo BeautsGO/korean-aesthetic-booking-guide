@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CHICPS"
+lang: th
+---
+
 ## 喜可整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/chicps?from=skill

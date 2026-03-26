@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mo&line"
+lang: th
+---
+
 ## 毛莱茵植发整形医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/moline?from=skill

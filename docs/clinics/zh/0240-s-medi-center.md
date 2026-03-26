@@ -1,3 +1,9 @@
+---
+layout: default
+title: "s-medi center"
+lang: zh
+---
+
 ## s-medi体检中心 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/s-medi-center?from=skill

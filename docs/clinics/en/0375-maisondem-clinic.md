@@ -1,3 +1,9 @@
+---
+layout: default
+title: "maisondeM clinic"
+lang: en
+---
+
 ## 梅宗德医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/maisondem-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kisome化妆室"
+lang: ja
+---
+
 ## kisome化妆室 予約ガイド
 
 🔗 こちらから直接予約：

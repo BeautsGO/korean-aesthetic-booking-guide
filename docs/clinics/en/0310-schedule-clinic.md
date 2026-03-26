@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Schedule Clinic"
+lang: en
+---
+
 ## Schedule医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/schedule-clinic?from=skill

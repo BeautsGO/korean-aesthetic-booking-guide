@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeju Island with hospital"
+lang: ja
+---
+
 ## 济州岛with医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jeju-island-with-hospital?from=skill

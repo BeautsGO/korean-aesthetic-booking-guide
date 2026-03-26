@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LOVELYAN PLASIC SURGERY"
+lang: en
+---
+
 ## 乐于丽颜整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/lovelyan-plasic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bywon医院"
+lang: th
+---
+
 ## bywon医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

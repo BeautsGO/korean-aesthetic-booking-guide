@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DIA AESTHETIC"
+lang: en
+---
+
 ## 钻石美容院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/dia-aesthetic?from=skill

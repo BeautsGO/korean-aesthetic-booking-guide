@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cell the Young Dermatology"
+lang: en
+---
+
 ## cell the young 皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/cell-the-young-dermatology?from=skill

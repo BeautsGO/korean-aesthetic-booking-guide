@@ -1,3 +1,9 @@
+---
+layout: default
+title: "youandchung clinic"
+lang: th
+---
+
 ## youandchung皮肤科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/youandchung-clinic?from=skill

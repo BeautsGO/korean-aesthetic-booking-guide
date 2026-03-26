@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Apgujeong Plastic Seoul Surgery"
+lang: en
+---
+
 ## 首尔整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/apgujeong-plastic-seoul-surgery?from=skill

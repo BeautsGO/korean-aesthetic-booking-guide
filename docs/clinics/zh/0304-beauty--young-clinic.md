@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BEAUTY & YOUNG CLINIC"
+lang: zh
+---
+
 ## beauty&young 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/beauty-young-clinic?from=skill

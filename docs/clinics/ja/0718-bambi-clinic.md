@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bambi clinic"
+lang: ja
+---
+
 ## bambi医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/bambi-clinic?from=skill

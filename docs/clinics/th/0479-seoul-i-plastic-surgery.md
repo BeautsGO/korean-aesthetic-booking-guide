@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Seoul I Plastic Surgery"
+lang: th
+---
+
 ## 首尔I整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/seoul-i-plastic-surgery?from=skill

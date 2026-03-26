@@ -1,3 +1,9 @@
+---
+layout: default
+title: "evita clinic"
+lang: th
+---
+
 ## evita胸部外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/evita-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tune Clinic"
+lang: th
+---
+
 ## 图恩医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/tune-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "min clinic"
+lang: ja
+---
+
 ## MIN CLINIC 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/min-clinic?from=skill

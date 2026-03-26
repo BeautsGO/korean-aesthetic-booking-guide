@@ -1,3 +1,9 @@
+---
+layout: default
+title: "thedoor plastic surgery"
+lang: th
+---
+
 ## 德多尔整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/thedoor-plastic-surgery?from=skill

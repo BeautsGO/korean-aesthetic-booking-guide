@@ -1,3 +1,9 @@
+---
+layout: default
+title: "De:AGE Clinic"
+lang: en
+---
+
 ## 延世De:AGE医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/deage-clinic?from=skill

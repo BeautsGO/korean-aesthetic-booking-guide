@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Osyeon clinic/ocean clinic"
+lang: zh
+---
+
 ## 欧神 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/osyeon-clinicocean-clinic?from=skill

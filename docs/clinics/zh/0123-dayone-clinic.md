@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DAYONE CLINIC"
+lang: zh
+---
+
 ## dayone皮肤科总院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/dayone-clinic?from=skill

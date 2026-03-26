@@ -1,3 +1,9 @@
+---
+layout: default
+title: "diar clinic"
+lang: th
+---
+
 ## DIAR 皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/diar-clinic?from=skill

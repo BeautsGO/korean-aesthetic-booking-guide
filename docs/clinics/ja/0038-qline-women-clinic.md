@@ -1,3 +1,9 @@
+---
+layout: default
+title: "QLINE WOMEN CLINIC"
+lang: ja
+---
+
 ## Q-line女性医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/qline-women-clinic?from=skill

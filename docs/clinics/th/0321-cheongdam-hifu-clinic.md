@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cheongdam hifu clinic"
+lang: th
+---
+
 ## 清潭妇科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cheongdam-hifu-clinic?from=skill

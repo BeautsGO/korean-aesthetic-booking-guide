@@ -1,3 +1,9 @@
+---
+layout: default
+title: "KRISMAS整形外科"
+lang: th
+---
+
 ## KRISMAS整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

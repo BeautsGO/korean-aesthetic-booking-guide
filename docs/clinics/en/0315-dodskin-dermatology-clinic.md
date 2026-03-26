@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dodskin dermatology clinic"
+lang: en
+---
+
 ## dod皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/dodskin-dermatology-clinic?from=skill

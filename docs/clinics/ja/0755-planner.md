@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Planner整形医院"
+lang: ja
+---
+
 ## Planner整形医院 予約ガイド
 
 🔗 こちらから直接予約：

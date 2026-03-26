@@ -1,3 +1,9 @@
+---
+layout: default
+title: "star clinic"
+lang: ja
+---
+
 ## star整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/star-clinic?from=skill

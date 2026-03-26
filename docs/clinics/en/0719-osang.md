@@ -1,3 +1,9 @@
+---
+layout: default
+title: "osang"
+lang: en
+---
+
 ## osang神经外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/osang?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dicarat医院"
+lang: zh
+---
+
 ## dicarat医院 预约指南
 
 🔗 点击直达预约页面：

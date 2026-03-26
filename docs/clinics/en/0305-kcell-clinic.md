@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kcell clinic"
+lang: en
+---
+
 ## kcell医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/kcell-clinic?from=skill

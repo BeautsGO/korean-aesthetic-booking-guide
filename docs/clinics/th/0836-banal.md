@@ -1,3 +1,9 @@
+---
+layout: default
+title: "banal整形外科"
+lang: th
+---
+
 ## banal整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

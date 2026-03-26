@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bonyeon"
+lang: en
+---
+
 ## 本颜整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/bonyeon?from=skill

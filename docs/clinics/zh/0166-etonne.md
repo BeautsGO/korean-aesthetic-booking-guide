@@ -1,3 +1,9 @@
+---
+layout: default
+title: "etonne"
+lang: zh
+---
+
 ## 韩国ETONNE整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/etonne?from=skill

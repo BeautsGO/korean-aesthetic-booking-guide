@@ -1,3 +1,9 @@
+---
+layout: default
+title: "soonplus"
+lang: en
+---
+
 ## soon plus整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/soonplus?from=skill

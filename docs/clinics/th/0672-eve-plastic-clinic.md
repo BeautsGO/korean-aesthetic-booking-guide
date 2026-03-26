@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Eve Plastic Clinic"
+lang: th
+---
+
 ## Eve整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/eve-plastic-clinic?from=skill

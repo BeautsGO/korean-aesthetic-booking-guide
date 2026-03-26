@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cooki"
+lang: ja
+---
+
 ## 韩国cooki整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/cooki?from=skill

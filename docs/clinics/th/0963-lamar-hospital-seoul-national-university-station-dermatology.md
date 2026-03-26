@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lamar Hospital Seoul National University Station Dermatology"
+lang: th
+---
+
 ## lamar医院 首尔大入口站皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lamar-hospital-seoul-national-university-station-dermatology?from=skill

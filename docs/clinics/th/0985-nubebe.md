@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nubebe医院(弘大)"
+lang: th
+---
+
 ## nubebe医院(弘大) คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "monster clinic"
+lang: en
+---
+
 ## monster医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/monster-clinic?from=skill

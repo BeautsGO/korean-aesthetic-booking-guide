@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Serophim"
+lang: zh
+---
+
 ## 仁川士罗匹皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/serophim?from=skill

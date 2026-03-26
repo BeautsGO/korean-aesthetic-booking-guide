@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ON AIR Plastic Surgery"
+lang: th
+---
+
 ## 欧艾尔整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/on-air-plastic-surgery?from=skill

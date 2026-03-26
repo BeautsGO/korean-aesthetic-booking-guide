@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Korean Medicine Clinic"
+lang: ja
+---
+
 ## Ye韩医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/korean-medicine-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Answer Plastic Surgery"
+lang: th
+---
+
 ## answer整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/answer-plastic-surgery?from=skill

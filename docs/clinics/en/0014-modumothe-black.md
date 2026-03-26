@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Modumo（the black）"
+lang: en
+---
+
 ## 布莱克医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/modumothe-black?from=skill

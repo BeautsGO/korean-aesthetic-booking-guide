@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BeautyBar"
+lang: ja
+---
+
 ## BeautyBar整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/beautybar?from=skill

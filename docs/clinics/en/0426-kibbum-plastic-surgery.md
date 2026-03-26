@@ -1,3 +1,9 @@
+---
+layout: default
+title: "KIBBUM PLASTIC SURGERY"
+lang: en
+---
+
 ## KIBBUM整形医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/kibbum-plastic-surgery?from=skill

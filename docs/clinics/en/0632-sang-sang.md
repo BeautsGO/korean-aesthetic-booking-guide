@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sang sang"
+lang: en
+---
+
 ## 想象医院 新沙总店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/sang-sang?from=skill

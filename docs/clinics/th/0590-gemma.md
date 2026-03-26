@@ -1,3 +1,9 @@
+---
+layout: default
+title: "GEMMA植发中心"
+lang: th
+---
+
 ## GEMMA植发中心 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

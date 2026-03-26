@@ -1,3 +1,9 @@
+---
+layout: default
+title: "OBJET PlasticSurgery"
+lang: en
+---
+
 ## OBJET整形外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/objet-plasticsurgery?from=skill

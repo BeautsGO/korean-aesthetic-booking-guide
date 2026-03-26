@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cocory"
+lang: en
+---
+
 ## Cocory 江南分店 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/cocory?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Moon Clinic"
+lang: th
+---
+
 ## Moon医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/moon-clinic?from=skill

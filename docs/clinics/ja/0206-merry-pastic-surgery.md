@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Merry Pastic Surgery"
+lang: ja
+---
+
 ## Merry整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/merry-pastic-surgery?from=skill

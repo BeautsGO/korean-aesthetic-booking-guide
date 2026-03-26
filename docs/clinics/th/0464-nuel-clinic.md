@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nuel clinic"
+lang: th
+---
+
 ## nuel皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/nuel-clinic?from=skill

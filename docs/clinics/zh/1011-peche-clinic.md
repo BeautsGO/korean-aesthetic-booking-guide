@@ -1,3 +1,9 @@
+---
+layout: default
+title: "peche clinic"
+lang: zh
+---
+
 ## 佩舒皮肤科江南 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/peche-clinic?from=skill

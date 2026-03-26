@@ -1,3 +1,9 @@
+---
+layout: default
+title: "GRIDA CHEONGDAM MAKEUP"
+lang: th
+---
+
 ## GRIDA CHEONGDAM MAKEUP คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/grida-cheongdam-makeup?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BARUNGYN"
+lang: ja
+---
+
 ## 吉女性医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/barungyn?from=skill

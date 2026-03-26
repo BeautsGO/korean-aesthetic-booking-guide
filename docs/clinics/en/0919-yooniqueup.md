@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Yoonique_up"
+lang: en
+---
+
 ## Yoonique_up Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/yooniqueup?from=skill

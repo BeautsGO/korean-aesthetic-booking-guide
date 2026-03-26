@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theliz clinic"
+lang: zh
+---
+
 ## theliz clinic 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/theliz-clinic?from=skill

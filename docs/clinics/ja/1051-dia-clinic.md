@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dia clinic"
+lang: ja
+---
+
 ## 江南黛雅皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/dia-clinic?from=skill

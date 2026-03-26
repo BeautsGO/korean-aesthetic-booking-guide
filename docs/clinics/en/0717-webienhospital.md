@@ -1,3 +1,9 @@
+---
+layout: default
+title: "webienhospital"
+lang: en
+---
+
 ## 胃飞扬医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/webienhospital?from=skill

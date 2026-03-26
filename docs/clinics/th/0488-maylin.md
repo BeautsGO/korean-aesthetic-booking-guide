@@ -1,3 +1,9 @@
+---
+layout: default
+title: "maylin清潭皮肤科"
+lang: th
+---
+
 ## maylin清潭皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

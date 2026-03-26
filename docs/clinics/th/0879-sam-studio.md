@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sam Studio"
+lang: th
+---
+
 ## Sam Studio คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/sam-studio?from=skill

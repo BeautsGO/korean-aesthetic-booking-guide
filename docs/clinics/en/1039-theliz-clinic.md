@@ -1,3 +1,9 @@
+---
+layout: default
+title: "theliz clinic"
+lang: en
+---
+
 ## theliz clinic Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/theliz-clinic?from=skill

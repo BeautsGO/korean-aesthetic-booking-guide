@@ -1,3 +1,9 @@
+---
+layout: default
+title: "doctorpetit clinic"
+lang: ja
+---
+
 ## 朵戈芙蒂医院江南店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/doctorpetit-clinic?from=skill

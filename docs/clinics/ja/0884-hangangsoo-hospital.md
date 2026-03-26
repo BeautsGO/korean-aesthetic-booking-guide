@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hangangsoo Hospital"
+lang: ja
+---
+
 ## hangangsoo医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/hangangsoo-hospital?from=skill

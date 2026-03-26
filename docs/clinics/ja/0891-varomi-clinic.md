@@ -1,3 +1,9 @@
+---
+layout: default
+title: "varomi clinic"
+lang: ja
+---
+
 ## varomi clinic 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/varomi-clinic?from=skill

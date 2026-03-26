@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Pygmalion Plastic Surgery& Skin Care Clinic"
+lang: th
+---
+
 ## Pygmalion整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/pygmalion-plastic-surgery-skin-care-clinic?from=skill

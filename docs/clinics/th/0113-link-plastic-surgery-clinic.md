@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LINK PLASTIC SURGERY CLINIC"
+lang: th
+---
+
 ## link整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/link-plastic-surgery-clinic?from=skill

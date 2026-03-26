@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Idea PlasticSurgical Clinic"
+lang: zh
+---
+
 ## 艺德雅整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/idea-plasticsurgical-clinic?from=skill

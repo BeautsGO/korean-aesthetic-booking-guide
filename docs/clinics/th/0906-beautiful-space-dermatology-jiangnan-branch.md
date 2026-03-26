@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Beautiful Space Dermatology Jiangnan Branch"
+lang: th
+---
+
 ## 美丽空间皮肤科江南店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/beautiful-space-dermatology-jiangnan-branch?from=skill

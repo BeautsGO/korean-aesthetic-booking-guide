@@ -1,3 +1,9 @@
+---
+layout: default
+title: "beulibalps"
+lang: th
+---
+
 ## Beulibal整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/beulibalps?from=skill

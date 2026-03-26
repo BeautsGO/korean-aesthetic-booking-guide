@@ -1,3 +1,9 @@
+---
+layout: default
+title: "greeny dermatology clinic"
+lang: en
+---
+
 ## greeny皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/greeny-dermatology-clinic?from=skill

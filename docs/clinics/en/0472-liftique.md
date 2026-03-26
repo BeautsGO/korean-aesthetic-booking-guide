@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Liftique皮肤科"
+lang: en
+---
+
 ## Liftique皮肤科 Booking Guide
 
 🔗 Book directly here: 

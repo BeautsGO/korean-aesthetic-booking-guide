@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Idea PlasticSurgical Clinic"
+lang: en
+---
+
 ## 艺德雅整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/idea-plasticsurgical-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Forena Clinic"
+lang: th
+---
+
 ## Forena医院 弘大店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/forena-clinic?from=skill

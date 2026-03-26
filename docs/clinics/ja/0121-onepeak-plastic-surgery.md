@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ONEPEAK PLASTIC SURGERY"
+lang: ja
+---
+
 ## 愿妃整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/onepeak-plastic-surgery?from=skill

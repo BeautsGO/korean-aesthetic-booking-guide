@@ -1,3 +1,9 @@
+---
+layout: default
+title: "diar clinic"
+lang: ja
+---
+
 ## DIAR 皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/diar-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "pilloseu医院"
+lang: ja
+---
+
 ## pilloseu医院 予約ガイド
 
 🔗 こちらから直接予約：

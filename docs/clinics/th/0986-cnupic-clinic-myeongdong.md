@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CNUPIC Clinic (Myeongdong)"
+lang: th
+---
+
 ## cnupic의원(明洞) คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cnupic-clinic-myeongdong?from=skill

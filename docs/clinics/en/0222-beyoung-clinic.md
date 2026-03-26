@@ -1,3 +1,9 @@
+---
+layout: default
+title: "be&young clinic"
+lang: en
+---
+
 ## Be&Young医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/beyoung-clinic?from=skill

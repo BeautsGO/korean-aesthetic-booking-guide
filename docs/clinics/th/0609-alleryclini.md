@@ -1,3 +1,9 @@
+---
+layout: default
+title: "alleryclini"
+lang: th
+---
+
 ## allery皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/alleryclini?from=skill

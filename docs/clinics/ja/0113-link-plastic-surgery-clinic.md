@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LINK PLASTIC SURGERY CLINIC"
+lang: ja
+---
+
 ## link整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/link-plastic-surgery-clinic?from=skill

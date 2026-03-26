@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DAEATDIET韩医院"
+lang: zh
+---
+
 ## DAEATDIET韩医院 预约指南
 
 🔗 点击直达预约页面：

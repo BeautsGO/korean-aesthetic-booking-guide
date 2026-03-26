@@ -1,3 +1,9 @@
+---
+layout: default
+title: "FLORES Dermatology"
+lang: th
+---
+
 ## 弗洛雷斯皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/flores-dermatology?from=skill

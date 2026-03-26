@@ -1,3 +1,9 @@
+---
+layout: default
+title: "osang"
+lang: zh
+---
+
 ## osang神经外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/osang?from=skill

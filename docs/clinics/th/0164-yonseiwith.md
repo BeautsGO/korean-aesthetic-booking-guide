@@ -1,3 +1,9 @@
+---
+layout: default
+title: "yonseiwith"
+lang: th
+---
+
 ## 延世withe医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/yonseiwith?from=skill

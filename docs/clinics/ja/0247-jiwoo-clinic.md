@@ -1,3 +1,9 @@
+---
+layout: default
+title: "jiwoo clinic"
+lang: ja
+---
+
 ## 江南知友医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jiwoo-clinic?from=skill

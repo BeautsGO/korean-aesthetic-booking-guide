@@ -1,3 +1,9 @@
+---
+layout: default
+title: "AB PLASTIC SURGERY"
+lang: ja
+---
+
 ## AB整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ab-plastic-surgery?from=skill

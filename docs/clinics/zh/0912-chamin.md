@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chamin整形外科&皮肤科"
+lang: zh
+---
+
 ## 瑳旼整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/chamin?from=skill

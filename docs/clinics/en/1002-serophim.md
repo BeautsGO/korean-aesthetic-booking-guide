@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Serophim"
+lang: en
+---
+
 ## 仁川士罗匹皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/serophim?from=skill

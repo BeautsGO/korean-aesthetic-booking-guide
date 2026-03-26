@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Onecell医院"
+lang: ja
+---
+
 ## Onecell医院 予約ガイド
 
 🔗 こちらから直接予約：

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "skinforet"
+lang: en
+---
+
 ## 思亲肤乐 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/skinforet?from=skill

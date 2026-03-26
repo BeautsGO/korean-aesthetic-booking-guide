@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Shangxi Beauty"
+lang: ja
+---
+
 ## 上熹美业 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/shangxi-beauty?from=skill

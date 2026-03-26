@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RUDIA MAKEUP HAIR BEAUTY LAB"
+lang: th
+---
+
 ## RUDIA MAKEUP HAIR BEAUTY LAB คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/rudia-makeup-hair-beauty-lab?from=skill

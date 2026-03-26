@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Noble&co Plastic Surgery"
+lang: en
+---
+
 ## Noblenco整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/nobleco-plastic-surgery?from=skill

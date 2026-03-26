@@ -1,3 +1,9 @@
+---
+layout: default
+title: "IPCHEA plastic surgery"
+lang: en
+---
+
 ## 立体整形医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ipchea-plastic-surgery?from=skill

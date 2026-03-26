@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Bom Maru Clinic"
+lang: ja
+---
+
 ## Bom Maru医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/bom-maru-clinic?from=skill

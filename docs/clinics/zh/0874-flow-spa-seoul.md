@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Flow SPA Seoul"
+lang: zh
+---
+
 ## Flow SPA Seoul 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/flow-spa-seoul?from=skill

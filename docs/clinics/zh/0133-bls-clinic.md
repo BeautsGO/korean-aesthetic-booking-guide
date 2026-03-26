@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bls clinic"
+lang: zh
+---
+
 ## BLS医院总院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/bls-clinic?from=skill

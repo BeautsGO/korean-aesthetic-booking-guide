@@ -1,3 +1,9 @@
+---
+layout: default
+title: "the first"
+lang: ja
+---
+
 ## 釜山德佛丝特皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/the-first?from=skill

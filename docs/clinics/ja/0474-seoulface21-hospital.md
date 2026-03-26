@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SeoulFace21 Hospital"
+lang: ja
+---
+
 ## 首尔face21牙科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/seoulface21-hospital?from=skill

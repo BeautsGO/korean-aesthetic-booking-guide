@@ -1,3 +1,9 @@
+---
+layout: default
+title: "gu Gangnam"
+lang: zh
+---
+
 ## GU皮肤科江南店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/gu-gangnam?from=skill

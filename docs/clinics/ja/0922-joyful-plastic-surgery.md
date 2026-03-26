@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JOYFUL PLASTIC SURGERY"
+lang: ja
+---
+
 ## 喜悦整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/joyful-plastic-surgery?from=skill

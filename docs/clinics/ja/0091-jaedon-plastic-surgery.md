@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jaedon Plastic Surgery"
+lang: ja
+---
+
 ## 在敦整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jaedon-plastic-surgery?from=skill

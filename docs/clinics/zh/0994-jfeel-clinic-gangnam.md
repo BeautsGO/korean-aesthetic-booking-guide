@@ -1,3 +1,9 @@
+---
+layout: default
+title: "jfeel Clinic Gangnam"
+lang: zh
+---
+
 ## 桔艺菲医院 江南店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/jfeel-clinic-gangnam?from=skill

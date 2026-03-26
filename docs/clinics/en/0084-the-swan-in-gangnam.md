@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Swan in Gangnam"
+lang: en
+---
+
 ## The Swan整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/the-swan-in-gangnam?from=skill

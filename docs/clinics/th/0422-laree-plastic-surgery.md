@@ -1,3 +1,9 @@
+---
+layout: default
+title: "laree PLASTIC SURGERY"
+lang: th
+---
+
 ## 来丽laree整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/laree-plastic-surgery?from=skill

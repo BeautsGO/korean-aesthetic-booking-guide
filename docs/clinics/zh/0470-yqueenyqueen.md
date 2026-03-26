@@ -1,3 +1,9 @@
+---
+layout: default
+title: "yqueen/YQUEEN"
+lang: zh
+---
+
 ## 颐坤妇科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/yqueenyqueen?from=skill

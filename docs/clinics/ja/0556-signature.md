@@ -1,3 +1,9 @@
+---
+layout: default
+title: "signature整形外科"
+lang: ja
+---
+
 ## signature整形外科 予約ガイド
 
 🔗 こちらから直接予約：

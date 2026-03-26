@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Banobagi Plastic & Aesthetic Clinic"
+lang: en
+---
+
 ## 佰诺佰琪整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/banobagi-plastic-aesthetic-clinic?from=skill

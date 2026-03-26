@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vands Clinic Sinsa"
+lang: zh
+---
+
 ## 本思医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/vands-clinic-sinsa?from=skill

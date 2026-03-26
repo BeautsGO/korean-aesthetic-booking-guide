@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LOVAÉ CLINIC"
+lang: zh
+---
+
 ## 弘大LOVAÉ皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/lova-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Railey Dressing Room"
+lang: zh
+---
+
 ## Railey化妆室 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/railey-dressing-room?from=skill

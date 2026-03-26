@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mellow"
+lang: zh
+---
+
 ## mellow皮肤科 清潭店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/mellow?from=skill

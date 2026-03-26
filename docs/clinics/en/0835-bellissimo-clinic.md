@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bellissimo clinic"
+lang: en
+---
+
 ## bellissimo医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/bellissimo-clinic?from=skill

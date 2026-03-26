@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ohn Studio"
+lang: zh
+---
+
 ## 稳工作室 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/ohn-studio?from=skill

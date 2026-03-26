@@ -1,3 +1,9 @@
+---
+layout: default
+title: "trophy皮肤科"
+lang: zh
+---
+
 ## 奖杯皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/trophy?from=skill

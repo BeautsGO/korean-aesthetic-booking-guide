@@ -1,3 +1,9 @@
+---
+layout: default
+title: "T-Up Clinic"
+lang: th
+---
+
 ## T-Up皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/t-up-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "melting clinic"
+lang: th
+---
+
 ## 圣水melting皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/melting-clinic?from=skill

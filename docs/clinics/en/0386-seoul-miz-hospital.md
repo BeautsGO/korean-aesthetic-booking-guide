@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Seoul Miz Hospital"
+lang: en
+---
+
 ## 首尔米兹医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/seoul-miz-hospital?from=skill

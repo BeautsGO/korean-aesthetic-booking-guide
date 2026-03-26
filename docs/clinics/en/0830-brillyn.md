@@ -1,3 +1,9 @@
+---
+layout: default
+title: "brillyn皮肤科"
+lang: en
+---
+
 ## brillyn皮肤科 Booking Guide
 
 🔗 Book directly here: 

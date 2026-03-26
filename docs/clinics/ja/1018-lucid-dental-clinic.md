@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LUCID DENTAL CLINIC"
+lang: ja
+---
+
 ## LUCID牙科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lucid-dental-clinic?from=skill

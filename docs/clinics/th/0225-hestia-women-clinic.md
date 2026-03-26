@@ -1,3 +1,9 @@
+---
+layout: default
+title: "hestia-women clinic"
+lang: th
+---
+
 ## Hestia女性医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/hestia-women-clinic?from=skill

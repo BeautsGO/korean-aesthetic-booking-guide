@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Herne Clinic"
+lang: th
+---
+
 ## herne医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/herne-clinic?from=skill

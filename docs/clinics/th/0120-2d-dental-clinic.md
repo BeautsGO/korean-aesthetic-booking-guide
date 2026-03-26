@@ -1,3 +1,9 @@
+---
+layout: default
+title: "2D DENTAL CLINIC"
+lang: th
+---
+
 ## 2D牙科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/2d-dental-clinic?from=skill

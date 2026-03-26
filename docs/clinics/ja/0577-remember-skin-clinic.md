@@ -1,3 +1,9 @@
+---
+layout: default
+title: "remember skin clinic"
+lang: ja
+---
+
 ## remember皮肤科医院药水站店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/remember-skin-clinic?from=skill

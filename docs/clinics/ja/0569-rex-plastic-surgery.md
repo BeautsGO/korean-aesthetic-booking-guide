@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Rex Plastic Surgery"
+lang: ja
+---
+
 ## Rex整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/rex-plastic-surgery?from=skill

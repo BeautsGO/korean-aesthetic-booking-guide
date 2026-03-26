@@ -1,3 +1,9 @@
+---
+layout: default
+title: "giveme clinic"
+lang: en
+---
+
 ## give美医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/giveme-clinic?from=skill

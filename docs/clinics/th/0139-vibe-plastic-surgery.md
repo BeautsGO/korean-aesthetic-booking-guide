@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vibe Plastic Surgery"
+lang: th
+---
+
 ## VIBE整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/vibe-plastic-surgery?from=skill

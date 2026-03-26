@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NowMedi医院(济州)"
+lang: en
+---
+
 ## NowMedi医院(济州) Booking Guide
 
 🔗 Book directly here: 

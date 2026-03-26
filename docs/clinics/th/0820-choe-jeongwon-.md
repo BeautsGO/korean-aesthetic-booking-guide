@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Choe Jeongwon 牙科"
+lang: th
+---
+
 ## Choe Jeongwon 牙科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lsw clinic"
+lang: ja
+---
+
 ## lsw皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lsw-clinic?from=skill

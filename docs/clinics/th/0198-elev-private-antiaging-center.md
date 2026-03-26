@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ELEV Private Antiaging Center"
+lang: th
+---
+
 ## ELEV皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/elev-private-antiaging-center?from=skill

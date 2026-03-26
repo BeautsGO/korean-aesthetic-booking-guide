@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wyne Dermatology"
+lang: th
+---
+
 ## Wyne皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/wyne-dermatology?from=skill

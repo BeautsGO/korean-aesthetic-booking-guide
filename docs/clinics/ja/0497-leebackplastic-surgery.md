@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LEE&BACKPLASTIC SURGERY"
+lang: ja
+---
+
 ## 李白整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/leebackplastic-surgery?from=skill

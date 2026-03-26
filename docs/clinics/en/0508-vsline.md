@@ -1,3 +1,9 @@
+---
+layout: default
+title: "vsline江南店"
+lang: en
+---
+
 ## vsline江南店 Booking Guide
 
 🔗 Book directly here: 

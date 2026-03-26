@@ -1,3 +1,9 @@
+---
+layout: default
+title: "WESHE PLASTIC SURGERY"
+lang: en
+---
+
 ## weshe整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/weshe-plastic-surgery?from=skill

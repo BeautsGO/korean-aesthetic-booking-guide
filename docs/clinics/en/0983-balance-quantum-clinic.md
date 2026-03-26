@@ -1,3 +1,9 @@
+---
+layout: default
+title: "balance quantum clinic"
+lang: en
+---
+
 ## balance quantum抗衰中心 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/balance-quantum-clinic?from=skill

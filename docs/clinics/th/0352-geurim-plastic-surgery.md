@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Geurim Plastic Surgery"
+lang: th
+---
+
 ## 格林整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/geurim-plastic-surgery?from=skill

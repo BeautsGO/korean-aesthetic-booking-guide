@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BELLE AMIE RENOVO CLINIC"
+lang: en
+---
+
 ## 弘大丽诺芙医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/belle-amie-renovo-clinic?from=skill

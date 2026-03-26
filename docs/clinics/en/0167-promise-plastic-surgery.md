@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Promise Plastic Surgery"
+lang: en
+---
+
 ## 普拉美斯整形医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/promise-plastic-surgery?from=skill

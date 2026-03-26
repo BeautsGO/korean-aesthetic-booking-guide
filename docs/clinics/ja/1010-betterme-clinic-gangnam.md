@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Betterme clinic Gangnam"
+lang: ja
+---
+
 ## 百乐美皮肤科江南 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/betterme-clinic-gangnam?from=skill

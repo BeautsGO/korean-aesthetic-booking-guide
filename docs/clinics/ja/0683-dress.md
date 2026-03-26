@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dress整形外科"
+lang: ja
+---
+
 ## dress整形外科 予約ガイド
 
 🔗 こちらから直接予約：

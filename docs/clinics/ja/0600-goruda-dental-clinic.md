@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Goruda Dental Clinic"
+lang: ja
+---
+
 ## goruda牙科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/goruda-dental-clinic?from=skill

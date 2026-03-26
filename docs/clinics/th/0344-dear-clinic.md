@@ -1,3 +1,9 @@
+---
+layout: default
+title: "dear clinic"
+lang: th
+---
+
 ## 清潭dear皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/dear-clinic?from=skill

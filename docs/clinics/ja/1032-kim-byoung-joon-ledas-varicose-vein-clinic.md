@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kim Byoung Joon LEDAS Varicose Vein Clinic"
+lang: ja
+---
+
 ## 釜山下肢静脉瘤治疗中心 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/kim-byoung-joon-ledas-varicose-vein-clinic?from=skill

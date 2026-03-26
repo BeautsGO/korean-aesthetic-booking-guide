@@ -1,3 +1,9 @@
+---
+layout: default
+title: "FACE PLUS PLASTIC SURGERY CLINIC"
+lang: ja
+---
+
 ## Faceplus整形外科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/face-plus-plastic-surgery-clinic?from=skill

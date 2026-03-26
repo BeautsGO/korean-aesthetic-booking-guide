@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BalGeunSeSang EYE Clinic"
+lang: ja
+---
+
 ## 光明眼科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/balgeunsesang-eye-clinic?from=skill

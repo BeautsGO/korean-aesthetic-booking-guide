@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ES Cheongdam Plastic Surgery"
+lang: ja
+---
+
 ## ES清潭整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/es-cheongdam-plastic-surgery?from=skill

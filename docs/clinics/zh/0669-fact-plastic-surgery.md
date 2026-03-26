@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fact Plastic Surgery"
+lang: zh
+---
+
 ## Fact整形外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/fact-plastic-surgery?from=skill

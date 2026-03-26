@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Onecell医院"
+lang: en
+---
+
 ## Onecell医院 Booking Guide
 
 🔗 Book directly here: 

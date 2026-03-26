@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dogoveti Clinic Myeongdong Branch"
+lang: ja
+---
+
 ## 朵戈芙蒂医院明洞店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/dogoveti-clinic-myeongdong-branch?from=skill

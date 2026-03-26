@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gangnam LEON Dental Clinic"
+lang: ja
+---
+
 ## 江南leon牙科诊所 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/gangnam-leon-dental-clinic?from=skill

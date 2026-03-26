@@ -1,3 +1,9 @@
+---
+layout: default
+title: "miul皮肤科（釜山Centum）"
+lang: th
+---
+
 ## miul皮肤科（釜山Centum） คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

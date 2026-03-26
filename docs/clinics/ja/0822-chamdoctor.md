@@ -1,3 +1,9 @@
+---
+layout: default
+title: "chamdoctor医院"
+lang: ja
+---
+
 ## chamdoctor医院 予約ガイド
 
 🔗 こちらから直接予約：

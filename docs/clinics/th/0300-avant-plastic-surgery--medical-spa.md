@@ -1,3 +1,9 @@
+---
+layout: default
+title: "AVANT PLASTIC SURGERY & MEDICAL SPA"
+lang: th
+---
+
 ## Avant整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/avant-plastic-surgery-medical-spa?from=skill

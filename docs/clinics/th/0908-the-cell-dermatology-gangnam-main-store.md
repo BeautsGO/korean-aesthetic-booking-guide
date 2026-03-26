@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Cell Dermatology Gangnam Main Store"
+lang: th
+---
+
 ## the cell皮肤科江南本店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/the-cell-dermatology-gangnam-main-store?from=skill

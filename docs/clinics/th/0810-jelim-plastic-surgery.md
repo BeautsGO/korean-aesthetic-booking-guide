@@ -1,3 +1,9 @@
+---
+layout: default
+title: "jelim plastic surgery"
+lang: th
+---
+
 ## jelim整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jelim-plastic-surgery?from=skill

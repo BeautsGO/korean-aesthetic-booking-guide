@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gangnam LEON Dental Clinic"
+lang: th
+---
+
 ## 江南leon牙科诊所 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/gangnam-leon-dental-clinic?from=skill

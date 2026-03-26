@@ -1,3 +1,9 @@
+---
+layout: default
+title: "seoulcheil"
+lang: ja
+---
+
 ## 首尔第一整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/seoulcheil?from=skill

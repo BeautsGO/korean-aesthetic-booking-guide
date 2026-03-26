@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EG DONG AN"
+lang: th
+---
+
 ## EG童颜整形&皮肤科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/eg-dong-an?from=skill

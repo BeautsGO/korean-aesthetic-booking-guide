@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SINSANG Plastic Surgery Philosophy"
+lang: en
+---
+
 ## 新尚整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/sinsang-plastic-surgery-philosophy?from=skill

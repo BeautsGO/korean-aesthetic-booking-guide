@@ -1,3 +1,9 @@
+---
+layout: default
+title: "newlline clinic"
+lang: zh
+---
+
 ## 圣水newlline皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/newlline-clinic?from=skill

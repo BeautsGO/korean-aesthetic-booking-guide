@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JP Plastic Surgery"
+lang: ja
+---
+
 ## JP整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jp-plastic-surgery?from=skill

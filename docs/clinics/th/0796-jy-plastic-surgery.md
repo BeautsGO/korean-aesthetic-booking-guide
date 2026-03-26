@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JY PLASTIC SURGERY"
+lang: th
+---
+
 ## JY整形外科&皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jy-plastic-surgery?from=skill

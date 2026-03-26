@@ -1,3 +1,9 @@
+---
+layout: default
+title: "PR Plastic Surgery"
+lang: th
+---
+
 ## PR整形外科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/pr-plastic-surgery?from=skill

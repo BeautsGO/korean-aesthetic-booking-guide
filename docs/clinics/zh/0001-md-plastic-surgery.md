@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MD Plastic Surgery"
+lang: zh
+---
+
 ## MD胸部外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/md-plastic-surgery?from=skill

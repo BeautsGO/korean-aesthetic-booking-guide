@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cheongdam RETOO CLINIC"
+lang: zh
+---
+
 ## 清潭丽途皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/cheongdam-retoo-clinic?from=skill

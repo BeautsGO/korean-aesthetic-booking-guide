@@ -1,3 +1,9 @@
+---
+layout: default
+title: "eraser clinic"
+lang: en
+---
+
 ## 橡皮皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/eraser-clinic?from=skill

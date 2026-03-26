@@ -1,3 +1,9 @@
+---
+layout: default
+title: "nubebe医院(弘大)"
+lang: zh
+---
+
 ## nubebe医院(弘大) 预约指南
 
 🔗 点击直达预约页面：

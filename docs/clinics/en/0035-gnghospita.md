@@ -1,3 +1,9 @@
+---
+layout: default
+title: "gnghospita"
+lang: en
+---
+
 ## GNG医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/gnghospita?from=skill

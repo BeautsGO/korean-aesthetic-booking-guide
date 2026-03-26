@@ -1,3 +1,9 @@
+---
+layout: default
+title: "hiyonsei women's clinic"
+lang: en
+---
+
 ## Hi延世女性医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/hiyonsei-womens-clinic?from=skill

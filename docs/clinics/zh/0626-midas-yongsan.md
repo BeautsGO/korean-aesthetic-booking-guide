@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MIDAS Yongsan"
+lang: zh
+---
+
 ## MIDAS整形专科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/midas-yongsan?from=skill

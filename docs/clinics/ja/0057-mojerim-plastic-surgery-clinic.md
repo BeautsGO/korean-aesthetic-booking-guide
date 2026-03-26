@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mojerim Plastic Surgery Clinic"
+lang: ja
+---
+
 ## 毛杰琳整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mojerim-plastic-surgery-clinic?from=skill

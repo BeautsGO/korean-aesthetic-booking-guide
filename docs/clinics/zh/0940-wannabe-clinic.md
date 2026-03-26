@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wannabe clinic"
+lang: zh
+---
+
 ## 釜山奥纳比皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/wannabe-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "abijou clinic Ilsan"
+lang: zh
+---
+
 ## 雅秘珠日山店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/abijou-clinic-ilsan?from=skill

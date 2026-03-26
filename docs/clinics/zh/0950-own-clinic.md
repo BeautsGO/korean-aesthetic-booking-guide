@@ -1,3 +1,9 @@
+---
+layout: default
+title: "own clinic"
+lang: zh
+---
+
 ## own医院 三成店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/own-clinic?from=skill

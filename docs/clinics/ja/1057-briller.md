@@ -1,3 +1,9 @@
+---
+layout: default
+title: "briller"
+lang: ja
+---
+
 ## 布里亚医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/briller?from=skill

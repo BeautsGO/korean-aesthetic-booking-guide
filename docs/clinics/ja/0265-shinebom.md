@@ -1,3 +1,9 @@
+---
+layout: default
+title: "shinebom"
+lang: ja
+---
+
 ## Shine-bom皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/shinebom?from=skill

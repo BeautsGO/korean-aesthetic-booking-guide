@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Soree Ear Clinic"
+lang: en
+---
+
 ## Soree耳鼻喉科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/soree-ear-clinic?from=skill

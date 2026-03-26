@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Delphic Dermatology"
+lang: th
+---
+
 ## 德尔菲皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/delphic-dermatology?from=skill

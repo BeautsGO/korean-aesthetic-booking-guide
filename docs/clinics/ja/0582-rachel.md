@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RACHEL整形外科皮肤科"
+lang: ja
+---
+
 ## RACHEL整形外科皮肤科 予約ガイド
 
 🔗 こちらから直接予約：

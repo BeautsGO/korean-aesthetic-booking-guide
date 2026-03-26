@@ -1,3 +1,9 @@
+---
+layout: default
+title: "romimo"
+lang: en
+---
+
 ## 江南路美毛植发中心 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/romimo?from=skill

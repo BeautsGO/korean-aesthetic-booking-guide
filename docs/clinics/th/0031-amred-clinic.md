@@ -1,3 +1,9 @@
+---
+layout: default
+title: "AMRED CLINIC"
+lang: th
+---
+
 ## AMRED皮肤科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/amred-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vivid Studio"
+lang: en
+---
+
 ## Vivid Studio Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/vivid-studio?from=skill

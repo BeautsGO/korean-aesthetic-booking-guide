@@ -1,3 +1,9 @@
+---
+layout: default
+title: "springeye"
+lang: en
+---
+
 ## springeye Booking Guide
 
 🔗 Book directly here: 

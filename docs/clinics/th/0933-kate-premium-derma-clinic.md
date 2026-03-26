@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kate premium derma clinic"
+lang: th
+---
+
 ## 弘大凯特皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/kate-premium-derma-clinic?from=skill

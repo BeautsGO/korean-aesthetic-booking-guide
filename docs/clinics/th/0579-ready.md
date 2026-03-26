@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ready整形医院"
+lang: th
+---
+
 ## Ready整形医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

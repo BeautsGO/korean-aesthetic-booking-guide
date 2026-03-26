@@ -1,3 +1,9 @@
+---
+layout: default
+title: "FLORES Dermatology"
+lang: zh
+---
+
 ## 弗洛雷斯皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/flores-dermatology?from=skill

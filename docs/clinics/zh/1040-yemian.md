@@ -1,3 +1,9 @@
+---
+layout: default
+title: "釜山Yemian皮肤科"
+lang: zh
+---
+
 ## 釜山Yemian皮肤科 预约指南
 
 🔗 点击直达预约页面：

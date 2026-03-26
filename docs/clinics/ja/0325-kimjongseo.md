@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kimjongseo"
+lang: ja
+---
+
 ## 金钟瑞整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/kimjongseo?from=skill

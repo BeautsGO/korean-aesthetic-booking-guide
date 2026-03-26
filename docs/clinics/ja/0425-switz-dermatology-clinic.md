@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Switz dermatology clinic"
+lang: ja
+---
+
 ## 斯威茨皮肤科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/switz-dermatology-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sartine clinic"
+lang: ja
+---
+
 ## 清潭sartine皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/sartine-clinic?from=skill

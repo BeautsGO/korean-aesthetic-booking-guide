@@ -1,3 +1,9 @@
+---
+layout: default
+title: "清潭jayderma医院"
+lang: th
+---
+
 ## 清潭jayderma医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

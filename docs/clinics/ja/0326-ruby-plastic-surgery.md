@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RUBY PLASTIC SURGERY"
+lang: ja
+---
+
 ## ruby 整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ruby-plastic-surgery?from=skill

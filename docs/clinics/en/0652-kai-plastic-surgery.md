@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kai Plastic Surgery"
+lang: en
+---
+
 ## 开开整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/kai-plastic-surgery?from=skill

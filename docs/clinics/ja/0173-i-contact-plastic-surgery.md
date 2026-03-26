@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I CONTACT PLASTIC SURGERY"
+lang: ja
+---
+
 ## I Contact整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/i-contact-plastic-surgery?from=skill

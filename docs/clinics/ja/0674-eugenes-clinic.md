@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EU:GENES CLINIC"
+lang: ja
+---
+
 ## Eugenes医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/eugenes-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "generless cheonho"
+lang: th
+---
+
 ## generless医院 千户店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/generless-cheonho?from=skill

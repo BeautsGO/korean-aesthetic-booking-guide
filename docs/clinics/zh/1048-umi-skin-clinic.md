@@ -1,3 +1,9 @@
+---
+layout: default
+title: "umi skin clinic"
+lang: zh
+---
+
 ## 明洞优美皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/umi-skin-clinic?from=skill

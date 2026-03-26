@@ -1,3 +1,9 @@
+---
+layout: default
+title: "skinforet"
+lang: zh
+---
+
 ## 思亲肤乐 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/skinforet?from=skill

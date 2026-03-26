@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Glory Clinic"
+lang: ja
+---
+
 ## glory皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/glory-clinic?from=skill

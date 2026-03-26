@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jiangnan Shouyan Plastic Surgery Hospital"
+lang: ja
+---
+
 ## 江南首延整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/jiangnan-shouyan-plastic-surgery-hospital?from=skill

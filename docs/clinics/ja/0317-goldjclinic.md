@@ -1,3 +1,9 @@
+---
+layout: default
+title: "goldjclinic"
+lang: ja
+---
+
 ## goldj皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/goldjclinic?from=skill

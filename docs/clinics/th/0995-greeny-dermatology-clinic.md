@@ -1,3 +1,9 @@
+---
+layout: default
+title: "greeny dermatology clinic"
+lang: th
+---
+
 ## greeny皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/greeny-dermatology-clinic?from=skill

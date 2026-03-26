@@ -1,3 +1,9 @@
+---
+layout: default
+title: "yonseiwith"
+lang: en
+---
+
 ## 延世withe医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/yonseiwith?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "emediline"
+lang: en
+---
+
 ## emediline皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/emediline?from=skill

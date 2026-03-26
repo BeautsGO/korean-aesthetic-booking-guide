@@ -1,3 +1,9 @@
+---
+layout: default
+title: "FLORES Dermatology"
+lang: en
+---
+
 ## 弗洛雷斯皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/flores-dermatology?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ppeum Jejudo"
+lang: ja
+---
+
 ## 丽芬聚济州岛国际店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/ppeum-jejudo?from=skill

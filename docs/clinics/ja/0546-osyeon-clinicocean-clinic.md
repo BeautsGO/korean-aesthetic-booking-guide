@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Osyeon clinic/ocean clinic"
+lang: ja
+---
+
 ## 欧神 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/osyeon-clinicocean-clinic?from=skill

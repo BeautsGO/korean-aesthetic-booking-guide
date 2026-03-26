@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SODA PLASTIC SURGERY"
+lang: th
+---
+
 ## 韩国SODA整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/soda-plastic-surgery?from=skill

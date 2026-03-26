@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Why clinic"
+lang: en
+---
+
 ## why口腔颌面外科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/why-clinic?from=skill

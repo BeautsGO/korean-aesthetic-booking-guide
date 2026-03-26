@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Su Dental Clinic"
+lang: en
+---
+
 ## Su牙科医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/su-dental-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "channel+皮肤科医院"
+lang: ja
+---
+
 ## channel+皮肤科医院 予約ガイド
 
 🔗 こちらから直接予約：

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "wonderfulps"
+lang: th
+---
+
 ## wonderful整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/wonderfulps?from=skill

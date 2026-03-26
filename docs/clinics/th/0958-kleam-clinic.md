@@ -1,3 +1,9 @@
+---
+layout: default
+title: "kleam clinic"
+lang: th
+---
+
 ## 可丽医院明洞店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/kleam-clinic?from=skill

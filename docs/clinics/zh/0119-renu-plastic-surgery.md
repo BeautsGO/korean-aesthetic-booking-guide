@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Renu plastic surgery"
+lang: zh
+---
+
 ## Renu外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/renu-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "wells clinic"
+lang: th
+---
+
 ## wells皮肤科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/wells-clinic?from=skill

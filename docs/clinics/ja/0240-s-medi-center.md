@@ -1,3 +1,9 @@
+---
+layout: default
+title: "s-medi center"
+lang: ja
+---
+
 ## s-medi体检中心 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/s-medi-center?from=skill

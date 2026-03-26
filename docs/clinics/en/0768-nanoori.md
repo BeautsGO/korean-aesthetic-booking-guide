@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NANOORI医院"
+lang: en
+---
+
 ## NANOORI医院 Booking Guide
 
 🔗 Book directly here: 

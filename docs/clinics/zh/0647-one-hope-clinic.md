@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ONE HOPE CLINIC"
+lang: zh
+---
+
 ## 哈娜希望医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/one-hope-clinic?from=skill

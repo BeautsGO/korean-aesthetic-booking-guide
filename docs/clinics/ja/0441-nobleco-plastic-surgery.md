@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Noble&co Plastic Surgery"
+lang: ja
+---
+
 ## Noblenco整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/nobleco-plastic-surgery?from=skill

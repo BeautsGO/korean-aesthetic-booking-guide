@@ -1,3 +1,9 @@
+---
+layout: default
+title: "beauty pleasure clinic"
+lang: th
+---
+
 ## 清潭美乐皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/beauty-pleasure-clinic?from=skill

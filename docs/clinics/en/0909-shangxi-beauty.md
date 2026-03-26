@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Shangxi Beauty"
+lang: en
+---
+
 ## 上熹美业 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/shangxi-beauty?from=skill

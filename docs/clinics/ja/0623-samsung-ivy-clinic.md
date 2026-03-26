@@ -1,3 +1,9 @@
+---
+layout: default
+title: "samsung ivy clinic"
+lang: ja
+---
+
 ## 三星ivy医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/samsung-ivy-clinic?from=skill

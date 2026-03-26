@@ -1,3 +1,9 @@
+---
+layout: default
+title: "abijouclinic Gangnam"
+lang: ja
+---
+
 ## 雅秘珠医院江南店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/abijouclinic-gangnam?from=skill

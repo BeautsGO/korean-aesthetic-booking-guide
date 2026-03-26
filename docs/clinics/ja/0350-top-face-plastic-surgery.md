@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Top Face Plastic Surgery"
+lang: ja
+---
+
 ## 韩国秀美颜整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/top-face-plastic-surgery?from=skill

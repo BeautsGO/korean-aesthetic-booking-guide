@@ -1,3 +1,9 @@
+---
+layout: default
+title: "KOREA FASHION PSYCHOLOGY INSTITUTE"
+lang: th
+---
+
 ## 韩国时尚心理研究院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/korea-fashion-psychology-institute?from=skill

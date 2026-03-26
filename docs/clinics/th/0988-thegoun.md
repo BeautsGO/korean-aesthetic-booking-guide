@@ -1,3 +1,9 @@
+---
+layout: default
+title: "TheGoun(济州)"
+lang: th
+---
+
 ## TheGoun(济州) คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

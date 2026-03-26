@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RUBY PLASTIC SURGERY"
+lang: th
+---
+
 ## ruby 整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/ruby-plastic-surgery?from=skill

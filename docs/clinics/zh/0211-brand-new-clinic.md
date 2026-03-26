@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Brand New Clinic"
+lang: zh
+---
+
 ## Brand New 皮肤科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/brand-new-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "otena clinic"
+lang: zh
+---
+
 ## 奥缇娜医院 明洞店 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/otena-clinic?from=skill

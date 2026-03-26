@@ -1,3 +1,9 @@
+---
+layout: default
+title: "asblanc现代百货千户店"
+lang: en
+---
+
 ## asblanc现代百货千户店 Booking Guide
 
 🔗 Book directly here: 

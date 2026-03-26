@@ -1,3 +1,9 @@
+---
+layout: default
+title: "vencell"
+lang: zh
+---
+
 ## vencell 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/vencell?from=skill

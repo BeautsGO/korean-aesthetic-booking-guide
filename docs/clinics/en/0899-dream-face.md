@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dream Face"
+lang: en
+---
+
 ## Dream Face Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/dream-face?from=skill

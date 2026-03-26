@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Deesse plastic surgery"
+lang: ja
+---
+
 ## 韩国女神整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/deesse-plastic-surgery?from=skill

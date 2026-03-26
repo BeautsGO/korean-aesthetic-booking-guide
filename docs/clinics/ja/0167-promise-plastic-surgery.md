@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Promise Plastic Surgery"
+lang: ja
+---
+
 ## 普拉美斯整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/promise-plastic-surgery?from=skill

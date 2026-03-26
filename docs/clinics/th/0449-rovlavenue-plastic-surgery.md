@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Rovlavenue Plastic Surgery"
+lang: th
+---
+
 ## 劳波尔医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/rovlavenue-plastic-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "YangYoonDol Oral & Maxillofacial Surgery"
+lang: zh
+---
+
 ## 杨润乭口腔颌面部外科 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/yangyoondol-oral-maxillofacial-surgery?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NOTE PLASTIC SURGERY"
+lang: ja
+---
+
 ## 韩国NOTE整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/note-plastic-surgery?from=skill

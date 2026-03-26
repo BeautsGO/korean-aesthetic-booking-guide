@@ -1,3 +1,9 @@
+---
+layout: default
+title: "you&i clinic"
+lang: zh
+---
+
 ## you&i医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/youi-clinic?from=skill

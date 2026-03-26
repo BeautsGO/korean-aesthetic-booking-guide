@@ -1,3 +1,9 @@
+---
+layout: default
+title: "it’s me clinic"
+lang: en
+---
+
 ## 清潭it’s me Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/its-me-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lumi space"
+lang: ja
+---
+
 ## 明洞lumi space韩服体验 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/lumi-space?from=skill

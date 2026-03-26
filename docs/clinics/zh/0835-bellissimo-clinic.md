@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bellissimo clinic"
+lang: zh
+---
+
 ## bellissimo医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/bellissimo-clinic?from=skill

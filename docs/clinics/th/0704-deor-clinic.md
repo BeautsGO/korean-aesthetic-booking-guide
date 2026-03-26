@@ -1,3 +1,9 @@
+---
+layout: default
+title: "deor clinic"
+lang: th
+---
+
 ## deor皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/deor-clinic?from=skill

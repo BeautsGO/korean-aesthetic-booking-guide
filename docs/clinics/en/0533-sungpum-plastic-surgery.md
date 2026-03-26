@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sungpum Plastic Surgery"
+lang: en
+---
+
 ## Sungpum整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/sungpum-plastic-surgery?from=skill

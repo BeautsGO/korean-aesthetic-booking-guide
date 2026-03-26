@@ -1,3 +1,9 @@
+---
+layout: default
+title: "balance quantum clinic"
+lang: ja
+---
+
 ## balance quantum抗衰中心 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/balance-quantum-clinic?from=skill

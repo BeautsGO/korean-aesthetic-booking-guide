@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Designer Plastic Surgery"
+lang: ja
+---
+
 ## 设计师整形医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/designer-plastic-surgery?from=skill

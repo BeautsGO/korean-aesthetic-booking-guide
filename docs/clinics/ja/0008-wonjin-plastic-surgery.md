@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wonjin Plastic Surgery"
+lang: ja
+---
+
 ## 原辰整形外科医院&皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/wonjin-plastic-surgery?from=skill

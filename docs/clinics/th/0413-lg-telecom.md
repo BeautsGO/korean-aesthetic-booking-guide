@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LG TeleCom"
+lang: th
+---
+
 ## 韩国LG通讯 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lg-telecom?from=skill

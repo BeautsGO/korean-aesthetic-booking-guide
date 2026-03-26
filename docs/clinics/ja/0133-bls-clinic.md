@@ -1,3 +1,9 @@
+---
+layout: default
+title: "bls clinic"
+lang: ja
+---
+
 ## BLS医院总院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/bls-clinic?from=skill

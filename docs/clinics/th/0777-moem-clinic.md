@@ -1,3 +1,9 @@
+---
+layout: default
+title: "moem clinic"
+lang: th
+---
+
 ## moen医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/moem-clinic?from=skill

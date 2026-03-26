@@ -1,3 +1,9 @@
+---
+layout: default
+title: "eight plastic surgery"
+lang: ja
+---
+
 ## eight整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/eight-plastic-surgery?from=skill

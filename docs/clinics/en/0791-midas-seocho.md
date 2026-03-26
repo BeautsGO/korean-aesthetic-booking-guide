@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MIDAS Seocho"
+lang: en
+---
+
 ## MIDAS 医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/midas-seocho?from=skill

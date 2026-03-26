@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Orbit Clinic"
+lang: ja
+---
+
 ## Orbit皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/orbit-clinic?from=skill

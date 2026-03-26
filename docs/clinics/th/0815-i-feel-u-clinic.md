@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I FEEL U CLINIC"
+lang: th
+---
+
 ## Ifeelyou皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/i-feel-u-clinic?from=skill

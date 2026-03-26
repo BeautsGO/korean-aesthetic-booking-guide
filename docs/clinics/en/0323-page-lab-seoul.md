@@ -1,3 +1,9 @@
+---
+layout: default
+title: "PAGE LAB SEOUL"
+lang: en
+---
+
 ## pagelab医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/page-lab-seoul?from=skill

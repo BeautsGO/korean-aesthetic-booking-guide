@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Meifill Clinic"
+lang: ja
+---
+
 ## 美妼皮肤科医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/meifill-clinic?from=skill

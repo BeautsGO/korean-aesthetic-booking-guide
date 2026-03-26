@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Global Plastic Surgery"
+lang: ja
+---
+
 ## 环球美容整形医疗集团 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/global-plastic-surgery?from=skill

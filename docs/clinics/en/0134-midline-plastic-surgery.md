@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Midline plastic surgery"
+lang: en
+---
+
 ## Midline整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/midline-plastic-surgery?from=skill

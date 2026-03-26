@@ -1,3 +1,9 @@
+---
+layout: default
+title: "may clinic"
+lang: en
+---
+
 ## may clinic Booking Guide
 
 🔗 Book directly here: 

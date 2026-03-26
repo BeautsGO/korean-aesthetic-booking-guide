@@ -1,3 +1,9 @@
+---
+layout: default
+title: "reandyoungclinic"
+lang: en
+---
+
 ## re&young医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/reandyoungclinic?from=skill

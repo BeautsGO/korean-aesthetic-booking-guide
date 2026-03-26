@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lavian Plastic Surgery"
+lang: th
+---
+
 ## 拉菲安整形外科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lavian-plastic-surgery?from=skill

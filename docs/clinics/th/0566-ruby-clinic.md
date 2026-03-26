@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ruby clinic"
+lang: th
+---
+
 ## ruby皮肤科 良才站 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/ruby-clinic?from=skill

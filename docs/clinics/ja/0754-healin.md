@@ -1,3 +1,9 @@
+---
+layout: default
+title: "清潭healin医院"
+lang: ja
+---
+
 ## 清潭healin医院 予約ガイド
 
 🔗 こちらから直接予約：

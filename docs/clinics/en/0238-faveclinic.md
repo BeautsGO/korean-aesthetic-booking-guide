@@ -1,3 +1,9 @@
+---
+layout: default
+title: "faveclinic"
+lang: en
+---
+
 ## Fave皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/faveclinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "centum core clinic"
+lang: en
+---
+
 ## 釜山cc整形外科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/centum-core-clinic?from=skill

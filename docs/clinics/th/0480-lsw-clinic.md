@@ -1,3 +1,9 @@
+---
+layout: default
+title: "lsw clinic"
+lang: th
+---
+
 ## lsw皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/lsw-clinic?from=skill

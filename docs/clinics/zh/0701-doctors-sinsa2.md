@@ -1,3 +1,9 @@
+---
+layout: default
+title: "doctors sinsa2"
+lang: zh
+---
+
 ## doctors皮肤科新沙分馆 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/doctors-sinsa2?from=skill

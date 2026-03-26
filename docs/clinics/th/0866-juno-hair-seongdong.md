@@ -1,3 +1,9 @@
+---
+layout: default
+title: "JUNO HAIR Seongdong"
+lang: th
+---
+
 ## JUNO HAIR คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/juno-hair-seongdong?from=skill

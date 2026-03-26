@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Seoul I Plastic Surgery"
+lang: ja
+---
+
 ## 首尔I整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/seoul-i-plastic-surgery?from=skill

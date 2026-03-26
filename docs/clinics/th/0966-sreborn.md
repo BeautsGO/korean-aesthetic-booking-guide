@@ -1,3 +1,9 @@
+---
+layout: default
+title: "sreborn"
+lang: th
+---
+
 ## 弘大s皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/sreborn?from=skill

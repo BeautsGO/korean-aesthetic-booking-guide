@@ -1,3 +1,9 @@
+---
+layout: default
+title: "UcanB Plastic Surgery& Dermatology"
+lang: zh
+---
+
 ## ucanb整形外科医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/ucanb-plastic-surgery-dermatology?from=skill

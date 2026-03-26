@@ -1,3 +1,9 @@
+---
+layout: default
+title: "21plastic surgery"
+lang: ja
+---
+
 ## 21整形外科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/21plastic-surgery?from=skill

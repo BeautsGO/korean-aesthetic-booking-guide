@@ -1,3 +1,9 @@
+---
+layout: default
+title: "muse clinic"
+lang: th
+---
+
 ## 谬慈医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/muse-clinic?from=skill

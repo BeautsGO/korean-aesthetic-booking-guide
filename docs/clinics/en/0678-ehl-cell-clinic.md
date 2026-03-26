@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EHL Cell Clinic"
+lang: en
+---
+
 ## EHL Cell医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/ehl-cell-clinic?from=skill

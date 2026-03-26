@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Moheal"
+lang: th
+---
+
 ## Moheal医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/moheal?from=skill

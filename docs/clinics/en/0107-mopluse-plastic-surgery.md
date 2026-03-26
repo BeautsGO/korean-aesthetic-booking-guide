@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MOPLUSE PLASTIC SURGERY"
+lang: en
+---
+
 ## 毛家毛发移植医院 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/mopluse-plastic-surgery?from=skill

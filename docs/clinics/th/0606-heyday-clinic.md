@@ -1,3 +1,9 @@
+---
+layout: default
+title: "HeyDay Clinic"
+lang: th
+---
+
 ## HeyDay皮肤医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/heyday-clinic?from=skill

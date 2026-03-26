@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MIDAS Yongsan"
+lang: th
+---
+
 ## MIDAS整形专科医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/midas-yongsan?from=skill

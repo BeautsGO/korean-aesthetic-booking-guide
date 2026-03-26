@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ThreeWishes Gangnam"
+lang: en
+---
+
 ## 三个心愿（江南店） Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/threewishes-gangnam?from=skill

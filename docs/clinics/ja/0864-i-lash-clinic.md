@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I Lash Clinic"
+lang: ja
+---
+
 ## I Lash Clinic 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/i-lash-clinic?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MEOCHE照相馆"
+lang: th
+---
+
 ## MEOCHE照相馆 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: 

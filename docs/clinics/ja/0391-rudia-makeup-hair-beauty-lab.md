@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RUDIA MAKEUP HAIR BEAUTY LAB"
+lang: ja
+---
+
 ## RUDIA MAKEUP HAIR BEAUTY LAB 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/rudia-makeup-hair-beauty-lab?from=skill

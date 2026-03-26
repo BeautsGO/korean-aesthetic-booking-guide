@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Brand New Clinic"
+lang: en
+---
+
 ## Brand New 皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/brand-new-clinic?from=skill

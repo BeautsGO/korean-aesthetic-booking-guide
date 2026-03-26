@@ -1,3 +1,9 @@
+---
+layout: default
+title: "GEMMA植发中心"
+lang: ja
+---
+
 ## GEMMA植发中心 予約ガイド
 
 🔗 こちらから直接予約：

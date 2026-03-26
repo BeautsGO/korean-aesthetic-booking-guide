@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Nobleline Hospital"
+lang: th
+---
+
 ## Nobleline医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/nobleline-hospital?from=skill

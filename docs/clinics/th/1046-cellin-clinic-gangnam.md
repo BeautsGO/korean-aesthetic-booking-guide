@@ -1,3 +1,9 @@
+---
+layout: default
+title: "cellin clinic Gangnam"
+lang: th
+---
+
 ## 赛琳江南店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/cellin-clinic-gangnam?from=skill

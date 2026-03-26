@@ -1,3 +1,9 @@
+---
+layout: default
+title: "mup_sy"
+lang: ja
+---
+
 ## MUPSY 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/mupsy?from=skill

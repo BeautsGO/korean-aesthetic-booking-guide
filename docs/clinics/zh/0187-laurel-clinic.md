@@ -1,3 +1,9 @@
+---
+layout: default
+title: "laurel clinic"
+lang: zh
+---
+
 ## 劳雷尔医院 预约指南
 
 🔗 点击直达预约页面：https://i.beautsgo.com/cn/hospital/laurel-clinic?from=skill

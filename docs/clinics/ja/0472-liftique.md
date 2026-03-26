@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Liftique皮肤科"
+lang: ja
+---
+
 ## Liftique皮肤科 予約ガイド
 
 🔗 こちらから直接予約：

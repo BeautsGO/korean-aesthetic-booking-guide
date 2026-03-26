@@ -1,3 +1,9 @@
+---
+layout: default
+title: "springeye"
+lang: ja
+---
+
 ## springeye 予約ガイド
 
 🔗 こちらから直接予約：

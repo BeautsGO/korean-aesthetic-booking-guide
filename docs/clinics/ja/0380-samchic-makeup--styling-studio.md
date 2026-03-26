@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Samchic Makeup & Styling Studio"
+lang: ja
+---
+
 ## samchic妆造店 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/samchic-makeup-styling-studio?from=skill

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "baus clinic"
+lang: ja
+---
+
 ## baus皮肤科 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/baus-clinic?from=skill

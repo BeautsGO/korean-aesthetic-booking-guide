@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Root Hair Transplant Clinic"
+lang: th
+---
+
 ## ROOT毛发移植医院 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/root-hair-transplant-clinic?from=skill

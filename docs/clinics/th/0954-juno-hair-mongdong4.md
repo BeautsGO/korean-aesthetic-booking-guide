@@ -1,3 +1,9 @@
+---
+layout: default
+title: "juno hair mongdong4"
+lang: th
+---
+
 ## juno hair明洞4号店 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/juno-hair-mongdong4?from=skill

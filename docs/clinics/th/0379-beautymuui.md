@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Beauty_muui"
+lang: th
+---
+
 ## 清潭muui妆造室 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/beautymuui?from=skill

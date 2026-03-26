@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EGG Clinic"
+lang: th
+---
+
 ## 新沙EGG皮肤科 คู่มือการจอง
 
 🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/egg-clinic?from=skill

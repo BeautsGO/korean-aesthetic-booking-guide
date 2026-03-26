@@ -1,3 +1,9 @@
+---
+layout: default
+title: "laurel clinic"
+lang: ja
+---
+
 ## 劳雷尔医院 予約ガイド
 
 🔗 こちらから直接予約：https://i.beautsgo.com/cn/hospital/laurel-clinic?from=skill

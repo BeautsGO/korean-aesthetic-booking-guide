@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DM Dermatology"
+lang: en
+---
+
 ## DM皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/dm-dermatology?from=skill

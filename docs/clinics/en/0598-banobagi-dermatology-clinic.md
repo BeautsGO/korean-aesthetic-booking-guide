@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Banobagi Dermatology Clinic"
+lang: en
+---
+
 ## 佰诺佰琪皮肤科 Booking Guide
 
 🔗 Book directly here: https://i.beautsgo.com/cn/hospital/banobagi-dermatology-clinic?from=skill
