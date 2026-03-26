@@ -253,46 +253,19 @@ function parseFormInput(query) {
  * @param {{ persons: number, dateText: string, remark: string }} formData
  * @returns {{ success: boolean, message: string }}
  */
-async function fillBookingForm(url, formData) {
+async function fillBookingForm(url, bookingUrl, formData) {
   let browser
   try {
-    const result = await createAuthorizedPage(url)
+    // 直接打开预约表单页，跳过详情页点按钮
+    const targetUrl = bookingUrl || url
+    const result = await createAuthorizedPage(targetUrl)
     browser = result.browser
     const page = result.page
 
-    // 1. 等待医院页面渲染，点击"预约面诊"按钮
-    console.log('[Booking Skill] 等待医院页面加载...')
-    await page.waitForSelector('.btns-right', { timeout: 10000 }).catch(() => {})
+    // 等待表单页渲染
+    console.log('[Booking Skill] 等待预约表单加载...')
+    await page.waitForSelector('.u-number-box__plus, .sub-right', { timeout: 15000 }).catch(() => {})
     await page.waitForTimeout(2000)
-
-    const bookClicked = await page.evaluate(() => {
-      // 优先：.btns-right 中文本包含"预约"的元素
-      const btnsRight = document.querySelectorAll('.btns-right')
-      for (const el of btnsRight) {
-        const text = (el.textContent || '').trim()
-        if (text.includes('预约') && el.offsetParent !== null) {
-          el.click()
-          return true
-        }
-      }
-      // 降级：文本包含"预约面诊"或"立即预约"的任意可见元素（text.length < 30 避免匹配大容器）
-      const elements = document.querySelectorAll('*')
-      for (const el of elements) {
-        const text = (el.textContent || '').trim()
-        if ((text.includes('预约面诊') || text.includes('立即预约')) && el.offsetParent !== null && text.length < 30) {
-          el.click()
-          return true
-        }
-      }
-      return false
-    })
-
-    if (!bookClicked) {
-      return { success: false, message: '未找到预约按钮，请手动点击预约面诊' }
-    }
-
-    console.log('[Booking Skill] 已点击预约按钮，等待表单加载...')
-    await page.waitForTimeout(5000)
 
     // 2. 填写人数
     if (formData.persons && formData.persons > 1) {
@@ -706,7 +679,7 @@ module.exports = async function (input) {
     }
 
     // ——————————————————————————————————————————
-    // 第3轮：自动点击预约按钮 → 询问预约信息
+    // 第3轮：直接打开预约表单页 → 询问预约信息
     // ——————————————————————————————————————————
     if (intent === 'book') {
       const hospital = resolveHospital()
@@ -715,10 +688,11 @@ module.exports = async function (input) {
         return '❌ 我还不知道你要预约哪家医院，请告诉我医院名称，例如"帮我预约JD皮肤科"。'
       }
 
-      const clicked = await clickBookingButton(hospital.url)
+      // 优先用 booking_url（直接跳过详情页），没有则降级用 url
+      const bookingUrl = hospital.booking_url || hospital.url
+      await openBrowser(bookingUrl)
 
-      if (clicked) {
-        return `✅ 预约表单已打开！正在加载 **${hospital.name}** 的预约页面...
+      return `✅ 预约表单已打开！
 
 📝 请告诉我以下预约信息，我来帮你自动填写并提交：
 
@@ -727,18 +701,6 @@ module.exports = async function (input) {
 3. **备注需求**（可选，例如：想做水光针）
 
 👉 直接回复，例如："**2人，3月26日，想做皮肤检测**"`
-      } else {
-        return `⚠️ 自动点击预约按钮未成功，但页面已为你打开。
-
-请在浏览器中手动操作：
-1. 找到页面上的蓝色"预约面诊"按钮
-2. 点击进入预约表单
-3. 填写信息后提交
-
-医院页面：${hospital.url}
-
-如需帮助，可以告诉我"咨询客服"，我帮你联系医院客服。`
-      }
     }
 
     // ——————————————————————————————————————————
@@ -764,7 +726,7 @@ module.exports = async function (input) {
 • 备注需求（可选）`
       }
 
-      const result = await fillBookingForm(hospital.url, formData)
+      const result = await fillBookingForm(hospital.url, hospital.booking_url, formData)
 
       if (result.success) {
         return `✅ **预约已提交！**
