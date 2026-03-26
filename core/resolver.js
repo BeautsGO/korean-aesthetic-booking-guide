@@ -34,13 +34,21 @@ function generateSearchKeywords(hospital) {
     .replace(/\bhospital\b/gi, '')
     .trim()
 
-  const chineseForPinyin = cnName ? extractChineseOnly(cnName) : ''
-  const py = chineseForPinyin
-    ? filterPinyin(pinyin(chineseForPinyin, { toneType: 'none', separator: '', type: 'string' }))
-    : ''
-  const abbr = chineseForPinyin
-    ? filterPinyin(pinyin(chineseForPinyin, { toneType: 'none', separator: '', type: 'string', pattern: 'first' }))
-    : ''
+  // 优先使用数据库带来的 pinyin / pinyin_abbr 字段（原始值，不做 stop word 过滤）
+  // 降级：实时用 pinyin-pro 计算（仅对纯中文字符，需过滤通用词）
+  let py, abbr
+  if (hospital.pinyin) {
+    py   = hospital.pinyin.trim()
+    abbr = hospital.pinyin_abbr ? hospital.pinyin_abbr.trim() : ''
+  } else {
+    const chineseForPinyin = cnName ? extractChineseOnly(cnName) : ''
+    py = chineseForPinyin
+      ? filterPinyin(pinyin(chineseForPinyin, { toneType: 'none', separator: '', type: 'string' }))
+      : ''
+    abbr = chineseForPinyin
+      ? filterPinyin(pinyin(chineseForPinyin, { toneType: 'none', separator: '', type: 'string', pattern: 'first' }))
+      : ''
+  }
 
   const parts = [['中文名', cnName], ['英文名', enName], ['拼音', py], ['首字母', abbr]]
   const seen = new Set()
@@ -92,8 +100,11 @@ function matchHospital(query, hospitals) {
   )
   if (found) return found
 
-  // Strategy 2: exact dynamic pinyin / pinyin abbreviation (no manual field required)
+  // Strategy 2: exact pinyin / pinyin_abbr (prefer DB field, fall back to dynamic)
   found = hospitals.find(h => {
+    const dbPy   = h.pinyin   ? h.pinyin.trim().toLowerCase()   : ''
+    const dbAbbr = h.pinyin_abbr ? h.pinyin_abbr.trim().toLowerCase() : ''
+    if ((dbPy && dbPy === q) || (dbAbbr && dbAbbr === q)) return true
     const { py, abbr } = getDynamicPinyin(h)
     return (py && py.toLowerCase() === q) || (abbr && abbr.toLowerCase() === q)
   })
@@ -109,7 +120,9 @@ function matchHospital(query, hospitals) {
   if (q.length >= MIN_ALIAS_MATCH_LEN) {
     found = hospitals.find(h => {
       const { py, abbr } = getDynamicPinyin(h)
-      const fields = [h.en_name, h.alias, py, abbr]
+      const dbPy   = h.pinyin   ? h.pinyin.trim().toLowerCase()   : ''
+      const dbAbbr = h.pinyin_abbr ? h.pinyin_abbr.trim().toLowerCase() : ''
+      const fields = [h.en_name, h.alias, py, abbr, dbPy, dbAbbr]
       if (fields.some(v => v && v.toLowerCase().includes(q))) return true
       if (h.aliases && h.aliases.some(a => {
         const al = a.toLowerCase()
