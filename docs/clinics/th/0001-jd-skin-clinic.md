@@ -1,6 +1,6 @@
 ## 韩国JD皮肤科 คู่มือการจอง
 
-🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jd-clinic?from=skill
+🔗 จองโดยตรงที่นี่: https://i.beautsgo.com/cn/hospital/jdclinic?from=skill
 
 1. 🍎 iOS จอง
 ค้นหา "BeautsGO" ใน App Store ดาวน์โหลดและติดตั้งแอป 📥
