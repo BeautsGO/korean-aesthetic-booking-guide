@@ -211,8 +211,8 @@ async function clickBookingButton(url) {
 
 /**
  * 解析用户输入，提取预约表单字段
- * @param {string} query 用户输入，如 "2人，3月26日，想做水光针"
- * @returns {{ persons: number, dateText: string, remark: string }}
+ * @param {string} query 用户输入，如 "2人，3月26日，13800138000"
+ * @returns {{ persons: number, dateText: string, contact: string }}
  */
 function parseFormInput(query) {
   // 人数：匹配"2人"、"2位"、"两人"等
@@ -235,16 +235,22 @@ function parseFormInput(query) {
     dateText = dateMatch[0]
   }
 
-  // 备注：去掉人数、日期后的剩余内容
-  let remark = query
-    .replace(/\d+\s*(人|位)/g, '')
-    .replace(/两人|两位|三人|三位/g, '')
-    .replace(/\d{1,4}[年月\/\-]\d{1,2}[日号月\/\-]?\d{0,2}[日号]?/g, '')
-    .replace(/[，,。.、！!？?]/g, ' ')
-    .trim()
-  if (remark.length < 2) remark = ''
+  // 联系方式：优先匹配手机号（11位数字），否则取去除人数、日期后的剩余内容
+  let contact = ''
+  const phoneMatch = query.match(/1[3-9]\d{9}/)
+  if (phoneMatch) {
+    contact = phoneMatch[0]
+  } else {
+    contact = query
+      .replace(/\d+\s*(人|位)/g, '')
+      .replace(/两人|两位|三人|三位/g, '')
+      .replace(/\d{1,4}[年月\/\-]\d{1,2}[日号月\/\-]?\d{0,2}[日号]?/g, '')
+      .replace(/[，,。.、！!？?]/g, ' ')
+      .trim()
+    if (contact.length < 2) contact = ''
+  }
 
-  return { persons, dateText, remark }
+  return { persons, dateText, contact }
 }
 
 /**
@@ -368,29 +374,23 @@ async function fillBookingForm(url, bookingUrl, formData) {
       }
     }
 
-    // 4. 填写备注
-    if (formData.remark && formData.remark.length > 0) {
-      console.log(`[Booking Skill] 填写备注：${formData.remark}`)
-      const remarkFilled = await page.evaluate((remark) => {
-        // 找 textarea 或 contenteditable
-        const ta = document.querySelector('textarea, [contenteditable="true"]')
-        if (ta) {
-          ta.focus()
-          ta.value = remark
-          ta.dispatchEvent(new Event('input', { bubbles: true }))
-          return true
-        }
-        // uni-textarea 内的原生 textarea
-        const uniTa = document.querySelector('uni-textarea textarea')
-        if (uniTa) {
-          uniTa.focus()
-          uniTa.value = remark
-          uniTa.dispatchEvent(new Event('input', { bubbles: true }))
-          return true
+    // 4. 填写联系方式
+    if (formData.contact && formData.contact.length > 0) {
+      console.log(`[Booking Skill] 填写联系方式：${formData.contact}`)
+      const contactFilled = await page.evaluate((contact) => {
+        // 找 type=text 的 input（联系方式字段）
+        const inputs = document.querySelectorAll('input.uni-input-input[type="text"], input[type="text"]')
+        for (const input of inputs) {
+          if (input.offsetParent !== null) {
+            const nativeInputValueSetter = Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value').set
+            nativeInputValueSetter.call(input, contact)
+            input.dispatchEvent(new Event('input', { bubbles: true }))
+            return true
+          }
         }
         return false
-      }, formData.remark)
-      console.log(`[Booking Skill] 备注填写结果：${remarkFilled}`)
+      }, formData.contact)
+      console.log(`[Booking Skill] 联系方式填写结果：${contactFilled}`)
       await page.waitForTimeout(500)
     }
 
@@ -698,9 +698,9 @@ module.exports = async function (input) {
 
 1. **预约人数**（例如：1人、2人）
 2. **预约时间**（例如：3月26日）
-3. **备注需求**（可选，例如：想做水光针）
+3. **联系方式**（手机号或微信号）
 
-👉 直接回复，例如："**2人，3月26日，想做皮肤检测**"`
+👉 直接回复，例如："**2人，3月26日，13800138000**"`
     }
 
     // ——————————————————————————————————————————
@@ -723,7 +723,7 @@ module.exports = async function (input) {
 
 其他信息可选：
 • 预约人数（默认1人）
-• 备注需求（可选）`
+• 联系方式（手机号或微信号）`
       }
 
       const result = await fillBookingForm(hospital.url, hospital.booking_url, formData)
@@ -734,7 +734,7 @@ module.exports = async function (input) {
 📋 **预约信息摘要：**
 • 🏥 机构：${hospital.name}
 • 👥 人数：${formData.persons} 人
-• 📅 时间：${formData.dateText}${formData.remark ? `\n• 📝 备注：${formData.remark}` : ''}
+• 📅 时间：${formData.dateText}${formData.contact ? `\n• 📞 联系方式：${formData.contact}` : ''}
 
 🎉 提交成功！BeautsGO 平台会尽快联系机构为你匹配时间，确认短信将发送到你的账号绑定手机。
 
@@ -745,7 +745,7 @@ module.exports = async function (input) {
 你可以在已打开的浏览器中手动完成填写：
 1. 选择预约人数
 2. 选择预约时间（${formData.dateText}）
-3. 勾选服务条款
+3. 填写联系方式
 4. 点击"去付款"提交
 
 如需其他帮助，随时告诉我！`
