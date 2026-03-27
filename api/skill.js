@@ -3,7 +3,6 @@ const hospitals = require('../data/hospitals.json')
 const { matchHospital } = require('../core/resolver')
 const { extractHospitalKeyword } = require('../core/preprocessor')
 const { openUrl } = require('./browser/open-url')
-const { clickConsult } = require('./browser/consult')
 const { fillForm } = require('./browser/fill-form')
 
 /**
@@ -53,6 +52,31 @@ function detectIntent(query, hospitalNames = []) {
 
   // 默认：含有医院名 or 含有问询词 → 查看预约流程
   return 'view'
+}
+
+/**
+ * 从 hospital.url 推导咨询页 URL
+ *
+ * URL 规则：
+ *   详情页：https://i.beautsgo.com/cn/hospital/<slug>?from=skill
+ *   咨询页：https://i.beautsgo.com/cn/hospital/<slug>-chat
+ *
+ * 优先使用 hospital.chat_url（如果有），否则自动推导
+ */
+function getChatUrl(hospital) {
+  if (hospital.chat_url) return hospital.chat_url
+
+  // 从 url 提取 slug（去掉查询参数）
+  try {
+    const parsed = new URL(hospital.url)
+    // pathname 形如 /cn/hospital/<slug>
+    const slug = parsed.pathname.replace(/^\/cn\/hospital\//, '').replace(/\/$/, '')
+    return `https://i.beautsgo.com/cn/hospital/${slug}-chat`
+  } catch (e) {
+    // url 解析失败时兜底：直接拼
+    const base = hospital.url.split('?')[0].replace(/\/$/, '')
+    return `${base}-chat`
+  }
 }
 
 /**
@@ -124,19 +148,6 @@ async function fillBookingForm(url, bookingUrl, formData) {
     return { success: true, message: '预约已提交' }
   } catch (err) {
     return { success: false, message: err.message }
-  }
-}
-
-/**
- * 包装 clickConsult 脚本
- */
-async function clickConsultButton(url) {
-  try {
-    await clickConsult(url)
-    return true
-  } catch (err) {
-    console.error('[Booking Skill] clickConsultButton error:', err.message)
-    return false
   }
 }
 
@@ -353,7 +364,7 @@ module.exports = async function (input) {
     }
 
     // ——————————————————————————————————————————
-    // 第4轮：自动点击咨询按钮
+    // 第4轮：咨询客服 → 直接打开咨询页
     // ——————————————————————————————————————————
     if (intent === 'consult') {
       const hospital = resolveHospital()
@@ -362,33 +373,25 @@ module.exports = async function (input) {
         return '❌ 我还不知道你要咨询哪家医院，请告诉我医院名称，例如"帮我咨询JD皮肤科"。'
       }
 
-      await openUrl(hospital.url).catch(() => {})
-      const clicked = await clickConsultButton(hospital.url)
+      const chatUrl = getChatUrl(hospital)
+      const opened = await openUrl(chatUrl).then(() => true).catch(() => false)
 
-      if (clicked) {
-        return `✅ 已帮你打开 **${hospital.name}** 的在线客服对话！
+      if (opened) {
+        return `✅ 已为你打开 **${hospital.name}** 的在线客服对话页面！
 
-我已经：
-1. 打开了医院页面
-2. 自动点击了"咨询一下"按钮
+客服页面：${chatUrl}
 
-现在客服对话窗口应该已打开，你可以直接：
+你可以直接向客服咨询：
 • 询问价格和套餐详情
 • 询问指定医生是否有档期
 • 确认预约时间
 • 了解术前术后注意事项
 
-如果对话窗口没有自动打开，请手动点击页面上的"咨询一下"按钮。
-
 还需要预约或其他帮助吗？`
       } else {
-        return `⚠️ 自动点击咨询按钮未成功，但页面已为你打开。
+        return `⚠️ 自动打开咨询页面失败，请手动访问：
 
-请在浏览器中手动操作：
-1. 找到页面上的"咨询一下"按钮（通常在页面右上方）
-2. 点击后会打开在线客服对话窗口
-
-医院页面：${hospital.url}
+${chatUrl}
 
 除了网页客服，你也可以通过：
 • 微信公众号搜索「BeautsGO 彼此美 APP」
