@@ -71,17 +71,16 @@ async function fillForm(bookingUrl, persons, dateText, contact) {
 
       if (targetDay) {
         const dateClicked = await page.evaluate((day) => {
-          for (const el of document.querySelectorAll('*')) {
-            const text = (el.textContent || '').trim()
-            if (text === String(day) && el.offsetParent !== null) {
-              const cls = el.className || ''
-              if (cls.includes('day') || cls.includes('date') || cls.includes('calendar') ||
-                  el.closest('[class*="calendar"]') || el.closest('[class*="date"]') ||
-                  el.closest('.u-popup')) {
-                el.click(); return true
+          // 优先：在 .u-calendar 内找 SPAN 文本匹配的日期格子
+          const calendar = document.querySelector('.u-calendar')
+          if (calendar && calendar.offsetParent !== null) {
+            for (const span of calendar.querySelectorAll('span')) {
+              if ((span.textContent || '').trim() === String(day) && span.offsetParent !== null) {
+                span.click(); return true
               }
             }
           }
+          // 降级：在所有可见 .u-popup 内找
           for (const popup of document.querySelectorAll('.u-popup')) {
             if (popup.offsetParent !== null) {
               for (const el of popup.querySelectorAll('*')) {
@@ -98,6 +97,10 @@ async function fillForm(bookingUrl, persons, dateText, contact) {
         await page.waitForTimeout(1500)
 
         const nextClicked = await page.evaluate(() => {
+          // 优先：u-calendar__confirm 按钮
+          const confirm = document.querySelector('.u-calendar__confirm')
+          if (confirm && confirm.offsetParent !== null) { confirm.click(); return true }
+          // 降级：文本匹配
           for (const el of document.querySelectorAll('*')) {
             const text = (el.textContent || '').trim()
             if ((text === '下一步' || text === '确定' || text === '完成') && el.offsetParent !== null) {

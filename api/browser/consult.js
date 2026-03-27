@@ -20,10 +20,21 @@ async function createAuthorizedPage(url) {
       '--disable-external-intent-requests',
       '--disable-features=ExternalProtocolDialog',
       '--no-default-browser-check',
+      // 禁用 Web 安全策略，解决 CORS + 私有网络访问限制（api.yestokr.com 被拦截导致白屏）
+      '--disable-web-security',
+      '--disable-features=BlockInsecurePrivateNetworkRequests,PrivateNetworkAccessSendPreflights',
+      '--allow-running-insecure-content',
+      '--no-sandbox',
     ]
   })
 
+  // uni-app 需要手机 UA 才能正常渲染
   const context = await browser.newContext({
+    userAgent: 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1',
+    viewport: { width: 390, height: 844 },
+    deviceScaleFactor: 3,
+    isMobile: true,
+    hasTouch: true,
     permissions: ['geolocation', 'notifications', 'clipboard-read', 'clipboard-write'],
     bypassCSP: true,
   })
