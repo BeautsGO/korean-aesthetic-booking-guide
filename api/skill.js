@@ -16,9 +16,10 @@ const http = require('http')
  *
  * @param {string} query 用户输入
  * @param {string[]} hospitalNames 所有医院名（用于检测输入是否含有医院名）
+ * @param {object} context 跨轮上下文（用于 fill_form 判断）
  * @returns {string} 意图类型：'view' | 'open' | 'book' | 'consult' | 'price'
  */
-function detectIntent(query, hospitalNames = []) {
+function detectIntent(query, hospitalNames = [], context = {}) {
   const q = query.trim()
   const qLower = q.toLowerCase()
 
@@ -26,6 +27,9 @@ function detectIntent(query, hospitalNames = []) {
   const containsHospitalName = hospitalNames.some(name =>
     qLower.includes(name.toLowerCase())
   )
+
+  // ——— 是否有上下文传入的医院（用于 fill_form 判断）———
+  const hasContextHospital = !!(context.resolvedHospital && context.resolvedHospital.name)
 
   // ——— 严格操作词检测（只有短句纯操作词才触发自动化）———
   const isOpenIntent = /^(打开链接|打开页面|帮我打开|打开医院页面)$/.test(q.trim())
@@ -43,15 +47,15 @@ function detectIntent(query, hospitalNames = []) {
     /^(查价格|看价格|打开价格|价格页面)$/.test(q.trim())
 
   // ——— fill_form：用户提供预约信息（人数 + 时间 / 继续填写 / 提交）———
-  // 识别策略：输入包含数字人数、日期词、"继续填写"、"填写信息"等关键词
+  // 识别策略：
+  // - 明确填表关键词（无需上下文）
+  // - 含人数词 / 日期词：必须同时有 context.resolvedHospital（第3轮之后），防止泛意图误触发
   const isFillFormIntent =
     /^(继续填写|填写信息|帮我填写|提交预约|确认预约)$/.test(q.trim()) ||
-    // 包含人数词（N人、N位）
-    (/\d+\s*(人|位)/.test(q) && !containsHospitalName) ||
-    // 包含日期（3月25日 / 25号 / 2026-03-25 等）
-    (/\d+(月|号|日|\/|-)\d*/.test(q) && !containsHospitalName) ||
-    // context 明确标记为 fill_form 阶段
-    false
+    // 包含人数词（N人、N位）—— 必须有上下文医院
+    (/\d+\s*(人|位)/.test(q) && !containsHospitalName && hasContextHospital) ||
+    // 包含日期（3月25日 / 25号 / 2026-03-25 等）—— 必须有上下文医院
+    (/\d+(月|号|日|\/|-)\d*/.test(q) && !containsHospitalName && hasContextHospital)
 
   if (isFillFormIntent) return 'fill_form'
   if (isPriceIntent) return 'price'
@@ -251,7 +255,7 @@ module.exports = async function (input) {
 
   // 预先加载所有医院名，用于意图识别的歧义消除
   const allHospitalNames = getAllHospitalNames(hospitals)
-  const intent = detectIntent(query, allHospitalNames)
+  const intent = detectIntent(query, allHospitalNames, context)
 
   /**
    * 获取当前医院对象的统一方法
@@ -321,35 +325,117 @@ module.exports = async function (input) {
       const hospital = matchHospital(keyword, hospitals)
 
       // ——————————————————————————————————————————
-      // 兜底：匹配不到医院名 → 主动引导推荐
+      // 兜底：匹配不到医院名 → 按项目类型给推荐列表
       // 场景："我在首尔打算做脸" / "想做皮肤管理" 等泛意图输入
       // ——————————————————————————————————————————
       if (!hospital) {
-        // 从输入中尝试识别项目类型，用于更精准的引导
+        // 精选推荐库（按项目类型，医院名必须存在于 hospitals.json）
+        const RECOMMEND_MAP = {
+          skin: {
+            label: '皮肤管理 / 护肤',
+            items: [
+              { name: 'JD皮肤科',         note: '水光针/皮肤管理，网红爆款' },
+              { name: '德安皮肤科',        note: '激光嫩肤、综合护理' },
+              { name: 'AMRED皮肤科医院',   note: '医疗级护肤，口碑好' },
+              { name: 'dayone皮肤科总院',  note: '多项目一站式护肤管理' },
+              { name: 'CNP皮肤科狎鸥亭店', note: '清洁护理、注射类' },
+            ],
+          },
+          eye: {
+            label: '眼部整形',
+            items: [
+              { name: 'ID医院',               note: '多项目一站式，名气大' },
+              { name: '原辰整形外科医院&皮肤科', note: '双眼皮、眼部综合' },
+            ],
+          },
+          nose: {
+            label: '鼻部整形',
+            items: [
+              { name: 'ID医院',               note: '鼻综合、隆鼻' },
+              { name: '原辰整形外科医院&皮肤科', note: '鼻部整形专业' },
+            ],
+          },
+          inject: {
+            label: '注射美容（玻尿酸/肉毒素）',
+            items: [
+              { name: 'JD皮肤科',         note: '水光针/玻尿酸，最受欢迎' },
+              { name: '德安皮肤科',        note: '注射美容专业' },
+              { name: 'AMRED皮肤科医院',   note: '肉毒素注射' },
+            ],
+          },
+          laser: {
+            label: '激光 / 光子',
+            items: [
+              { name: 'JD皮肤科',         note: '皮秒、点阵激光' },
+              { name: 'AMRED皮肤科医院',   note: '激光嫩肤' },
+              { name: 'dayone皮肤科总院',  note: '光子嫩肤' },
+            ],
+          },
+          face: {
+            label: '面部轮廓 / 面部整形',
+            items: [
+              { name: 'ID医院',               note: '轮廓三件套，名气大' },
+              { name: '原辰整形外科医院&皮肤科', note: '下颌/颧骨综合' },
+            ],
+          },
+          breast: {
+            label: '胸部整形',
+            items: [
+              { name: 'MD胸部外科医院', note: '胸部专科，专业度高' },
+            ],
+          },
+          body: {
+            label: '体雕 / 吸脂',
+            items: [
+              { name: 'ID医院',               note: '吸脂、体雕综合' },
+              { name: '原辰整形外科医院&皮肤科', note: '体型管理' },
+            ],
+          },
+        }
+
+        // 识别项目类型
         const qLower = query.toLowerCase()
-        let projectHint = ''
-        if (/皮肤管理|护肤|补水|美白|祛斑|肤质/.test(query)) projectHint = '皮肤管理/护肤'
-        else if (/双眼皮|眼皮|眼型|开眼角/.test(query)) projectHint = '眼部整形'
-        else if (/鼻子|隆鼻|鼻型/.test(query)) projectHint = '鼻部整形'
-        else if (/玻尿酸|肉毒素|botox|填充|注射/.test(qLower)) projectHint = '注射美容'
-        else if (/激光|皮秒|光子|点阵/.test(query)) projectHint = '激光项目'
-        else if (/脸|轮廓|下颌|颧骨|面部/.test(query)) projectHint = '面部项目'
-        else if (/胸|胸部|隆胸/.test(query)) projectHint = '胸部项目'
-        else if (/吸脂|瘦身|体型/.test(query)) projectHint = '体雕项目'
+        let category = null
+        if (/皮肤管理|护肤|补水|美白|祛斑|肤质|做脸/.test(query)) category = 'skin'
+        else if (/双眼皮|眼皮|眼型|开眼角/.test(query)) category = 'eye'
+        else if (/鼻子|隆鼻|鼻型/.test(query)) category = 'nose'
+        else if (/玻尿酸|肉毒素|botox|填充|注射/.test(qLower)) category = 'inject'
+        else if (/激光|皮秒|光子|点阵/.test(query)) category = 'laser'
+        else if (/脸|轮廓|下颌|颧骨|面部/.test(query)) category = 'face'
+        else if (/胸|胸部|隆胸/.test(query)) category = 'breast'
+        else if (/吸脂|瘦身|体型/.test(query)) category = 'body'
 
-        const projectLine = projectHint
-          ? `你提到的是 **${projectHint}** 相关，`
-          : ''
+        if (category) {
+          // 有项目意图 → 给精选推荐列表
+          const rec = RECOMMEND_MAP[category]
+          // 从 hospitals.json 查找对应链接
+          const lines = rec.items.map(item => {
+            const h = hospitals.find(h => h.name === item.name)
+            if (!h) return null
+            return `• **${item.name}** — ${item.note}`
+          }).filter(Boolean)
 
-        return `你好！${projectLine}BeautsGO 平台收录了首尔 900+ 家正规医美机构，可以帮你找到合适的医院并完成预约 🏥
+          return `🏥 **${rec.label}** 推荐 — BeautsGO 平台口碑机构：
 
-请告诉我：
+${lines.join('\n')}
 
-**你有偏好的医院或品牌吗？**
-• 有的话直接告诉我名字，例如"JD皮肤科"、"ID医院"
-• 没有的话，告诉我 **想做的项目**，我帮你推荐适合的机构
+👉 **直接说医院名字**，我帮你查预约流程
+例如："JD皮肤科怎么预约" 或 "帮我预约德安皮肤科"`
+        } else {
+          // 无项目意图 → 通用引导
+          return `你好！BeautsGO 平台收录了首尔 900+ 家正规医美机构 🏥
 
-👉 你想怎么做？`
+**皮肤管理 / 护肤** 口碑首选：
+• JD皮肤科 — 水光针/皮肤管理，网红爆款
+• 德安皮肤科 — 激光嫩肤、综合护理
+• AMRED皮肤科医院 — 医疗级护肤
+
+**整形手术** 口碑首选：
+• ID医院 — 面部轮廓/眼鼻综合，名气大
+• 原辰整形外科医院 — 综合整形，资历深
+
+👉 告诉我你想做的项目或医院名，我帮你查预约流程`
+        }
       }
 
       const guide = await getBookingGuide(query, lang)
