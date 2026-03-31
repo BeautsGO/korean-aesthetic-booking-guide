@@ -316,16 +316,46 @@ module.exports = async function (input) {
     // 解析医院并写入返回值，供后续轮次使用
     // ——————————————————————————————————————————
     if (intent === 'view') {
-      const guide = await getBookingGuide(query, lang)
-
-      // 解析医院信息写入 context（供后续轮次跨轮读取）
+      // 解析医院信息
       const keyword = extractHospitalKeyword(query)
       const hospital = matchHospital(keyword, hospitals)
 
+      // ——————————————————————————————————————————
+      // 兜底：匹配不到医院名 → 主动引导推荐
+      // 场景："我在首尔打算做脸" / "想做皮肤管理" 等泛意图输入
+      // ——————————————————————————————————————————
+      if (!hospital) {
+        // 从输入中尝试识别项目类型，用于更精准的引导
+        const qLower = query.toLowerCase()
+        let projectHint = ''
+        if (/皮肤管理|护肤|补水|美白|祛斑|肤质/.test(query)) projectHint = '皮肤管理/护肤'
+        else if (/双眼皮|眼皮|眼型|开眼角/.test(query)) projectHint = '眼部整形'
+        else if (/鼻子|隆鼻|鼻型/.test(query)) projectHint = '鼻部整形'
+        else if (/玻尿酸|肉毒素|botox|填充|注射/.test(qLower)) projectHint = '注射美容'
+        else if (/激光|皮秒|光子|点阵/.test(query)) projectHint = '激光项目'
+        else if (/脸|轮廓|下颌|颧骨|面部/.test(query)) projectHint = '面部项目'
+        else if (/胸|胸部|隆胸/.test(query)) projectHint = '胸部项目'
+        else if (/吸脂|瘦身|体型/.test(query)) projectHint = '体雕项目'
+
+        const projectLine = projectHint
+          ? `你提到的是 **${projectHint}** 相关，`
+          : ''
+
+        return `你好！${projectLine}BeautsGO 平台收录了首尔 900+ 家正规医美机构，可以帮你找到合适的医院并完成预约 🏥
+
+请告诉我：
+
+**你有偏好的医院或品牌吗？**
+• 有的话直接告诉我名字，例如"JD皮肤科"、"ID医院"
+• 没有的话，告诉我 **想做的项目**，我帮你推荐适合的机构
+
+👉 你想怎么做？`
+      }
+
+      const guide = await getBookingGuide(query, lang)
+
       // 通过 __context__ 字段返回需要持久化的状态（由 AI 框架注入到下一轮 context）
-      const hospitalHint = hospital
-        ? `\n\n<!-- __context__:resolvedHospital=${JSON.stringify({ name: hospital.name, url: hospital.url, en_name: hospital.en_name })} lastQuery=${encodeURIComponent(query)} -->`
-        : ''
+      const hospitalHint = `\n\n<!-- __context__:resolvedHospital=${JSON.stringify({ name: hospital.name, url: hospital.url, en_name: hospital.en_name })} lastQuery=${encodeURIComponent(query)} -->`
 
       return `${guide}
 
@@ -333,16 +363,16 @@ module.exports = async function (input) {
 💡 **接下来，选择你想要的操作：**
 
 📖 **打开医院页面**
-说"打开链接" → 我帮你打开 ${hospital ? hospital.name : '医院'} 的页面
+说"打开链接" → 我帮你打开 ${hospital.name} 的页面
 
 💰 **查看价格表**
-说"查价格" → 我帮你打开 ${hospital ? hospital.name : '医院'} 的价格表页面
+说"查价格" → 我帮你打开 ${hospital.name} 的价格表页面
 
-⚡ **自动预约**
-说"帮我预约" → 我帮你自动点击【预约面诊】按钮，跳转到预约表单
+⚡ **直接预约**
+说"帮我预约" → 填写人数/时间，直接提交预约
 
 💬 **在线咨询**
-说"咨询客服" → 我帮你自动点击【咨询一下】按钮，联系医院客服
+说"咨询客服" → 打开 ${hospital.name} 的在线客服页面
 
 ---
 你想做哪个？${hospitalHint}`
