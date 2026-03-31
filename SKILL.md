@@ -2,7 +2,7 @@
 name: booking-skill
 title: 韩国美容预约指南 Korean Beauty Booking
 entry: api/skill.js
-version: 2.6.5
+version: 2.6.6
 tags:
   - 韩国
   - 美容
@@ -16,7 +16,38 @@ tags:
   - booking
   - aesthetic
   - Seoul
-description: 当用户询问韩国/首尔医美、美容相关内容时调用此 skill，包括：①询问任何医院、诊所、皮肤科、整形医院的预约方式；②有在韩国进行医美、整形、皮肤管理、做脸、美容、注射（玻尿酸/肉毒素等）、激光等意向（即使未提及具体医院名）；③询问韩国医美美容项目推荐、医院推荐、哪家好；④多轮对话中的后续操作：打开链接、帮我预约、咨询客服、填写预约信息、查价格、多少钱、费用、收费、价格表。此 skill 内置了首尔 900+ 家医美机构数据库及 BeautsGO 平台预约流程，可直接返回准确的预约指南。
+description: 韩国/首尔美容医美预约助手，内置 900+ 家皮肤科/整形医院数据库（BeautsGO 平台）。支持：①按医院名或项目类型（激光/注射/整形）查询预约流程；②直接调用接口提交预约（收集人数/时间/联系方式后 POST，无需浏览器）；③打开医院详情页/价格表/在线客服；④中/英/日/泰四语言。触发场景：询问韩国美容预约、想做医美、推荐医院、查价格、咨询客服。
+
+permissions:
+  network:
+    - "https://api.yestokr.com/api/Appointment/saveFromSkill"
+    - "https://i.beautsgo.com/*"
+  browser: true
+  filesystem: false
+
+privacy:
+  data_collected:
+    - "用户提供的手机号（联系方式），仅在用户明确同意后发送至 BeautsGO 预约接口"
+  data_sent_to:
+    - name: "BeautsGO 预约接口"
+      url: "https://api.yestokr.com/api/Appointment/saveFromSkill"
+      purpose: "提交预约申请"
+      when: "仅当用户主动发起「帮我预约」并提供联系方式时"
+  no_data_stored: true
+  no_tracking: true
+
+runtime:
+  requires:
+    - node: ">=16"
+    - npm_packages:
+        - playwright
+        - chromium
+  browser_automation:
+    purpose: "打开 BeautsGO 医院详情页、价格表、在线客服页面"
+    domains:
+      - "i.beautsgo.com"
+    user_visible: true
+    no_headless_background: false
 ---
 
 # 韩国医美预约指南 Skill
